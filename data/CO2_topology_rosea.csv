@@ -1,0 +1,609 @@
+source,target,weight,abs_weight,Source_names,Target_names
+BGAL1 (OG0000198::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),TPS10 (OG0000172::H1_transcript)
+PFK3 (OG0000572::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),TPS10 (OG0000172::H1_transcript)
+KCR1 (OG0001037::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),TPS10 (OG0000172::H1_transcript)
+PPC16 (OG0001285::H1_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),TPS10 (OG0000172::H1_transcript)
+ACO1 (OG0001386::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),TPS10 (OG0000172::H1_transcript)
+RFS1 (OG0002029::H1_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),TPS10 (OG0000172::H1_transcript)
+KAT1 (OG0002639::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),TPS10 (OG0000172::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),TPS10 (OG0000172::H1_transcript)
+PGLP1B (OG0003380::H1_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),TPS10 (OG0000172::H1_transcript)
+GDCSP (OG0005683::H1_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),TPS10 (OG0000172::H1_transcript)
+GDCSH (OG0005754::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),TPS10 (OG0000172::H1_transcript)
+CRY1 (OG0006036::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),TPS10 (OG0000172::H1_transcript)
+LPD1 (OG0006212::H1_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),TPS10 (OG0000172::H1_transcript)
+PCF1 (OG0000692::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),TPS10 (OG0000172::H1_transcript)
+NA,TPS10 (OG0000172::H1_transcript),1.0,1.0,NA,TPS10 (OG0000172::H1_transcript)
+NA,TPS10 (OG0000172::H1_transcript),1.0,1.0,NA,TPS10 (OG0000172::H1_transcript)
+NA,TPS10 (OG0000172::H1_transcript),1.0,1.0,NA,TPS10 (OG0000172::H1_transcript)
+NADP-ME4 (OG0000843::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),TPS10 (OG0000172::H1_transcript)
+PPC16 (OG0001285::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),TPS10 (OG0000172::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),TPS10 (OG0000172::H1_transcript)
+RVE1 (OG0002594::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),TPS10 (OG0000172::H1_transcript)
+NA,TPS10 (OG0000172::H1_transcript),1.0,1.0,NA,TPS10 (OG0000172::H1_transcript)
+NA,TPS10 (OG0000172::H1_transcript),1.0,1.0,NA,TPS10 (OG0000172::H1_transcript)
+BAM1 (OG0004988::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),TPS10 (OG0000172::H1_transcript)
+PGM1 (OG0006117::H2_transcript),TPS10 (OG0000172::H1_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),TPS10 (OG0000172::H1_transcript)
+Asparagine,TPS10 (OG0000172::H1_transcript),1.0,1.0,Asparagine,TPS10 (OG0000172::H1_transcript)
+Glycine,TPS10 (OG0000172::H1_transcript),1.0,1.0,Glycine,TPS10 (OG0000172::H1_transcript)
+Malate,TPS10 (OG0000172::H1_transcript),1.0,1.0,Malate,TPS10 (OG0000172::H1_transcript)
+Pyruvate,TPS10 (OG0000172::H1_transcript),1.0,1.0,Pyruvate,TPS10 (OG0000172::H1_transcript)
+TPS10 (OG0000172::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+PFK3 (OG0000572::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+ACO1 (OG0001386::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+RFS1 (OG0002029::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+GDCSP (OG0005683::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+GDCSH (OG0005754::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+CRY1 (OG0006036::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+LPD1 (OG0006212::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+PPC16 (OG0001285::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+RVE1 (OG0002594::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+PGM1 (OG0006117::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+Malate,BGAL1 (OG0000198::H2_transcript),1.0,1.0,Malate,BGAL1 (OG0000198::H2_transcript)
+Pyruvate,BGAL1 (OG0000198::H2_transcript),1.0,1.0,Pyruvate,BGAL1 (OG0000198::H2_transcript)
+TPS10 (OG0000172::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PFK3 (OG0000572::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PFK3 (OG0000572::H2_transcript)
+KCR1 (OG0001037::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),PFK3 (OG0000572::H2_transcript)
+PPC16 (OG0001285::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),PFK3 (OG0000572::H2_transcript)
+ACO1 (OG0001386::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),PFK3 (OG0000572::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),PFK3 (OG0000572::H2_transcript)
+RFS1 (OG0002029::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PFK3 (OG0000572::H2_transcript)
+KAT1 (OG0002639::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),PFK3 (OG0000572::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PFK3 (OG0000572::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),PFK3 (OG0000572::H2_transcript)
+FBP (OG0004413::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),PFK3 (OG0000572::H2_transcript)
+GDCSP (OG0005683::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PFK3 (OG0000572::H2_transcript)
+GDCSH (OG0005754::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),PFK3 (OG0000572::H2_transcript)
+CRY1 (OG0006036::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),PFK3 (OG0000572::H2_transcript)
+LPD1 (OG0006212::H1_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),PFK3 (OG0000572::H2_transcript)
+PCF1 (OG0000692::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),PFK3 (OG0000572::H2_transcript)
+NA,PFK3 (OG0000572::H2_transcript),1.0,1.0,NA,PFK3 (OG0000572::H2_transcript)
+NA,PFK3 (OG0000572::H2_transcript),1.0,1.0,NA,PFK3 (OG0000572::H2_transcript)
+NA,PFK3 (OG0000572::H2_transcript),1.0,1.0,NA,PFK3 (OG0000572::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),PFK3 (OG0000572::H2_transcript)
+PPC16 (OG0001285::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),PFK3 (OG0000572::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),PFK3 (OG0000572::H2_transcript)
+RVE1 (OG0002594::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),PFK3 (OG0000572::H2_transcript)
+NA,PFK3 (OG0000572::H2_transcript),1.0,1.0,NA,PFK3 (OG0000572::H2_transcript)
+NA,PFK3 (OG0000572::H2_transcript),1.0,1.0,NA,PFK3 (OG0000572::H2_transcript)
+BAM1 (OG0004988::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),PFK3 (OG0000572::H2_transcript)
+PGM1 (OG0006117::H2_transcript),PFK3 (OG0000572::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),PFK3 (OG0000572::H2_transcript)
+fabZ (OG0005337::H1_protein),PFK3 (OG0000572::H2_transcript),1.0,1.0,fabZ (OG0005337::H1_protein),PFK3 (OG0000572::H2_transcript)
+Asparagine,PFK3 (OG0000572::H2_transcript),1.0,1.0,Asparagine,PFK3 (OG0000572::H2_transcript)
+Glycine,PFK3 (OG0000572::H2_transcript),1.0,1.0,Glycine,PFK3 (OG0000572::H2_transcript)
+Malate,PFK3 (OG0000572::H2_transcript),1.0,1.0,Malate,PFK3 (OG0000572::H2_transcript)
+Pyruvate,PFK3 (OG0000572::H2_transcript),1.0,1.0,Pyruvate,PFK3 (OG0000572::H2_transcript)
+TPS10 (OG0000172::H1_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),KCR1 (OG0001037::H2_transcript)
+PFK3 (OG0000572::H2_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),KCR1 (OG0001037::H2_transcript)
+PPC16 (OG0001285::H1_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),KCR1 (OG0001037::H2_transcript)
+RFS1 (OG0002029::H1_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),KCR1 (OG0001037::H2_transcript)
+KAT1 (OG0002639::H2_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),KCR1 (OG0001037::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),KCR1 (OG0001037::H2_transcript)
+GDCSP (OG0005683::H1_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),KCR1 (OG0001037::H2_transcript)
+NA,KCR1 (OG0001037::H2_transcript),1.0,1.0,NA,KCR1 (OG0001037::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),KCR1 (OG0001037::H2_transcript)
+BAM1 (OG0004988::H2_transcript),KCR1 (OG0001037::H2_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),KCR1 (OG0001037::H2_transcript)
+Glycine,KCR1 (OG0001037::H2_transcript),1.0,1.0,Glycine,KCR1 (OG0001037::H2_transcript)
+TPS10 (OG0000172::H1_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PPC16 (OG0001285::H1_transcript)
+PFK3 (OG0000572::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),PPC16 (OG0001285::H1_transcript)
+KCR1 (OG0001037::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),PPC16 (OG0001285::H1_transcript)
+RFS1 (OG0002029::H1_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PPC16 (OG0001285::H1_transcript)
+KAT1 (OG0002639::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),PPC16 (OG0001285::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PPC16 (OG0001285::H1_transcript)
+PGLP1B (OG0003380::H1_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),PPC16 (OG0001285::H1_transcript)
+FBP (OG0004413::H1_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),PPC16 (OG0001285::H1_transcript)
+GDCSP (OG0005683::H1_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PPC16 (OG0001285::H1_transcript)
+NA,PPC16 (OG0001285::H1_transcript),1.0,1.0,NA,PPC16 (OG0001285::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),PPC16 (OG0001285::H1_transcript)
+NA,PPC16 (OG0001285::H1_transcript),1.0,1.0,NA,PPC16 (OG0001285::H1_transcript)
+BAM1 (OG0004988::H2_transcript),PPC16 (OG0001285::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),PPC16 (OG0001285::H1_transcript)
+At1g67280 (OG0003835::H1_protein),PPC16 (OG0001285::H1_transcript),1.0,1.0,At1g67280 (OG0003835::H1_protein),PPC16 (OG0001285::H1_transcript)
+Asparagine,PPC16 (OG0001285::H1_transcript),1.0,1.0,Asparagine,PPC16 (OG0001285::H1_transcript)
+Glycine,PPC16 (OG0001285::H1_transcript),1.0,1.0,Glycine,PPC16 (OG0001285::H1_transcript)
+TPS10 (OG0000172::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),ACO1 (OG0001386::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),ACO1 (OG0001386::H2_transcript)
+PFK3 (OG0000572::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),ACO1 (OG0001386::H2_transcript)
+RFS1 (OG0002029::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),ACO1 (OG0001386::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),ACO1 (OG0001386::H2_transcript)
+GDCSP (OG0005683::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),ACO1 (OG0001386::H2_transcript)
+GDCSH (OG0005754::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),ACO1 (OG0001386::H2_transcript)
+CRY1 (OG0006036::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),ACO1 (OG0001386::H2_transcript)
+LPD1 (OG0006212::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),ACO1 (OG0001386::H2_transcript)
+PPC16 (OG0001285::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),ACO1 (OG0001386::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),ACO1 (OG0001386::H2_transcript)
+RVE1 (OG0002594::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+PGM1 (OG0006117::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),ACO1 (OG0001386::H2_transcript)
+Asparagine,ACO1 (OG0001386::H2_transcript),1.0,1.0,Asparagine,ACO1 (OG0001386::H2_transcript)
+Malate,ACO1 (OG0001386::H2_transcript),1.0,1.0,Malate,ACO1 (OG0001386::H2_transcript)
+Pyruvate,ACO1 (OG0001386::H2_transcript),1.0,1.0,Pyruvate,ACO1 (OG0001386::H2_transcript)
+PFK3 (OG0000572::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+GDCSP (OG0005683::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+TPS10 (OG0000172::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),RFS1 (OG0002029::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),RFS1 (OG0002029::H1_transcript)
+PFK3 (OG0000572::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),RFS1 (OG0002029::H1_transcript)
+KCR1 (OG0001037::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),RFS1 (OG0002029::H1_transcript)
+PPC16 (OG0001285::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),RFS1 (OG0002029::H1_transcript)
+ACO1 (OG0001386::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),RFS1 (OG0002029::H1_transcript)
+KAT1 (OG0002639::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),RFS1 (OG0002029::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),RFS1 (OG0002029::H1_transcript)
+PGLP1B (OG0003380::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),RFS1 (OG0002029::H1_transcript)
+GDCSP (OG0005683::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),RFS1 (OG0002029::H1_transcript)
+GDCSH (OG0005754::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),RFS1 (OG0002029::H1_transcript)
+CRY1 (OG0006036::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),RFS1 (OG0002029::H1_transcript)
+LPD1 (OG0006212::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NADP-ME4 (OG0000843::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),RFS1 (OG0002029::H1_transcript)
+PPC16 (OG0001285::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),RFS1 (OG0002029::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),RFS1 (OG0002029::H1_transcript)
+RVE1 (OG0002594::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+BAM1 (OG0004988::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),RFS1 (OG0002029::H1_transcript)
+PGM1 (OG0006117::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),RFS1 (OG0002029::H1_transcript)
+Asparagine,RFS1 (OG0002029::H1_transcript),1.0,1.0,Asparagine,RFS1 (OG0002029::H1_transcript)
+Glycine,RFS1 (OG0002029::H1_transcript),1.0,1.0,Glycine,RFS1 (OG0002029::H1_transcript)
+Malate,RFS1 (OG0002029::H1_transcript),1.0,1.0,Malate,RFS1 (OG0002029::H1_transcript)
+Pyruvate,RFS1 (OG0002029::H1_transcript),1.0,1.0,Pyruvate,RFS1 (OG0002029::H1_transcript)
+TPS10 (OG0000172::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),KAT1 (OG0002639::H2_transcript)
+PFK3 (OG0000572::H2_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),KAT1 (OG0002639::H2_transcript)
+KCR1 (OG0001037::H2_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),KAT1 (OG0002639::H2_transcript)
+PPC16 (OG0001285::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),KAT1 (OG0002639::H2_transcript)
+RFS1 (OG0002029::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),KAT1 (OG0002639::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),KAT1 (OG0002639::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),KAT1 (OG0002639::H2_transcript)
+FBP (OG0004413::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),KAT1 (OG0002639::H2_transcript)
+GDCSP (OG0005683::H1_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),KAT1 (OG0002639::H2_transcript)
+NA,KAT1 (OG0002639::H2_transcript),1.0,1.0,NA,KAT1 (OG0002639::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),KAT1 (OG0002639::H2_transcript)
+NA,KAT1 (OG0002639::H2_transcript),1.0,1.0,NA,KAT1 (OG0002639::H2_transcript)
+BAM1 (OG0004988::H2_transcript),KAT1 (OG0002639::H2_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),KAT1 (OG0002639::H2_transcript)
+At1g67280 (OG0003835::H1_protein),KAT1 (OG0002639::H2_transcript),1.0,1.0,At1g67280 (OG0003835::H1_protein),KAT1 (OG0002639::H2_transcript)
+Asparagine,KAT1 (OG0002639::H2_transcript),1.0,1.0,Asparagine,KAT1 (OG0002639::H2_transcript)
+Glycine,KAT1 (OG0002639::H2_transcript),1.0,1.0,Glycine,KAT1 (OG0002639::H2_transcript)
+TPS10 (OG0000172::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+PFK3 (OG0000572::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+PPC16 (OG0001285::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+ACO1 (OG0001386::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+RFS1 (OG0002029::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+KAT1 (OG0002639::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+FBP (OG0004413::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+GDCSP (OG0005683::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+GDCSH (OG0005754::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+CRY1 (OG0006036::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+LPD1 (OG0006212::H1_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),ppt-1 (OG0002741::H2_transcript)
+PCF1 (OG0000692::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+NA,ppt-1 (OG0002741::H2_transcript),1.0,1.0,NA,ppt-1 (OG0002741::H2_transcript)
+NA,ppt-1 (OG0002741::H2_transcript),1.0,1.0,NA,ppt-1 (OG0002741::H2_transcript)
+NA,ppt-1 (OG0002741::H2_transcript),1.0,1.0,NA,ppt-1 (OG0002741::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+PPC16 (OG0001285::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+RVE1 (OG0002594::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+NA,ppt-1 (OG0002741::H2_transcript),1.0,1.0,NA,ppt-1 (OG0002741::H2_transcript)
+NA,ppt-1 (OG0002741::H2_transcript),1.0,1.0,NA,ppt-1 (OG0002741::H2_transcript)
+BAM1 (OG0004988::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+PGM1 (OG0006117::H2_transcript),ppt-1 (OG0002741::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),ppt-1 (OG0002741::H2_transcript)
+fabZ (OG0005337::H1_protein),ppt-1 (OG0002741::H2_transcript),1.0,1.0,fabZ (OG0005337::H1_protein),ppt-1 (OG0002741::H2_transcript)
+Asparagine,ppt-1 (OG0002741::H2_transcript),1.0,1.0,Asparagine,ppt-1 (OG0002741::H2_transcript)
+Glycine,ppt-1 (OG0002741::H2_transcript),1.0,1.0,Glycine,ppt-1 (OG0002741::H2_transcript)
+Malate,ppt-1 (OG0002741::H2_transcript),1.0,1.0,Malate,ppt-1 (OG0002741::H2_transcript)
+Pyruvate,ppt-1 (OG0002741::H2_transcript),1.0,1.0,Pyruvate,ppt-1 (OG0002741::H2_transcript)
+TPS10 (OG0000172::H1_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PGLP1B (OG0003380::H1_transcript)
+PFK3 (OG0000572::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+KCR1 (OG0001037::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+PPC16 (OG0001285::H1_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),PGLP1B (OG0003380::H1_transcript)
+RFS1 (OG0002029::H1_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PGLP1B (OG0003380::H1_transcript)
+KAT1 (OG0002639::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+FBP (OG0004413::H1_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),PGLP1B (OG0003380::H1_transcript)
+GDCSP (OG0005683::H1_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PGLP1B (OG0003380::H1_transcript)
+NA,PGLP1B (OG0003380::H1_transcript),1.0,1.0,NA,PGLP1B (OG0003380::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+RVE1 (OG0002594::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+NA,PGLP1B (OG0003380::H1_transcript),1.0,1.0,NA,PGLP1B (OG0003380::H1_transcript)
+BAM1 (OG0004988::H2_transcript),PGLP1B (OG0003380::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),PGLP1B (OG0003380::H1_transcript)
+Asparagine,PGLP1B (OG0003380::H1_transcript),1.0,1.0,Asparagine,PGLP1B (OG0003380::H1_transcript)
+Glycine,PGLP1B (OG0003380::H1_transcript),1.0,1.0,Glycine,PGLP1B (OG0003380::H1_transcript)
+PFK3 (OG0000572::H2_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),FBP (OG0004413::H1_transcript)
+PPC16 (OG0001285::H1_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),FBP (OG0004413::H1_transcript)
+KAT1 (OG0002639::H2_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),FBP (OG0004413::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),FBP (OG0004413::H1_transcript)
+PGLP1B (OG0003380::H1_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),FBP (OG0004413::H1_transcript)
+GDCSP (OG0005683::H1_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),FBP (OG0004413::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),FBP (OG0004413::H1_transcript)
+NA,FBP (OG0004413::H1_transcript),1.0,1.0,NA,FBP (OG0004413::H1_transcript)
+BAM1 (OG0004988::H2_transcript),FBP (OG0004413::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),FBP (OG0004413::H1_transcript)
+Asparagine,FBP (OG0004413::H1_transcript),1.0,1.0,Asparagine,FBP (OG0004413::H1_transcript)
+Glycine,FBP (OG0004413::H1_transcript),1.0,1.0,Glycine,FBP (OG0004413::H1_transcript)
+TPS10 (OG0000172::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),GDCSP (OG0005683::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),GDCSP (OG0005683::H1_transcript)
+PFK3 (OG0000572::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),GDCSP (OG0005683::H1_transcript)
+KCR1 (OG0001037::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),GDCSP (OG0005683::H1_transcript)
+PPC16 (OG0001285::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),GDCSP (OG0005683::H1_transcript)
+ACO1 (OG0001386::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),GDCSP (OG0005683::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GDCSP (OG0005683::H1_transcript)
+RFS1 (OG0002029::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),GDCSP (OG0005683::H1_transcript)
+KAT1 (OG0002639::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),GDCSP (OG0005683::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),GDCSP (OG0005683::H1_transcript)
+PGLP1B (OG0003380::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),GDCSP (OG0005683::H1_transcript)
+FBP (OG0004413::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),GDCSP (OG0005683::H1_transcript)
+GDCSH (OG0005754::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),GDCSP (OG0005683::H1_transcript)
+CRY1 (OG0006036::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),GDCSP (OG0005683::H1_transcript)
+LPD1 (OG0006212::H1_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),GDCSP (OG0005683::H1_transcript)
+PCF1 (OG0000692::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),GDCSP (OG0005683::H1_transcript)
+NA,GDCSP (OG0005683::H1_transcript),1.0,1.0,NA,GDCSP (OG0005683::H1_transcript)
+NA,GDCSP (OG0005683::H1_transcript),1.0,1.0,NA,GDCSP (OG0005683::H1_transcript)
+NA,GDCSP (OG0005683::H1_transcript),1.0,1.0,NA,GDCSP (OG0005683::H1_transcript)
+NADP-ME4 (OG0000843::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),GDCSP (OG0005683::H1_transcript)
+PPC16 (OG0001285::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),GDCSP (OG0005683::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),GDCSP (OG0005683::H1_transcript)
+RVE1 (OG0002594::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),GDCSP (OG0005683::H1_transcript)
+NA,GDCSP (OG0005683::H1_transcript),1.0,1.0,NA,GDCSP (OG0005683::H1_transcript)
+NA,GDCSP (OG0005683::H1_transcript),1.0,1.0,NA,GDCSP (OG0005683::H1_transcript)
+BAM1 (OG0004988::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),GDCSP (OG0005683::H1_transcript)
+PGM1 (OG0006117::H2_transcript),GDCSP (OG0005683::H1_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),GDCSP (OG0005683::H1_transcript)
+At1g67280 (OG0003835::H1_protein),GDCSP (OG0005683::H1_transcript),1.0,1.0,At1g67280 (OG0003835::H1_protein),GDCSP (OG0005683::H1_transcript)
+fabZ (OG0005337::H1_protein),GDCSP (OG0005683::H1_transcript),1.0,1.0,fabZ (OG0005337::H1_protein),GDCSP (OG0005683::H1_transcript)
+Asparagine,GDCSP (OG0005683::H1_transcript),1.0,1.0,Asparagine,GDCSP (OG0005683::H1_transcript)
+Glycine,GDCSP (OG0005683::H1_transcript),1.0,1.0,Glycine,GDCSP (OG0005683::H1_transcript)
+Malate,GDCSP (OG0005683::H1_transcript),1.0,1.0,Malate,GDCSP (OG0005683::H1_transcript)
+Pyruvate,GDCSP (OG0005683::H1_transcript),1.0,1.0,Pyruvate,GDCSP (OG0005683::H1_transcript)
+TPS10 (OG0000172::H1_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),GDCSH (OG0005754::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),GDCSH (OG0005754::H2_transcript)
+PFK3 (OG0000572::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),GDCSH (OG0005754::H2_transcript)
+ACO1 (OG0001386::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),GDCSH (OG0005754::H2_transcript)
+RFS1 (OG0002029::H1_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),GDCSH (OG0005754::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),GDCSH (OG0005754::H2_transcript)
+GDCSP (OG0005683::H1_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),GDCSH (OG0005754::H2_transcript)
+LPD1 (OG0006212::H1_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),GDCSH (OG0005754::H2_transcript)
+NA,GDCSH (OG0005754::H2_transcript),1.0,1.0,NA,GDCSH (OG0005754::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),GDCSH (OG0005754::H2_transcript)
+PPC16 (OG0001285::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),GDCSH (OG0005754::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),GDCSH (OG0005754::H2_transcript)
+RVE1 (OG0002594::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),GDCSH (OG0005754::H2_transcript)
+NA,GDCSH (OG0005754::H2_transcript),1.0,1.0,NA,GDCSH (OG0005754::H2_transcript)
+PGM1 (OG0006117::H2_transcript),GDCSH (OG0005754::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),GDCSH (OG0005754::H2_transcript)
+Pyruvate,GDCSH (OG0005754::H2_transcript),1.0,1.0,Pyruvate,GDCSH (OG0005754::H2_transcript)
+TPS10 (OG0000172::H1_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),CRY1 (OG0006036::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),CRY1 (OG0006036::H2_transcript)
+PFK3 (OG0000572::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),CRY1 (OG0006036::H2_transcript)
+ACO1 (OG0001386::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),CRY1 (OG0006036::H2_transcript)
+RFS1 (OG0002029::H1_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),CRY1 (OG0006036::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),CRY1 (OG0006036::H2_transcript)
+GDCSP (OG0005683::H1_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),CRY1 (OG0006036::H2_transcript)
+NA,CRY1 (OG0006036::H2_transcript),1.0,1.0,NA,CRY1 (OG0006036::H2_transcript)
+NA,CRY1 (OG0006036::H2_transcript),1.0,1.0,NA,CRY1 (OG0006036::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),CRY1 (OG0006036::H2_transcript)
+PPC16 (OG0001285::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),CRY1 (OG0006036::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),CRY1 (OG0006036::H2_transcript)
+RVE1 (OG0002594::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),CRY1 (OG0006036::H2_transcript)
+NA,CRY1 (OG0006036::H2_transcript),1.0,1.0,NA,CRY1 (OG0006036::H2_transcript)
+PGM1 (OG0006117::H2_transcript),CRY1 (OG0006036::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),CRY1 (OG0006036::H2_transcript)
+Pyruvate,CRY1 (OG0006036::H2_transcript),1.0,1.0,Pyruvate,CRY1 (OG0006036::H2_transcript)
+TPS10 (OG0000172::H1_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),LPD1 (OG0006212::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),LPD1 (OG0006212::H1_transcript)
+PFK3 (OG0000572::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),LPD1 (OG0006212::H1_transcript)
+ACO1 (OG0001386::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),LPD1 (OG0006212::H1_transcript)
+RFS1 (OG0002029::H1_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),LPD1 (OG0006212::H1_transcript)
+ppt-1 (OG0002741::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),LPD1 (OG0006212::H1_transcript)
+GDCSP (OG0005683::H1_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),LPD1 (OG0006212::H1_transcript)
+GDCSH (OG0005754::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),LPD1 (OG0006212::H1_transcript)
+NA,LPD1 (OG0006212::H1_transcript),1.0,1.0,NA,LPD1 (OG0006212::H1_transcript)
+NA,LPD1 (OG0006212::H1_transcript),1.0,1.0,NA,LPD1 (OG0006212::H1_transcript)
+NADP-ME4 (OG0000843::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),LPD1 (OG0006212::H1_transcript)
+PPC16 (OG0001285::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),LPD1 (OG0006212::H1_transcript)
+CPRF2 (OG0002063::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),LPD1 (OG0006212::H1_transcript)
+RVE1 (OG0002594::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),LPD1 (OG0006212::H1_transcript)
+NA,LPD1 (OG0006212::H1_transcript),1.0,1.0,NA,LPD1 (OG0006212::H1_transcript)
+PGM1 (OG0006117::H2_transcript),LPD1 (OG0006212::H1_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),LPD1 (OG0006212::H1_transcript)
+Asparagine,LPD1 (OG0006212::H1_transcript),1.0,1.0,Asparagine,LPD1 (OG0006212::H1_transcript)
+Glycine,LPD1 (OG0006212::H1_transcript),1.0,1.0,Glycine,LPD1 (OG0006212::H1_transcript)
+Pyruvate,LPD1 (OG0006212::H1_transcript),1.0,1.0,Pyruvate,LPD1 (OG0006212::H1_transcript)
+TPS10 (OG0000172::H1_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PCF1 (OG0000692::H2_transcript)
+PFK3 (OG0000572::H2_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),PCF1 (OG0000692::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PCF1 (OG0000692::H2_transcript)
+GDCSP (OG0005683::H1_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PCF1 (OG0000692::H2_transcript)
+NA,PCF1 (OG0000692::H2_transcript),1.0,1.0,NA,PCF1 (OG0000692::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),PCF1 (OG0000692::H2_transcript)
+PPC16 (OG0001285::H2_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),PCF1 (OG0000692::H2_transcript)
+RVE1 (OG0002594::H2_transcript),PCF1 (OG0000692::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),PCF1 (OG0000692::H2_transcript)
+NA,PCF1 (OG0000692::H2_transcript),1.0,1.0,NA,PCF1 (OG0000692::H2_transcript)
+TPS10 (OG0000172::H1_transcript),NA,1.0,1.0,TPS10 (OG0000172::H1_transcript),NA
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+PFK3 (OG0000572::H2_transcript),NA,1.0,1.0,PFK3 (OG0000572::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+ppt-1 (OG0002741::H2_transcript),NA,1.0,1.0,ppt-1 (OG0002741::H2_transcript),NA
+GDCSP (OG0005683::H1_transcript),NA,1.0,1.0,GDCSP (OG0005683::H1_transcript),NA
+CRY1 (OG0006036::H2_transcript),NA,1.0,1.0,CRY1 (OG0006036::H2_transcript),NA
+LPD1 (OG0006212::H1_transcript),NA,1.0,1.0,LPD1 (OG0006212::H1_transcript),NA
+NADP-ME4 (OG0000843::H2_transcript),NA,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),NA
+PPC16 (OG0001285::H2_transcript),NA,1.0,1.0,PPC16 (OG0001285::H2_transcript),NA
+CPRF2 (OG0002063::H2_transcript),NA,1.0,1.0,CPRF2 (OG0002063::H2_transcript),NA
+RVE1 (OG0002594::H2_transcript),NA,1.0,1.0,RVE1 (OG0002594::H2_transcript),NA
+PGM1 (OG0006117::H2_transcript),NA,1.0,1.0,PGM1 (OG0006117::H2_transcript),NA
+TPS10 (OG0000172::H1_transcript),NA,1.0,1.0,TPS10 (OG0000172::H1_transcript),NA
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+PFK3 (OG0000572::H2_transcript),NA,1.0,1.0,PFK3 (OG0000572::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+ppt-1 (OG0002741::H2_transcript),NA,1.0,1.0,ppt-1 (OG0002741::H2_transcript),NA
+GDCSP (OG0005683::H1_transcript),NA,1.0,1.0,GDCSP (OG0005683::H1_transcript),NA
+GDCSH (OG0005754::H2_transcript),NA,1.0,1.0,GDCSH (OG0005754::H2_transcript),NA
+CRY1 (OG0006036::H2_transcript),NA,1.0,1.0,CRY1 (OG0006036::H2_transcript),NA
+LPD1 (OG0006212::H1_transcript),NA,1.0,1.0,LPD1 (OG0006212::H1_transcript),NA
+PCF1 (OG0000692::H2_transcript),NA,1.0,1.0,PCF1 (OG0000692::H2_transcript),NA
+NADP-ME4 (OG0000843::H2_transcript),NA,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),NA
+PPC16 (OG0001285::H2_transcript),NA,1.0,1.0,PPC16 (OG0001285::H2_transcript),NA
+CPRF2 (OG0002063::H2_transcript),NA,1.0,1.0,CPRF2 (OG0002063::H2_transcript),NA
+RVE1 (OG0002594::H2_transcript),NA,1.0,1.0,RVE1 (OG0002594::H2_transcript),NA
+PGM1 (OG0006117::H2_transcript),NA,1.0,1.0,PGM1 (OG0006117::H2_transcript),NA
+Malate,NA,1.0,1.0,Malate,NA
+Pyruvate,NA,1.0,1.0,Pyruvate,NA
+TPS10 (OG0000172::H1_transcript),NA,1.0,1.0,TPS10 (OG0000172::H1_transcript),NA
+PFK3 (OG0000572::H2_transcript),NA,1.0,1.0,PFK3 (OG0000572::H2_transcript),NA
+KCR1 (OG0001037::H2_transcript),NA,1.0,1.0,KCR1 (OG0001037::H2_transcript),NA
+PPC16 (OG0001285::H1_transcript),NA,1.0,1.0,PPC16 (OG0001285::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+KAT1 (OG0002639::H2_transcript),NA,1.0,1.0,KAT1 (OG0002639::H2_transcript),NA
+ppt-1 (OG0002741::H2_transcript),NA,1.0,1.0,ppt-1 (OG0002741::H2_transcript),NA
+PGLP1B (OG0003380::H1_transcript),NA,1.0,1.0,PGLP1B (OG0003380::H1_transcript),NA
+GDCSP (OG0005683::H1_transcript),NA,1.0,1.0,GDCSP (OG0005683::H1_transcript),NA
+CPRF2 (OG0002063::H2_transcript),NA,1.0,1.0,CPRF2 (OG0002063::H2_transcript),NA
+BAM1 (OG0004988::H2_transcript),NA,1.0,1.0,BAM1 (OG0004988::H2_transcript),NA
+Glycine,NA,1.0,1.0,Glycine,NA
+TPS10 (OG0000172::H1_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),NADP-ME4 (OG0000843::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+PFK3 (OG0000572::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+ACO1 (OG0001386::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+RFS1 (OG0002029::H1_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),NADP-ME4 (OG0000843::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+GDCSP (OG0005683::H1_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),NADP-ME4 (OG0000843::H2_transcript)
+GDCSH (OG0005754::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+CRY1 (OG0006036::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+LPD1 (OG0006212::H1_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),NADP-ME4 (OG0000843::H2_transcript)
+PCF1 (OG0000692::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+NA,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,NA,NADP-ME4 (OG0000843::H2_transcript)
+NA,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,NA,NADP-ME4 (OG0000843::H2_transcript)
+PPC16 (OG0001285::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+RVE1 (OG0002594::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+NA,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,NA,NADP-ME4 (OG0000843::H2_transcript)
+PGM1 (OG0006117::H2_transcript),NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),NADP-ME4 (OG0000843::H2_transcript)
+Asparagine,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,Asparagine,NADP-ME4 (OG0000843::H2_transcript)
+Malate,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,Malate,NADP-ME4 (OG0000843::H2_transcript)
+Pyruvate,NADP-ME4 (OG0000843::H2_transcript),1.0,1.0,Pyruvate,NADP-ME4 (OG0000843::H2_transcript)
+TPS10 (OG0000172::H1_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PPC16 (OG0001285::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PPC16 (OG0001285::H2_transcript)
+PFK3 (OG0000572::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),PPC16 (OG0001285::H2_transcript)
+ACO1 (OG0001386::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),PPC16 (OG0001285::H2_transcript)
+RFS1 (OG0002029::H1_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PPC16 (OG0001285::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PPC16 (OG0001285::H2_transcript)
+GDCSP (OG0005683::H1_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PPC16 (OG0001285::H2_transcript)
+GDCSH (OG0005754::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),PPC16 (OG0001285::H2_transcript)
+CRY1 (OG0006036::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),PPC16 (OG0001285::H2_transcript)
+LPD1 (OG0006212::H1_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),PPC16 (OG0001285::H2_transcript)
+PCF1 (OG0000692::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),PPC16 (OG0001285::H2_transcript)
+NA,PPC16 (OG0001285::H2_transcript),1.0,1.0,NA,PPC16 (OG0001285::H2_transcript)
+NA,PPC16 (OG0001285::H2_transcript),1.0,1.0,NA,PPC16 (OG0001285::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),PPC16 (OG0001285::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),PPC16 (OG0001285::H2_transcript)
+RVE1 (OG0002594::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),PPC16 (OG0001285::H2_transcript)
+NA,PPC16 (OG0001285::H2_transcript),1.0,1.0,NA,PPC16 (OG0001285::H2_transcript)
+PGM1 (OG0006117::H2_transcript),PPC16 (OG0001285::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),PPC16 (OG0001285::H2_transcript)
+Malate,PPC16 (OG0001285::H2_transcript),1.0,1.0,Malate,PPC16 (OG0001285::H2_transcript)
+Pyruvate,PPC16 (OG0001285::H2_transcript),1.0,1.0,Pyruvate,PPC16 (OG0001285::H2_transcript)
+TPS10 (OG0000172::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+PFK3 (OG0000572::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+KCR1 (OG0001037::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+PPC16 (OG0001285::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+ACO1 (OG0001386::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+RFS1 (OG0002029::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+KAT1 (OG0002639::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+FBP (OG0004413::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+GDCSP (OG0005683::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+GDCSH (OG0005754::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+CRY1 (OG0006036::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+LPD1 (OG0006212::H1_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),CPRF2 (OG0002063::H2_transcript)
+NA,CPRF2 (OG0002063::H2_transcript),1.0,1.0,NA,CPRF2 (OG0002063::H2_transcript)
+NA,CPRF2 (OG0002063::H2_transcript),1.0,1.0,NA,CPRF2 (OG0002063::H2_transcript)
+NA,CPRF2 (OG0002063::H2_transcript),1.0,1.0,NA,CPRF2 (OG0002063::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+PPC16 (OG0001285::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+RVE1 (OG0002594::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+NA,CPRF2 (OG0002063::H2_transcript),1.0,1.0,NA,CPRF2 (OG0002063::H2_transcript)
+NA,CPRF2 (OG0002063::H2_transcript),1.0,1.0,NA,CPRF2 (OG0002063::H2_transcript)
+BAM1 (OG0004988::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,BAM1 (OG0004988::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+PGM1 (OG0006117::H2_transcript),CPRF2 (OG0002063::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),CPRF2 (OG0002063::H2_transcript)
+fabZ (OG0005337::H1_protein),CPRF2 (OG0002063::H2_transcript),1.0,1.0,fabZ (OG0005337::H1_protein),CPRF2 (OG0002063::H2_transcript)
+Asparagine,CPRF2 (OG0002063::H2_transcript),1.0,1.0,Asparagine,CPRF2 (OG0002063::H2_transcript)
+Glycine,CPRF2 (OG0002063::H2_transcript),1.0,1.0,Glycine,CPRF2 (OG0002063::H2_transcript)
+Malate,CPRF2 (OG0002063::H2_transcript),1.0,1.0,Malate,CPRF2 (OG0002063::H2_transcript)
+Pyruvate,CPRF2 (OG0002063::H2_transcript),1.0,1.0,Pyruvate,CPRF2 (OG0002063::H2_transcript)
+TPS10 (OG0000172::H1_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),RVE1 (OG0002594::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),RVE1 (OG0002594::H2_transcript)
+PFK3 (OG0000572::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),RVE1 (OG0002594::H2_transcript)
+ACO1 (OG0001386::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),RVE1 (OG0002594::H2_transcript)
+RFS1 (OG0002029::H1_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),RVE1 (OG0002594::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),RVE1 (OG0002594::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),RVE1 (OG0002594::H2_transcript)
+GDCSP (OG0005683::H1_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),RVE1 (OG0002594::H2_transcript)
+GDCSH (OG0005754::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),RVE1 (OG0002594::H2_transcript)
+CRY1 (OG0006036::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),RVE1 (OG0002594::H2_transcript)
+LPD1 (OG0006212::H1_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),RVE1 (OG0002594::H2_transcript)
+PCF1 (OG0000692::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,PCF1 (OG0000692::H2_transcript),RVE1 (OG0002594::H2_transcript)
+NA,RVE1 (OG0002594::H2_transcript),1.0,1.0,NA,RVE1 (OG0002594::H2_transcript)
+NA,RVE1 (OG0002594::H2_transcript),1.0,1.0,NA,RVE1 (OG0002594::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),RVE1 (OG0002594::H2_transcript)
+PPC16 (OG0001285::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),RVE1 (OG0002594::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),RVE1 (OG0002594::H2_transcript)
+NA,RVE1 (OG0002594::H2_transcript),1.0,1.0,NA,RVE1 (OG0002594::H2_transcript)
+PGM1 (OG0006117::H2_transcript),RVE1 (OG0002594::H2_transcript),1.0,1.0,PGM1 (OG0006117::H2_transcript),RVE1 (OG0002594::H2_transcript)
+Asparagine,RVE1 (OG0002594::H2_transcript),1.0,1.0,Asparagine,RVE1 (OG0002594::H2_transcript)
+Malate,RVE1 (OG0002594::H2_transcript),1.0,1.0,Malate,RVE1 (OG0002594::H2_transcript)
+Pyruvate,RVE1 (OG0002594::H2_transcript),1.0,1.0,Pyruvate,RVE1 (OG0002594::H2_transcript)
+TPS10 (OG0000172::H1_transcript),NA,1.0,1.0,TPS10 (OG0000172::H1_transcript),NA
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+PFK3 (OG0000572::H2_transcript),NA,1.0,1.0,PFK3 (OG0000572::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+ppt-1 (OG0002741::H2_transcript),NA,1.0,1.0,ppt-1 (OG0002741::H2_transcript),NA
+GDCSP (OG0005683::H1_transcript),NA,1.0,1.0,GDCSP (OG0005683::H1_transcript),NA
+GDCSH (OG0005754::H2_transcript),NA,1.0,1.0,GDCSH (OG0005754::H2_transcript),NA
+CRY1 (OG0006036::H2_transcript),NA,1.0,1.0,CRY1 (OG0006036::H2_transcript),NA
+LPD1 (OG0006212::H1_transcript),NA,1.0,1.0,LPD1 (OG0006212::H1_transcript),NA
+PCF1 (OG0000692::H2_transcript),NA,1.0,1.0,PCF1 (OG0000692::H2_transcript),NA
+NADP-ME4 (OG0000843::H2_transcript),NA,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),NA
+PPC16 (OG0001285::H2_transcript),NA,1.0,1.0,PPC16 (OG0001285::H2_transcript),NA
+CPRF2 (OG0002063::H2_transcript),NA,1.0,1.0,CPRF2 (OG0002063::H2_transcript),NA
+RVE1 (OG0002594::H2_transcript),NA,1.0,1.0,RVE1 (OG0002594::H2_transcript),NA
+PGM1 (OG0006117::H2_transcript),NA,1.0,1.0,PGM1 (OG0006117::H2_transcript),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Malate,NA,1.0,1.0,Malate,NA
+Pyruvate,NA,1.0,1.0,Pyruvate,NA
+TPS10 (OG0000172::H1_transcript),NA,1.0,1.0,TPS10 (OG0000172::H1_transcript),NA
+PFK3 (OG0000572::H2_transcript),NA,1.0,1.0,PFK3 (OG0000572::H2_transcript),NA
+PPC16 (OG0001285::H1_transcript),NA,1.0,1.0,PPC16 (OG0001285::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+KAT1 (OG0002639::H2_transcript),NA,1.0,1.0,KAT1 (OG0002639::H2_transcript),NA
+ppt-1 (OG0002741::H2_transcript),NA,1.0,1.0,ppt-1 (OG0002741::H2_transcript),NA
+PGLP1B (OG0003380::H1_transcript),NA,1.0,1.0,PGLP1B (OG0003380::H1_transcript),NA
+FBP (OG0004413::H1_transcript),NA,1.0,1.0,FBP (OG0004413::H1_transcript),NA
+GDCSP (OG0005683::H1_transcript),NA,1.0,1.0,GDCSP (OG0005683::H1_transcript),NA
+CPRF2 (OG0002063::H2_transcript),NA,1.0,1.0,CPRF2 (OG0002063::H2_transcript),NA
+BAM1 (OG0004988::H2_transcript),NA,1.0,1.0,BAM1 (OG0004988::H2_transcript),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Glycine,NA,1.0,1.0,Glycine,NA
+TPS10 (OG0000172::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),BAM1 (OG0004988::H2_transcript)
+PFK3 (OG0000572::H2_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),BAM1 (OG0004988::H2_transcript)
+KCR1 (OG0001037::H2_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,KCR1 (OG0001037::H2_transcript),BAM1 (OG0004988::H2_transcript)
+PPC16 (OG0001285::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,PPC16 (OG0001285::H1_transcript),BAM1 (OG0004988::H2_transcript)
+RFS1 (OG0002029::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),BAM1 (OG0004988::H2_transcript)
+KAT1 (OG0002639::H2_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_transcript),BAM1 (OG0004988::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),BAM1 (OG0004988::H2_transcript)
+PGLP1B (OG0003380::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,PGLP1B (OG0003380::H1_transcript),BAM1 (OG0004988::H2_transcript)
+FBP (OG0004413::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,FBP (OG0004413::H1_transcript),BAM1 (OG0004988::H2_transcript)
+GDCSP (OG0005683::H1_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),BAM1 (OG0004988::H2_transcript)
+NA,BAM1 (OG0004988::H2_transcript),1.0,1.0,NA,BAM1 (OG0004988::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),BAM1 (OG0004988::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),BAM1 (OG0004988::H2_transcript)
+NA,BAM1 (OG0004988::H2_transcript),1.0,1.0,NA,BAM1 (OG0004988::H2_transcript)
+At1g67280 (OG0003835::H1_protein),BAM1 (OG0004988::H2_transcript),1.0,1.0,At1g67280 (OG0003835::H1_protein),BAM1 (OG0004988::H2_transcript)
+Asparagine,BAM1 (OG0004988::H2_transcript),1.0,1.0,Asparagine,BAM1 (OG0004988::H2_transcript)
+Glycine,BAM1 (OG0004988::H2_transcript),1.0,1.0,Glycine,BAM1 (OG0004988::H2_transcript)
+TPS10 (OG0000172::H1_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,TPS10 (OG0000172::H1_transcript),PGM1 (OG0006117::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PGM1 (OG0006117::H2_transcript)
+PFK3 (OG0000572::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,PFK3 (OG0000572::H2_transcript),PGM1 (OG0006117::H2_transcript)
+ACO1 (OG0001386::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),PGM1 (OG0006117::H2_transcript)
+RFS1 (OG0002029::H1_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PGM1 (OG0006117::H2_transcript)
+ppt-1 (OG0002741::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,ppt-1 (OG0002741::H2_transcript),PGM1 (OG0006117::H2_transcript)
+GDCSP (OG0005683::H1_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,GDCSP (OG0005683::H1_transcript),PGM1 (OG0006117::H2_transcript)
+GDCSH (OG0005754::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,GDCSH (OG0005754::H2_transcript),PGM1 (OG0006117::H2_transcript)
+CRY1 (OG0006036::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,CRY1 (OG0006036::H2_transcript),PGM1 (OG0006117::H2_transcript)
+LPD1 (OG0006212::H1_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,LPD1 (OG0006212::H1_transcript),PGM1 (OG0006117::H2_transcript)
+NA,PGM1 (OG0006117::H2_transcript),1.0,1.0,NA,PGM1 (OG0006117::H2_transcript)
+NA,PGM1 (OG0006117::H2_transcript),1.0,1.0,NA,PGM1 (OG0006117::H2_transcript)
+NADP-ME4 (OG0000843::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),PGM1 (OG0006117::H2_transcript)
+PPC16 (OG0001285::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,PPC16 (OG0001285::H2_transcript),PGM1 (OG0006117::H2_transcript)
+CPRF2 (OG0002063::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,CPRF2 (OG0002063::H2_transcript),PGM1 (OG0006117::H2_transcript)
+RVE1 (OG0002594::H2_transcript),PGM1 (OG0006117::H2_transcript),1.0,1.0,RVE1 (OG0002594::H2_transcript),PGM1 (OG0006117::H2_transcript)
+NA,PGM1 (OG0006117::H2_transcript),1.0,1.0,NA,PGM1 (OG0006117::H2_transcript)
+Asparagine,PGM1 (OG0006117::H2_transcript),1.0,1.0,Asparagine,PGM1 (OG0006117::H2_transcript)
+Malate,PGM1 (OG0006117::H2_transcript),1.0,1.0,Malate,PGM1 (OG0006117::H2_transcript)
+Pyruvate,PGM1 (OG0006117::H2_transcript),1.0,1.0,Pyruvate,PGM1 (OG0006117::H2_transcript)
+PPC16 (OG0001285::H1_transcript),At1g67280 (OG0003835::H1_protein),1.0,1.0,PPC16 (OG0001285::H1_transcript),At1g67280 (OG0003835::H1_protein)
+KAT1 (OG0002639::H2_transcript),At1g67280 (OG0003835::H1_protein),1.0,1.0,KAT1 (OG0002639::H2_transcript),At1g67280 (OG0003835::H1_protein)
+GDCSP (OG0005683::H1_transcript),At1g67280 (OG0003835::H1_protein),1.0,1.0,GDCSP (OG0005683::H1_transcript),At1g67280 (OG0003835::H1_protein)
+BAM1 (OG0004988::H2_transcript),At1g67280 (OG0003835::H1_protein),1.0,1.0,BAM1 (OG0004988::H2_transcript),At1g67280 (OG0003835::H1_protein)
+Glycine,At1g67280 (OG0003835::H1_protein),1.0,1.0,Glycine,At1g67280 (OG0003835::H1_protein)
+PFK3 (OG0000572::H2_transcript),fabZ (OG0005337::H1_protein),1.0,1.0,PFK3 (OG0000572::H2_transcript),fabZ (OG0005337::H1_protein)
+ppt-1 (OG0002741::H2_transcript),fabZ (OG0005337::H1_protein),1.0,1.0,ppt-1 (OG0002741::H2_transcript),fabZ (OG0005337::H1_protein)
+GDCSP (OG0005683::H1_transcript),fabZ (OG0005337::H1_protein),1.0,1.0,GDCSP (OG0005683::H1_transcript),fabZ (OG0005337::H1_protein)
+CPRF2 (OG0002063::H2_transcript),fabZ (OG0005337::H1_protein),1.0,1.0,CPRF2 (OG0002063::H2_transcript),fabZ (OG0005337::H1_protein)
+TPS10 (OG0000172::H1_transcript),Asparagine,1.0,1.0,TPS10 (OG0000172::H1_transcript),Asparagine
+PFK3 (OG0000572::H2_transcript),Asparagine,1.0,1.0,PFK3 (OG0000572::H2_transcript),Asparagine
+PPC16 (OG0001285::H1_transcript),Asparagine,1.0,1.0,PPC16 (OG0001285::H1_transcript),Asparagine
+ACO1 (OG0001386::H2_transcript),Asparagine,1.0,1.0,ACO1 (OG0001386::H2_transcript),Asparagine
+RFS1 (OG0002029::H1_transcript),Asparagine,1.0,1.0,RFS1 (OG0002029::H1_transcript),Asparagine
+KAT1 (OG0002639::H2_transcript),Asparagine,1.0,1.0,KAT1 (OG0002639::H2_transcript),Asparagine
+ppt-1 (OG0002741::H2_transcript),Asparagine,1.0,1.0,ppt-1 (OG0002741::H2_transcript),Asparagine
+PGLP1B (OG0003380::H1_transcript),Asparagine,1.0,1.0,PGLP1B (OG0003380::H1_transcript),Asparagine
+FBP (OG0004413::H1_transcript),Asparagine,1.0,1.0,FBP (OG0004413::H1_transcript),Asparagine
+GDCSP (OG0005683::H1_transcript),Asparagine,1.0,1.0,GDCSP (OG0005683::H1_transcript),Asparagine
+LPD1 (OG0006212::H1_transcript),Asparagine,1.0,1.0,LPD1 (OG0006212::H1_transcript),Asparagine
+NADP-ME4 (OG0000843::H2_transcript),Asparagine,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),Asparagine
+CPRF2 (OG0002063::H2_transcript),Asparagine,1.0,1.0,CPRF2 (OG0002063::H2_transcript),Asparagine
+RVE1 (OG0002594::H2_transcript),Asparagine,1.0,1.0,RVE1 (OG0002594::H2_transcript),Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+BAM1 (OG0004988::H2_transcript),Asparagine,1.0,1.0,BAM1 (OG0004988::H2_transcript),Asparagine
+PGM1 (OG0006117::H2_transcript),Asparagine,1.0,1.0,PGM1 (OG0006117::H2_transcript),Asparagine
+Glycine,Asparagine,1.0,1.0,Glycine,Asparagine
+TPS10 (OG0000172::H1_transcript),Glycine,1.0,1.0,TPS10 (OG0000172::H1_transcript),Glycine
+PFK3 (OG0000572::H2_transcript),Glycine,1.0,1.0,PFK3 (OG0000572::H2_transcript),Glycine
+KCR1 (OG0001037::H2_transcript),Glycine,1.0,1.0,KCR1 (OG0001037::H2_transcript),Glycine
+PPC16 (OG0001285::H1_transcript),Glycine,1.0,1.0,PPC16 (OG0001285::H1_transcript),Glycine
+RFS1 (OG0002029::H1_transcript),Glycine,1.0,1.0,RFS1 (OG0002029::H1_transcript),Glycine
+KAT1 (OG0002639::H2_transcript),Glycine,1.0,1.0,KAT1 (OG0002639::H2_transcript),Glycine
+ppt-1 (OG0002741::H2_transcript),Glycine,1.0,1.0,ppt-1 (OG0002741::H2_transcript),Glycine
+PGLP1B (OG0003380::H1_transcript),Glycine,1.0,1.0,PGLP1B (OG0003380::H1_transcript),Glycine
+FBP (OG0004413::H1_transcript),Glycine,1.0,1.0,FBP (OG0004413::H1_transcript),Glycine
+GDCSP (OG0005683::H1_transcript),Glycine,1.0,1.0,GDCSP (OG0005683::H1_transcript),Glycine
+LPD1 (OG0006212::H1_transcript),Glycine,1.0,1.0,LPD1 (OG0006212::H1_transcript),Glycine
+NA,Glycine,1.0,1.0,NA,Glycine
+CPRF2 (OG0002063::H2_transcript),Glycine,1.0,1.0,CPRF2 (OG0002063::H2_transcript),Glycine
+NA,Glycine,1.0,1.0,NA,Glycine
+BAM1 (OG0004988::H2_transcript),Glycine,1.0,1.0,BAM1 (OG0004988::H2_transcript),Glycine
+At1g67280 (OG0003835::H1_protein),Glycine,1.0,1.0,At1g67280 (OG0003835::H1_protein),Glycine
+Asparagine,Glycine,1.0,1.0,Asparagine,Glycine
+TPS10 (OG0000172::H1_transcript),Malate,1.0,1.0,TPS10 (OG0000172::H1_transcript),Malate
+BGAL1 (OG0000198::H2_transcript),Malate,1.0,1.0,BGAL1 (OG0000198::H2_transcript),Malate
+PFK3 (OG0000572::H2_transcript),Malate,1.0,1.0,PFK3 (OG0000572::H2_transcript),Malate
+ACO1 (OG0001386::H2_transcript),Malate,1.0,1.0,ACO1 (OG0001386::H2_transcript),Malate
+RFS1 (OG0002029::H1_transcript),Malate,1.0,1.0,RFS1 (OG0002029::H1_transcript),Malate
+ppt-1 (OG0002741::H2_transcript),Malate,1.0,1.0,ppt-1 (OG0002741::H2_transcript),Malate
+GDCSP (OG0005683::H1_transcript),Malate,1.0,1.0,GDCSP (OG0005683::H1_transcript),Malate
+NA,Malate,1.0,1.0,NA,Malate
+NADP-ME4 (OG0000843::H2_transcript),Malate,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),Malate
+PPC16 (OG0001285::H2_transcript),Malate,1.0,1.0,PPC16 (OG0001285::H2_transcript),Malate
+CPRF2 (OG0002063::H2_transcript),Malate,1.0,1.0,CPRF2 (OG0002063::H2_transcript),Malate
+RVE1 (OG0002594::H2_transcript),Malate,1.0,1.0,RVE1 (OG0002594::H2_transcript),Malate
+NA,Malate,1.0,1.0,NA,Malate
+PGM1 (OG0006117::H2_transcript),Malate,1.0,1.0,PGM1 (OG0006117::H2_transcript),Malate
+TPS10 (OG0000172::H1_transcript),Pyruvate,1.0,1.0,TPS10 (OG0000172::H1_transcript),Pyruvate
+BGAL1 (OG0000198::H2_transcript),Pyruvate,1.0,1.0,BGAL1 (OG0000198::H2_transcript),Pyruvate
+PFK3 (OG0000572::H2_transcript),Pyruvate,1.0,1.0,PFK3 (OG0000572::H2_transcript),Pyruvate
+ACO1 (OG0001386::H2_transcript),Pyruvate,1.0,1.0,ACO1 (OG0001386::H2_transcript),Pyruvate
+RFS1 (OG0002029::H1_transcript),Pyruvate,1.0,1.0,RFS1 (OG0002029::H1_transcript),Pyruvate
+ppt-1 (OG0002741::H2_transcript),Pyruvate,1.0,1.0,ppt-1 (OG0002741::H2_transcript),Pyruvate
+GDCSP (OG0005683::H1_transcript),Pyruvate,1.0,1.0,GDCSP (OG0005683::H1_transcript),Pyruvate
+GDCSH (OG0005754::H2_transcript),Pyruvate,1.0,1.0,GDCSH (OG0005754::H2_transcript),Pyruvate
+CRY1 (OG0006036::H2_transcript),Pyruvate,1.0,1.0,CRY1 (OG0006036::H2_transcript),Pyruvate
+LPD1 (OG0006212::H1_transcript),Pyruvate,1.0,1.0,LPD1 (OG0006212::H1_transcript),Pyruvate
+NA,Pyruvate,1.0,1.0,NA,Pyruvate
+NADP-ME4 (OG0000843::H2_transcript),Pyruvate,1.0,1.0,NADP-ME4 (OG0000843::H2_transcript),Pyruvate
+PPC16 (OG0001285::H2_transcript),Pyruvate,1.0,1.0,PPC16 (OG0001285::H2_transcript),Pyruvate
+CPRF2 (OG0002063::H2_transcript),Pyruvate,1.0,1.0,CPRF2 (OG0002063::H2_transcript),Pyruvate
+RVE1 (OG0002594::H2_transcript),Pyruvate,1.0,1.0,RVE1 (OG0002594::H2_transcript),Pyruvate
+NA,Pyruvate,1.0,1.0,NA,Pyruvate
+PGM1 (OG0006117::H2_transcript),Pyruvate,1.0,1.0,PGM1 (OG0006117::H2_transcript),Pyruvate

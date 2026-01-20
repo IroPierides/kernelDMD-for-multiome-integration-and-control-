@@ -1,0 +1,1039 @@
+source,target,weight,abs_weight,Source_names,Target_names
+MD1 (OG0001880::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+RFS1 (OG0002029::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+RBCS (OG0002035::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+GDCST (OG0003754::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+WAXY (OG0003871::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+CTIMC (OG0003945::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+DJ1D (OG0007013::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+BAM1 (OG0004988::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+PIF1 (OG0006099::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+GWD3 (OG0007193::H1_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),BGAL1 (OG0000198::H2_transcript)
+SS2 (OG0008186::H2_transcript),BGAL1 (OG0000198::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),BGAL1 (OG0000198::H2_transcript)
+GAPC (OG0000484::H2_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),BGAL1 (OG0000198::H2_transcript)
+IPMS2 (OG0002400::H1_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),BGAL1 (OG0000198::H2_transcript)
+PCK1 (OG0002610::H1_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),BGAL1 (OG0000198::H2_transcript)
+KAT1 (OG0002639::H2_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),BGAL1 (OG0000198::H2_transcript)
+At3g47520 (OG0004070::H2_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+PCK1 (OG0002610::H2_protein),BGAL1 (OG0000198::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+NA,BGAL1 (OG0000198::H2_transcript),1.0,1.0,NA,BGAL1 (OG0000198::H2_transcript)
+Asparagine,BGAL1 (OG0000198::H2_transcript),1.0,1.0,Asparagine,BGAL1 (OG0000198::H2_transcript)
+Putresceine,BGAL1 (OG0000198::H2_transcript),1.0,1.0,Putresceine,BGAL1 (OG0000198::H2_transcript)
+Succinate,BGAL1 (OG0000198::H2_transcript),1.0,1.0,Succinate,BGAL1 (OG0000198::H2_transcript)
+MD1 (OG0001880::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),ACO1 (OG0001386::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),ACO1 (OG0001386::H2_transcript)
+RFS1 (OG0002029::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),ACO1 (OG0001386::H2_transcript)
+RBCS (OG0002035::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),ACO1 (OG0001386::H2_transcript)
+GDCST (OG0003754::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),ACO1 (OG0001386::H2_transcript)
+WAXY (OG0003871::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),ACO1 (OG0001386::H2_transcript)
+CTIMC (OG0003945::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),ACO1 (OG0001386::H2_transcript)
+DJ1D (OG0007013::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+BAM1 (OG0004988::H1_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),ACO1 (OG0001386::H2_transcript)
+SS2 (OG0008186::H2_transcript),ACO1 (OG0001386::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),ACO1 (OG0001386::H2_transcript)
+GAPC (OG0000484::H2_protein),ACO1 (OG0001386::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),ACO1 (OG0001386::H2_transcript)
+IPMS2 (OG0002400::H1_protein),ACO1 (OG0001386::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),ACO1 (OG0001386::H2_transcript)
+PCK1 (OG0002610::H1_protein),ACO1 (OG0001386::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+PCK1 (OG0002610::H2_protein),ACO1 (OG0001386::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+NA,ACO1 (OG0001386::H2_transcript),1.0,1.0,NA,ACO1 (OG0001386::H2_transcript)
+Asparagine,ACO1 (OG0001386::H2_transcript),1.0,1.0,Asparagine,ACO1 (OG0001386::H2_transcript)
+Putresceine,ACO1 (OG0001386::H2_transcript),1.0,1.0,Putresceine,ACO1 (OG0001386::H2_transcript)
+Succinate,ACO1 (OG0001386::H2_transcript),1.0,1.0,Succinate,ACO1 (OG0001386::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),MD1 (OG0001880::H2_transcript)
+ACO1 (OG0001386::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),MD1 (OG0001880::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),MD1 (OG0001880::H2_transcript)
+RFS1 (OG0002029::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),MD1 (OG0001880::H2_transcript)
+RBCS (OG0002035::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),MD1 (OG0001880::H2_transcript)
+GDCST (OG0003754::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),MD1 (OG0001880::H2_transcript)
+WAXY (OG0003871::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),MD1 (OG0001880::H2_transcript)
+CTIMC (OG0003945::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),MD1 (OG0001880::H2_transcript)
+GWD3 (OG0004784::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,GWD3 (OG0004784::H2_transcript),MD1 (OG0001880::H2_transcript)
+DJ1D (OG0007013::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),MD1 (OG0001880::H2_transcript)
+ADHIII (OG0008025::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),MD1 (OG0001880::H2_transcript)
+SBEII (OG0009698::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,SBEII (OG0009698::H2_transcript),MD1 (OG0001880::H2_transcript)
+NA,MD1 (OG0001880::H2_transcript),1.0,1.0,NA,MD1 (OG0001880::H2_transcript)
+NA,MD1 (OG0001880::H2_transcript),1.0,1.0,NA,MD1 (OG0001880::H2_transcript)
+PHO1 (OG0004814::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),MD1 (OG0001880::H2_transcript)
+BAM1 (OG0004988::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),MD1 (OG0001880::H2_transcript)
+PIF1 (OG0006099::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),MD1 (OG0001880::H2_transcript)
+GWD3 (OG0007193::H1_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),MD1 (OG0001880::H2_transcript)
+SS2 (OG0008186::H2_transcript),MD1 (OG0001880::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),MD1 (OG0001880::H2_transcript)
+GAPC (OG0000484::H1_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,GAPC (OG0000484::H1_protein),MD1 (OG0001880::H2_transcript)
+GAPC (OG0000484::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),MD1 (OG0001880::H2_transcript)
+At4g37840 (OG0001227::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,At4g37840 (OG0001227::H2_protein),MD1 (OG0001880::H2_transcript)
+FBA1 (OG0001274::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),MD1 (OG0001880::H2_transcript)
+IPMS2 (OG0002400::H1_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),MD1 (OG0001880::H2_transcript)
+PCK1 (OG0002610::H1_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),MD1 (OG0001880::H2_transcript)
+KAT1 (OG0002639::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),MD1 (OG0001880::H2_transcript)
+ASP3 (OG0002883::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,ASP3 (OG0002883::H2_protein),MD1 (OG0001880::H2_transcript)
+At3g47520 (OG0004070::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),MD1 (OG0001880::H2_transcript)
+PGI1 (OG0005360::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),MD1 (OG0001880::H2_transcript)
+GAPA (OG0006112::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),MD1 (OG0001880::H2_transcript)
+NA,MD1 (OG0001880::H2_transcript),1.0,1.0,NA,MD1 (OG0001880::H2_transcript)
+PCK1 (OG0002610::H2_protein),MD1 (OG0001880::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),MD1 (OG0001880::H2_transcript)
+NA,MD1 (OG0001880::H2_transcript),1.0,1.0,NA,MD1 (OG0001880::H2_transcript)
+NA,MD1 (OG0001880::H2_transcript),1.0,1.0,NA,MD1 (OG0001880::H2_transcript)
+Asparagine,MD1 (OG0001880::H2_transcript),1.0,1.0,Asparagine,MD1 (OG0001880::H2_transcript)
+Putresceine,MD1 (OG0001880::H2_transcript),1.0,1.0,Putresceine,MD1 (OG0001880::H2_transcript)
+Succinate,MD1 (OG0001880::H2_transcript),1.0,1.0,Succinate,MD1 (OG0001880::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+ACO1 (OG0001386::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+MD1 (OG0001880::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+RFS1 (OG0002029::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+RBCS (OG0002035::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+GDCST (OG0003754::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+WAXY (OG0003871::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+CTIMC (OG0003945::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+DJ1D (OG0007013::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+ADHIII (OG0008025::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+SBEII (OG0009698::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,SBEII (OG0009698::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+BAM1 (OG0004988::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+PIF1 (OG0006099::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+GWD3 (OG0007193::H1_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),TFIIB2 (OG0001924::H1_transcript)
+SS2 (OG0008186::H2_transcript),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),TFIIB2 (OG0001924::H1_transcript)
+GAPC (OG0000484::H1_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GAPC (OG0000484::H1_protein),TFIIB2 (OG0001924::H1_transcript)
+GAPC (OG0000484::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+FBA1 (OG0001274::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+IPMS2 (OG0002400::H1_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),TFIIB2 (OG0001924::H1_transcript)
+PCK1 (OG0002610::H1_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),TFIIB2 (OG0001924::H1_transcript)
+KAT1 (OG0002639::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+ASP3 (OG0002883::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,ASP3 (OG0002883::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+At3g47520 (OG0004070::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+PGI1 (OG0005360::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+GAPA (OG0006112::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+PCK1 (OG0002610::H2_protein),TFIIB2 (OG0001924::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+NA,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,NA,TFIIB2 (OG0001924::H1_transcript)
+Asparagine,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,Asparagine,TFIIB2 (OG0001924::H1_transcript)
+Putresceine,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,Putresceine,TFIIB2 (OG0001924::H1_transcript)
+Succinate,TFIIB2 (OG0001924::H1_transcript),1.0,1.0,Succinate,TFIIB2 (OG0001924::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),RFS1 (OG0002029::H1_transcript)
+ACO1 (OG0001386::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),RFS1 (OG0002029::H1_transcript)
+MD1 (OG0001880::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),RFS1 (OG0002029::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),RFS1 (OG0002029::H1_transcript)
+RBCS (OG0002035::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),RFS1 (OG0002029::H1_transcript)
+GDCST (OG0003754::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),RFS1 (OG0002029::H1_transcript)
+WAXY (OG0003871::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),RFS1 (OG0002029::H1_transcript)
+CTIMC (OG0003945::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),RFS1 (OG0002029::H1_transcript)
+DJ1D (OG0007013::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),RFS1 (OG0002029::H1_transcript)
+ADHIII (OG0008025::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),RFS1 (OG0002029::H1_transcript)
+SBEII (OG0009698::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,SBEII (OG0009698::H2_transcript),RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+BAM1 (OG0004988::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),RFS1 (OG0002029::H1_transcript)
+PIF1 (OG0006099::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),RFS1 (OG0002029::H1_transcript)
+GWD3 (OG0007193::H1_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),RFS1 (OG0002029::H1_transcript)
+SS2 (OG0008186::H2_transcript),RFS1 (OG0002029::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),RFS1 (OG0002029::H1_transcript)
+GAPC (OG0000484::H1_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,GAPC (OG0000484::H1_protein),RFS1 (OG0002029::H1_transcript)
+GAPC (OG0000484::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),RFS1 (OG0002029::H1_transcript)
+FBA1 (OG0001274::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),RFS1 (OG0002029::H1_transcript)
+IPMS2 (OG0002400::H1_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),RFS1 (OG0002029::H1_transcript)
+PCK1 (OG0002610::H1_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),RFS1 (OG0002029::H1_transcript)
+KAT1 (OG0002639::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),RFS1 (OG0002029::H1_transcript)
+ASP3 (OG0002883::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,ASP3 (OG0002883::H2_protein),RFS1 (OG0002029::H1_transcript)
+At3g47520 (OG0004070::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),RFS1 (OG0002029::H1_transcript)
+PGI1 (OG0005360::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),RFS1 (OG0002029::H1_transcript)
+GAPA (OG0006112::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+PCK1 (OG0002610::H2_protein),RFS1 (OG0002029::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+NA,RFS1 (OG0002029::H1_transcript),1.0,1.0,NA,RFS1 (OG0002029::H1_transcript)
+Asparagine,RFS1 (OG0002029::H1_transcript),1.0,1.0,Asparagine,RFS1 (OG0002029::H1_transcript)
+Putresceine,RFS1 (OG0002029::H1_transcript),1.0,1.0,Putresceine,RFS1 (OG0002029::H1_transcript)
+Succinate,RFS1 (OG0002029::H1_transcript),1.0,1.0,Succinate,RFS1 (OG0002029::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),RBCS (OG0002035::H1_transcript)
+ACO1 (OG0001386::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),RBCS (OG0002035::H1_transcript)
+MD1 (OG0001880::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),RBCS (OG0002035::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),RBCS (OG0002035::H1_transcript)
+RFS1 (OG0002029::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),RBCS (OG0002035::H1_transcript)
+GDCST (OG0003754::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),RBCS (OG0002035::H1_transcript)
+WAXY (OG0003871::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),RBCS (OG0002035::H1_transcript)
+CTIMC (OG0003945::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),RBCS (OG0002035::H1_transcript)
+GWD3 (OG0004784::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,GWD3 (OG0004784::H2_transcript),RBCS (OG0002035::H1_transcript)
+DJ1D (OG0007013::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),RBCS (OG0002035::H1_transcript)
+ADHIII (OG0008025::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),RBCS (OG0002035::H1_transcript)
+NA,RBCS (OG0002035::H1_transcript),1.0,1.0,NA,RBCS (OG0002035::H1_transcript)
+NA,RBCS (OG0002035::H1_transcript),1.0,1.0,NA,RBCS (OG0002035::H1_transcript)
+PHO1 (OG0004814::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),RBCS (OG0002035::H1_transcript)
+BAM1 (OG0004988::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),RBCS (OG0002035::H1_transcript)
+PIF1 (OG0006099::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),RBCS (OG0002035::H1_transcript)
+GWD3 (OG0007193::H1_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),RBCS (OG0002035::H1_transcript)
+SS2 (OG0008186::H2_transcript),RBCS (OG0002035::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),RBCS (OG0002035::H1_transcript)
+GAPC (OG0000484::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),RBCS (OG0002035::H1_transcript)
+At4g37840 (OG0001227::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,At4g37840 (OG0001227::H2_protein),RBCS (OG0002035::H1_transcript)
+FBA1 (OG0001274::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),RBCS (OG0002035::H1_transcript)
+IPMS2 (OG0002400::H1_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),RBCS (OG0002035::H1_transcript)
+PCK1 (OG0002610::H1_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),RBCS (OG0002035::H1_transcript)
+KAT1 (OG0002639::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),RBCS (OG0002035::H1_transcript)
+At3g47520 (OG0004070::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),RBCS (OG0002035::H1_transcript)
+PGI1 (OG0005360::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),RBCS (OG0002035::H1_transcript)
+GAPA (OG0006112::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),RBCS (OG0002035::H1_transcript)
+NA,RBCS (OG0002035::H1_transcript),1.0,1.0,NA,RBCS (OG0002035::H1_transcript)
+PCK1 (OG0002610::H2_protein),RBCS (OG0002035::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),RBCS (OG0002035::H1_transcript)
+NA,RBCS (OG0002035::H1_transcript),1.0,1.0,NA,RBCS (OG0002035::H1_transcript)
+NA,RBCS (OG0002035::H1_transcript),1.0,1.0,NA,RBCS (OG0002035::H1_transcript)
+Asparagine,RBCS (OG0002035::H1_transcript),1.0,1.0,Asparagine,RBCS (OG0002035::H1_transcript)
+Putresceine,RBCS (OG0002035::H1_transcript),1.0,1.0,Putresceine,RBCS (OG0002035::H1_transcript)
+Succinate,RBCS (OG0002035::H1_transcript),1.0,1.0,Succinate,RBCS (OG0002035::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),GDCST (OG0003754::H2_transcript)
+ACO1 (OG0001386::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),GDCST (OG0003754::H2_transcript)
+MD1 (OG0001880::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),GDCST (OG0003754::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GDCST (OG0003754::H2_transcript)
+RFS1 (OG0002029::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),GDCST (OG0003754::H2_transcript)
+RBCS (OG0002035::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),GDCST (OG0003754::H2_transcript)
+WAXY (OG0003871::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),GDCST (OG0003754::H2_transcript)
+CTIMC (OG0003945::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),GDCST (OG0003754::H2_transcript)
+DJ1D (OG0007013::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),GDCST (OG0003754::H2_transcript)
+ADHIII (OG0008025::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),GDCST (OG0003754::H2_transcript)
+NA,GDCST (OG0003754::H2_transcript),1.0,1.0,NA,GDCST (OG0003754::H2_transcript)
+NA,GDCST (OG0003754::H2_transcript),1.0,1.0,NA,GDCST (OG0003754::H2_transcript)
+PHO1 (OG0004814::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),GDCST (OG0003754::H2_transcript)
+BAM1 (OG0004988::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),GDCST (OG0003754::H2_transcript)
+PIF1 (OG0006099::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),GDCST (OG0003754::H2_transcript)
+GWD3 (OG0007193::H1_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),GDCST (OG0003754::H2_transcript)
+SS2 (OG0008186::H2_transcript),GDCST (OG0003754::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),GDCST (OG0003754::H2_transcript)
+GAPC (OG0000484::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),GDCST (OG0003754::H2_transcript)
+At4g37840 (OG0001227::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,At4g37840 (OG0001227::H2_protein),GDCST (OG0003754::H2_transcript)
+FBA1 (OG0001274::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),GDCST (OG0003754::H2_transcript)
+IPMS2 (OG0002400::H1_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),GDCST (OG0003754::H2_transcript)
+PCK1 (OG0002610::H1_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),GDCST (OG0003754::H2_transcript)
+KAT1 (OG0002639::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),GDCST (OG0003754::H2_transcript)
+At3g47520 (OG0004070::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),GDCST (OG0003754::H2_transcript)
+PGI1 (OG0005360::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),GDCST (OG0003754::H2_transcript)
+GAPA (OG0006112::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),GDCST (OG0003754::H2_transcript)
+NA,GDCST (OG0003754::H2_transcript),1.0,1.0,NA,GDCST (OG0003754::H2_transcript)
+PCK1 (OG0002610::H2_protein),GDCST (OG0003754::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),GDCST (OG0003754::H2_transcript)
+NA,GDCST (OG0003754::H2_transcript),1.0,1.0,NA,GDCST (OG0003754::H2_transcript)
+NA,GDCST (OG0003754::H2_transcript),1.0,1.0,NA,GDCST (OG0003754::H2_transcript)
+Asparagine,GDCST (OG0003754::H2_transcript),1.0,1.0,Asparagine,GDCST (OG0003754::H2_transcript)
+Putresceine,GDCST (OG0003754::H2_transcript),1.0,1.0,Putresceine,GDCST (OG0003754::H2_transcript)
+Succinate,GDCST (OG0003754::H2_transcript),1.0,1.0,Succinate,GDCST (OG0003754::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),WAXY (OG0003871::H1_transcript)
+ACO1 (OG0001386::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),WAXY (OG0003871::H1_transcript)
+MD1 (OG0001880::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),WAXY (OG0003871::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),WAXY (OG0003871::H1_transcript)
+RFS1 (OG0002029::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),WAXY (OG0003871::H1_transcript)
+RBCS (OG0002035::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),WAXY (OG0003871::H1_transcript)
+GDCST (OG0003754::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),WAXY (OG0003871::H1_transcript)
+CTIMC (OG0003945::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),WAXY (OG0003871::H1_transcript)
+GWD3 (OG0004784::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,GWD3 (OG0004784::H2_transcript),WAXY (OG0003871::H1_transcript)
+DJ1D (OG0007013::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),WAXY (OG0003871::H1_transcript)
+ADHIII (OG0008025::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),WAXY (OG0003871::H1_transcript)
+NA,WAXY (OG0003871::H1_transcript),1.0,1.0,NA,WAXY (OG0003871::H1_transcript)
+NA,WAXY (OG0003871::H1_transcript),1.0,1.0,NA,WAXY (OG0003871::H1_transcript)
+PHO1 (OG0004814::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),WAXY (OG0003871::H1_transcript)
+BAM1 (OG0004988::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),WAXY (OG0003871::H1_transcript)
+PIF1 (OG0006099::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),WAXY (OG0003871::H1_transcript)
+GWD3 (OG0007193::H1_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),WAXY (OG0003871::H1_transcript)
+SS2 (OG0008186::H2_transcript),WAXY (OG0003871::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),WAXY (OG0003871::H1_transcript)
+GAPC (OG0000484::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),WAXY (OG0003871::H1_transcript)
+IPMS2 (OG0002400::H1_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),WAXY (OG0003871::H1_transcript)
+PCK1 (OG0002610::H1_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),WAXY (OG0003871::H1_transcript)
+KAT1 (OG0002639::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),WAXY (OG0003871::H1_transcript)
+At3g47520 (OG0004070::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),WAXY (OG0003871::H1_transcript)
+PGI1 (OG0005360::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),WAXY (OG0003871::H1_transcript)
+GAPA (OG0006112::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),WAXY (OG0003871::H1_transcript)
+NA,WAXY (OG0003871::H1_transcript),1.0,1.0,NA,WAXY (OG0003871::H1_transcript)
+PCK1 (OG0002610::H2_protein),WAXY (OG0003871::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),WAXY (OG0003871::H1_transcript)
+NA,WAXY (OG0003871::H1_transcript),1.0,1.0,NA,WAXY (OG0003871::H1_transcript)
+NA,WAXY (OG0003871::H1_transcript),1.0,1.0,NA,WAXY (OG0003871::H1_transcript)
+Asparagine,WAXY (OG0003871::H1_transcript),1.0,1.0,Asparagine,WAXY (OG0003871::H1_transcript)
+Putresceine,WAXY (OG0003871::H1_transcript),1.0,1.0,Putresceine,WAXY (OG0003871::H1_transcript)
+Succinate,WAXY (OG0003871::H1_transcript),1.0,1.0,Succinate,WAXY (OG0003871::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),CTIMC (OG0003945::H1_transcript)
+ACO1 (OG0001386::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),CTIMC (OG0003945::H1_transcript)
+MD1 (OG0001880::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),CTIMC (OG0003945::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),CTIMC (OG0003945::H1_transcript)
+RFS1 (OG0002029::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),CTIMC (OG0003945::H1_transcript)
+RBCS (OG0002035::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),CTIMC (OG0003945::H1_transcript)
+GDCST (OG0003754::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),CTIMC (OG0003945::H1_transcript)
+WAXY (OG0003871::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),CTIMC (OG0003945::H1_transcript)
+GWD3 (OG0004784::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,GWD3 (OG0004784::H2_transcript),CTIMC (OG0003945::H1_transcript)
+DJ1D (OG0007013::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),CTIMC (OG0003945::H1_transcript)
+ADHIII (OG0008025::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),CTIMC (OG0003945::H1_transcript)
+SBEII (OG0009698::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,SBEII (OG0009698::H2_transcript),CTIMC (OG0003945::H1_transcript)
+NA,CTIMC (OG0003945::H1_transcript),1.0,1.0,NA,CTIMC (OG0003945::H1_transcript)
+NA,CTIMC (OG0003945::H1_transcript),1.0,1.0,NA,CTIMC (OG0003945::H1_transcript)
+PHO1 (OG0004814::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),CTIMC (OG0003945::H1_transcript)
+BAM1 (OG0004988::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),CTIMC (OG0003945::H1_transcript)
+PIF1 (OG0006099::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),CTIMC (OG0003945::H1_transcript)
+GWD3 (OG0007193::H1_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),CTIMC (OG0003945::H1_transcript)
+SS2 (OG0008186::H2_transcript),CTIMC (OG0003945::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),CTIMC (OG0003945::H1_transcript)
+GAPC (OG0000484::H1_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,GAPC (OG0000484::H1_protein),CTIMC (OG0003945::H1_transcript)
+GAPC (OG0000484::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),CTIMC (OG0003945::H1_transcript)
+At4g37840 (OG0001227::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,At4g37840 (OG0001227::H2_protein),CTIMC (OG0003945::H1_transcript)
+FBA1 (OG0001274::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),CTIMC (OG0003945::H1_transcript)
+IPMS2 (OG0002400::H1_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),CTIMC (OG0003945::H1_transcript)
+PCK1 (OG0002610::H1_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),CTIMC (OG0003945::H1_transcript)
+KAT1 (OG0002639::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),CTIMC (OG0003945::H1_transcript)
+ASP3 (OG0002883::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,ASP3 (OG0002883::H2_protein),CTIMC (OG0003945::H1_transcript)
+At3g47520 (OG0004070::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),CTIMC (OG0003945::H1_transcript)
+PGI1 (OG0005360::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),CTIMC (OG0003945::H1_transcript)
+GAPA (OG0006112::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),CTIMC (OG0003945::H1_transcript)
+NA,CTIMC (OG0003945::H1_transcript),1.0,1.0,NA,CTIMC (OG0003945::H1_transcript)
+PCK1 (OG0002610::H2_protein),CTIMC (OG0003945::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),CTIMC (OG0003945::H1_transcript)
+NA,CTIMC (OG0003945::H1_transcript),1.0,1.0,NA,CTIMC (OG0003945::H1_transcript)
+NA,CTIMC (OG0003945::H1_transcript),1.0,1.0,NA,CTIMC (OG0003945::H1_transcript)
+Asparagine,CTIMC (OG0003945::H1_transcript),1.0,1.0,Asparagine,CTIMC (OG0003945::H1_transcript)
+Putresceine,CTIMC (OG0003945::H1_transcript),1.0,1.0,Putresceine,CTIMC (OG0003945::H1_transcript)
+Succinate,CTIMC (OG0003945::H1_transcript),1.0,1.0,Succinate,CTIMC (OG0003945::H1_transcript)
+MD1 (OG0001880::H2_transcript),GWD3 (OG0004784::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),GWD3 (OG0004784::H2_transcript)
+RBCS (OG0002035::H1_transcript),GWD3 (OG0004784::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),GWD3 (OG0004784::H2_transcript)
+WAXY (OG0003871::H1_transcript),GWD3 (OG0004784::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),GWD3 (OG0004784::H2_transcript)
+CTIMC (OG0003945::H1_transcript),GWD3 (OG0004784::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),GWD3 (OG0004784::H2_transcript)
+SS2 (OG0008186::H2_transcript),GWD3 (OG0004784::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),GWD3 (OG0004784::H2_transcript)
+IPMS2 (OG0002400::H1_protein),GWD3 (OG0004784::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),GWD3 (OG0004784::H2_transcript)
+NA,GWD3 (OG0004784::H2_transcript),1.0,1.0,NA,GWD3 (OG0004784::H2_transcript)
+PCK1 (OG0002610::H2_protein),GWD3 (OG0004784::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),GWD3 (OG0004784::H2_transcript)
+Putresceine,GWD3 (OG0004784::H2_transcript),1.0,1.0,Putresceine,GWD3 (OG0004784::H2_transcript)
+Succinate,GWD3 (OG0004784::H2_transcript),1.0,1.0,Succinate,GWD3 (OG0004784::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),DJ1D (OG0007013::H2_transcript)
+ACO1 (OG0001386::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),DJ1D (OG0007013::H2_transcript)
+MD1 (OG0001880::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),DJ1D (OG0007013::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),DJ1D (OG0007013::H2_transcript)
+RFS1 (OG0002029::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),DJ1D (OG0007013::H2_transcript)
+RBCS (OG0002035::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),DJ1D (OG0007013::H2_transcript)
+GDCST (OG0003754::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),DJ1D (OG0007013::H2_transcript)
+WAXY (OG0003871::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),DJ1D (OG0007013::H2_transcript)
+CTIMC (OG0003945::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),DJ1D (OG0007013::H2_transcript)
+ADHIII (OG0008025::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),DJ1D (OG0007013::H2_transcript)
+NA,DJ1D (OG0007013::H2_transcript),1.0,1.0,NA,DJ1D (OG0007013::H2_transcript)
+NA,DJ1D (OG0007013::H2_transcript),1.0,1.0,NA,DJ1D (OG0007013::H2_transcript)
+PHO1 (OG0004814::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),DJ1D (OG0007013::H2_transcript)
+BAM1 (OG0004988::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),DJ1D (OG0007013::H2_transcript)
+PIF1 (OG0006099::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),DJ1D (OG0007013::H2_transcript)
+GWD3 (OG0007193::H1_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),DJ1D (OG0007013::H2_transcript)
+SS2 (OG0008186::H2_transcript),DJ1D (OG0007013::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),DJ1D (OG0007013::H2_transcript)
+GAPC (OG0000484::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),DJ1D (OG0007013::H2_transcript)
+IPMS2 (OG0002400::H1_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),DJ1D (OG0007013::H2_transcript)
+PCK1 (OG0002610::H1_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),DJ1D (OG0007013::H2_transcript)
+KAT1 (OG0002639::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),DJ1D (OG0007013::H2_transcript)
+At3g47520 (OG0004070::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),DJ1D (OG0007013::H2_transcript)
+PGI1 (OG0005360::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),DJ1D (OG0007013::H2_transcript)
+GAPA (OG0006112::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),DJ1D (OG0007013::H2_transcript)
+NA,DJ1D (OG0007013::H2_transcript),1.0,1.0,NA,DJ1D (OG0007013::H2_transcript)
+PCK1 (OG0002610::H2_protein),DJ1D (OG0007013::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),DJ1D (OG0007013::H2_transcript)
+NA,DJ1D (OG0007013::H2_transcript),1.0,1.0,NA,DJ1D (OG0007013::H2_transcript)
+NA,DJ1D (OG0007013::H2_transcript),1.0,1.0,NA,DJ1D (OG0007013::H2_transcript)
+Asparagine,DJ1D (OG0007013::H2_transcript),1.0,1.0,Asparagine,DJ1D (OG0007013::H2_transcript)
+Putresceine,DJ1D (OG0007013::H2_transcript),1.0,1.0,Putresceine,DJ1D (OG0007013::H2_transcript)
+Succinate,DJ1D (OG0007013::H2_transcript),1.0,1.0,Succinate,DJ1D (OG0007013::H2_transcript)
+MD1 (OG0001880::H2_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),ADHIII (OG0008025::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),ADHIII (OG0008025::H2_transcript)
+RFS1 (OG0002029::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),ADHIII (OG0008025::H2_transcript)
+RBCS (OG0002035::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),ADHIII (OG0008025::H2_transcript)
+GDCST (OG0003754::H2_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),ADHIII (OG0008025::H2_transcript)
+WAXY (OG0003871::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),ADHIII (OG0008025::H2_transcript)
+CTIMC (OG0003945::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),ADHIII (OG0008025::H2_transcript)
+DJ1D (OG0007013::H2_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),ADHIII (OG0008025::H2_transcript)
+NA,ADHIII (OG0008025::H2_transcript),1.0,1.0,NA,ADHIII (OG0008025::H2_transcript)
+NA,ADHIII (OG0008025::H2_transcript),1.0,1.0,NA,ADHIII (OG0008025::H2_transcript)
+BAM1 (OG0004988::H1_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),ADHIII (OG0008025::H2_transcript)
+SS2 (OG0008186::H2_transcript),ADHIII (OG0008025::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),ADHIII (OG0008025::H2_transcript)
+GAPC (OG0000484::H2_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),ADHIII (OG0008025::H2_transcript)
+IPMS2 (OG0002400::H1_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),ADHIII (OG0008025::H2_transcript)
+PCK1 (OG0002610::H1_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),ADHIII (OG0008025::H2_transcript)
+KAT1 (OG0002639::H2_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),ADHIII (OG0008025::H2_transcript)
+PGI1 (OG0005360::H2_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),ADHIII (OG0008025::H2_transcript)
+GAPA (OG0006112::H2_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),ADHIII (OG0008025::H2_transcript)
+NA,ADHIII (OG0008025::H2_transcript),1.0,1.0,NA,ADHIII (OG0008025::H2_transcript)
+PCK1 (OG0002610::H2_protein),ADHIII (OG0008025::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),ADHIII (OG0008025::H2_transcript)
+NA,ADHIII (OG0008025::H2_transcript),1.0,1.0,NA,ADHIII (OG0008025::H2_transcript)
+NA,ADHIII (OG0008025::H2_transcript),1.0,1.0,NA,ADHIII (OG0008025::H2_transcript)
+Asparagine,ADHIII (OG0008025::H2_transcript),1.0,1.0,Asparagine,ADHIII (OG0008025::H2_transcript)
+Putresceine,ADHIII (OG0008025::H2_transcript),1.0,1.0,Putresceine,ADHIII (OG0008025::H2_transcript)
+Succinate,ADHIII (OG0008025::H2_transcript),1.0,1.0,Succinate,ADHIII (OG0008025::H2_transcript)
+MD1 (OG0001880::H2_transcript),SBEII (OG0009698::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),SBEII (OG0009698::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),SBEII (OG0009698::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),SBEII (OG0009698::H2_transcript)
+RFS1 (OG0002029::H1_transcript),SBEII (OG0009698::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),SBEII (OG0009698::H2_transcript)
+CTIMC (OG0003945::H1_transcript),SBEII (OG0009698::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),SBEII (OG0009698::H2_transcript)
+GAPC (OG0000484::H2_protein),SBEII (OG0009698::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),SBEII (OG0009698::H2_transcript)
+PCK1 (OG0002610::H1_protein),SBEII (OG0009698::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),SBEII (OG0009698::H2_transcript)
+NA,SBEII (OG0009698::H2_transcript),1.0,1.0,NA,SBEII (OG0009698::H2_transcript)
+PCK1 (OG0002610::H2_protein),SBEII (OG0009698::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),SBEII (OG0009698::H2_transcript)
+NA,SBEII (OG0009698::H2_transcript),1.0,1.0,NA,SBEII (OG0009698::H2_transcript)
+NA,SBEII (OG0009698::H2_transcript),1.0,1.0,NA,SBEII (OG0009698::H2_transcript)
+Succinate,SBEII (OG0009698::H2_transcript),1.0,1.0,Succinate,SBEII (OG0009698::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+MD1 (OG0001880::H2_transcript),NA,1.0,1.0,MD1 (OG0001880::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+RBCS (OG0002035::H1_transcript),NA,1.0,1.0,RBCS (OG0002035::H1_transcript),NA
+GDCST (OG0003754::H2_transcript),NA,1.0,1.0,GDCST (OG0003754::H2_transcript),NA
+WAXY (OG0003871::H1_transcript),NA,1.0,1.0,WAXY (OG0003871::H1_transcript),NA
+CTIMC (OG0003945::H1_transcript),NA,1.0,1.0,CTIMC (OG0003945::H1_transcript),NA
+DJ1D (OG0007013::H2_transcript),NA,1.0,1.0,DJ1D (OG0007013::H2_transcript),NA
+ADHIII (OG0008025::H2_transcript),NA,1.0,1.0,ADHIII (OG0008025::H2_transcript),NA
+PHO1 (OG0004814::H1_transcript),NA,1.0,1.0,PHO1 (OG0004814::H1_transcript),NA
+BAM1 (OG0004988::H1_transcript),NA,1.0,1.0,BAM1 (OG0004988::H1_transcript),NA
+PIF1 (OG0006099::H2_transcript),NA,1.0,1.0,PIF1 (OG0006099::H2_transcript),NA
+GWD3 (OG0007193::H1_transcript),NA,1.0,1.0,GWD3 (OG0007193::H1_transcript),NA
+SS2 (OG0008186::H2_transcript),NA,1.0,1.0,SS2 (OG0008186::H2_transcript),NA
+GAPC (OG0000484::H2_protein),NA,1.0,1.0,GAPC (OG0000484::H2_protein),NA
+At4g37840 (OG0001227::H2_protein),NA,1.0,1.0,At4g37840 (OG0001227::H2_protein),NA
+IPMS2 (OG0002400::H1_protein),NA,1.0,1.0,IPMS2 (OG0002400::H1_protein),NA
+PCK1 (OG0002610::H1_protein),NA,1.0,1.0,PCK1 (OG0002610::H1_protein),NA
+KAT1 (OG0002639::H2_protein),NA,1.0,1.0,KAT1 (OG0002639::H2_protein),NA
+At3g47520 (OG0004070::H2_protein),NA,1.0,1.0,At3g47520 (OG0004070::H2_protein),NA
+PGI1 (OG0005360::H2_protein),NA,1.0,1.0,PGI1 (OG0005360::H2_protein),NA
+GAPA (OG0006112::H2_protein),NA,1.0,1.0,GAPA (OG0006112::H2_protein),NA
+PCK1 (OG0002610::H2_protein),NA,1.0,1.0,PCK1 (OG0002610::H2_protein),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Putresceine,NA,1.0,1.0,Putresceine,NA
+Succinate,NA,1.0,1.0,Succinate,NA
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+MD1 (OG0001880::H2_transcript),NA,1.0,1.0,MD1 (OG0001880::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+RBCS (OG0002035::H1_transcript),NA,1.0,1.0,RBCS (OG0002035::H1_transcript),NA
+GDCST (OG0003754::H2_transcript),NA,1.0,1.0,GDCST (OG0003754::H2_transcript),NA
+WAXY (OG0003871::H1_transcript),NA,1.0,1.0,WAXY (OG0003871::H1_transcript),NA
+CTIMC (OG0003945::H1_transcript),NA,1.0,1.0,CTIMC (OG0003945::H1_transcript),NA
+DJ1D (OG0007013::H2_transcript),NA,1.0,1.0,DJ1D (OG0007013::H2_transcript),NA
+ADHIII (OG0008025::H2_transcript),NA,1.0,1.0,ADHIII (OG0008025::H2_transcript),NA
+PHO1 (OG0004814::H1_transcript),NA,1.0,1.0,PHO1 (OG0004814::H1_transcript),NA
+BAM1 (OG0004988::H1_transcript),NA,1.0,1.0,BAM1 (OG0004988::H1_transcript),NA
+PIF1 (OG0006099::H2_transcript),NA,1.0,1.0,PIF1 (OG0006099::H2_transcript),NA
+GWD3 (OG0007193::H1_transcript),NA,1.0,1.0,GWD3 (OG0007193::H1_transcript),NA
+SS2 (OG0008186::H2_transcript),NA,1.0,1.0,SS2 (OG0008186::H2_transcript),NA
+GAPC (OG0000484::H2_protein),NA,1.0,1.0,GAPC (OG0000484::H2_protein),NA
+IPMS2 (OG0002400::H1_protein),NA,1.0,1.0,IPMS2 (OG0002400::H1_protein),NA
+PCK1 (OG0002610::H1_protein),NA,1.0,1.0,PCK1 (OG0002610::H1_protein),NA
+KAT1 (OG0002639::H2_protein),NA,1.0,1.0,KAT1 (OG0002639::H2_protein),NA
+At3g47520 (OG0004070::H2_protein),NA,1.0,1.0,At3g47520 (OG0004070::H2_protein),NA
+PGI1 (OG0005360::H2_protein),NA,1.0,1.0,PGI1 (OG0005360::H2_protein),NA
+GAPA (OG0006112::H2_protein),NA,1.0,1.0,GAPA (OG0006112::H2_protein),NA
+PCK1 (OG0002610::H2_protein),NA,1.0,1.0,PCK1 (OG0002610::H2_protein),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Putresceine,NA,1.0,1.0,Putresceine,NA
+Succinate,NA,1.0,1.0,Succinate,NA
+MD1 (OG0001880::H2_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),PHO1 (OG0004814::H1_transcript)
+RBCS (OG0002035::H1_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),PHO1 (OG0004814::H1_transcript)
+GDCST (OG0003754::H2_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),PHO1 (OG0004814::H1_transcript)
+WAXY (OG0003871::H1_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),PHO1 (OG0004814::H1_transcript)
+CTIMC (OG0003945::H1_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),PHO1 (OG0004814::H1_transcript)
+DJ1D (OG0007013::H2_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),PHO1 (OG0004814::H1_transcript)
+NA,PHO1 (OG0004814::H1_transcript),1.0,1.0,NA,PHO1 (OG0004814::H1_transcript)
+NA,PHO1 (OG0004814::H1_transcript),1.0,1.0,NA,PHO1 (OG0004814::H1_transcript)
+SS2 (OG0008186::H2_transcript),PHO1 (OG0004814::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),PHO1 (OG0004814::H1_transcript)
+IPMS2 (OG0002400::H1_protein),PHO1 (OG0004814::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),PHO1 (OG0004814::H1_transcript)
+PCK1 (OG0002610::H1_protein),PHO1 (OG0004814::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),PHO1 (OG0004814::H1_transcript)
+NA,PHO1 (OG0004814::H1_transcript),1.0,1.0,NA,PHO1 (OG0004814::H1_transcript)
+PCK1 (OG0002610::H2_protein),PHO1 (OG0004814::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),PHO1 (OG0004814::H1_transcript)
+NA,PHO1 (OG0004814::H1_transcript),1.0,1.0,NA,PHO1 (OG0004814::H1_transcript)
+Asparagine,PHO1 (OG0004814::H1_transcript),1.0,1.0,Asparagine,PHO1 (OG0004814::H1_transcript)
+Putresceine,PHO1 (OG0004814::H1_transcript),1.0,1.0,Putresceine,PHO1 (OG0004814::H1_transcript)
+Succinate,PHO1 (OG0004814::H1_transcript),1.0,1.0,Succinate,PHO1 (OG0004814::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),BAM1 (OG0004988::H1_transcript)
+ACO1 (OG0001386::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),BAM1 (OG0004988::H1_transcript)
+MD1 (OG0001880::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),BAM1 (OG0004988::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),BAM1 (OG0004988::H1_transcript)
+RFS1 (OG0002029::H1_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),BAM1 (OG0004988::H1_transcript)
+RBCS (OG0002035::H1_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),BAM1 (OG0004988::H1_transcript)
+GDCST (OG0003754::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),BAM1 (OG0004988::H1_transcript)
+WAXY (OG0003871::H1_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),BAM1 (OG0004988::H1_transcript)
+CTIMC (OG0003945::H1_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),BAM1 (OG0004988::H1_transcript)
+DJ1D (OG0007013::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),BAM1 (OG0004988::H1_transcript)
+ADHIII (OG0008025::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),BAM1 (OG0004988::H1_transcript)
+NA,BAM1 (OG0004988::H1_transcript),1.0,1.0,NA,BAM1 (OG0004988::H1_transcript)
+NA,BAM1 (OG0004988::H1_transcript),1.0,1.0,NA,BAM1 (OG0004988::H1_transcript)
+PIF1 (OG0006099::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),BAM1 (OG0004988::H1_transcript)
+SS2 (OG0008186::H2_transcript),BAM1 (OG0004988::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),BAM1 (OG0004988::H1_transcript)
+GAPC (OG0000484::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),BAM1 (OG0004988::H1_transcript)
+IPMS2 (OG0002400::H1_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),BAM1 (OG0004988::H1_transcript)
+PCK1 (OG0002610::H1_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),BAM1 (OG0004988::H1_transcript)
+KAT1 (OG0002639::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),BAM1 (OG0004988::H1_transcript)
+At3g47520 (OG0004070::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),BAM1 (OG0004988::H1_transcript)
+PGI1 (OG0005360::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),BAM1 (OG0004988::H1_transcript)
+GAPA (OG0006112::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),BAM1 (OG0004988::H1_transcript)
+NA,BAM1 (OG0004988::H1_transcript),1.0,1.0,NA,BAM1 (OG0004988::H1_transcript)
+PCK1 (OG0002610::H2_protein),BAM1 (OG0004988::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),BAM1 (OG0004988::H1_transcript)
+NA,BAM1 (OG0004988::H1_transcript),1.0,1.0,NA,BAM1 (OG0004988::H1_transcript)
+NA,BAM1 (OG0004988::H1_transcript),1.0,1.0,NA,BAM1 (OG0004988::H1_transcript)
+Asparagine,BAM1 (OG0004988::H1_transcript),1.0,1.0,Asparagine,BAM1 (OG0004988::H1_transcript)
+Putresceine,BAM1 (OG0004988::H1_transcript),1.0,1.0,Putresceine,BAM1 (OG0004988::H1_transcript)
+Succinate,BAM1 (OG0004988::H1_transcript),1.0,1.0,Succinate,BAM1 (OG0004988::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PIF1 (OG0006099::H2_transcript)
+MD1 (OG0001880::H2_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),PIF1 (OG0006099::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),PIF1 (OG0006099::H2_transcript)
+RFS1 (OG0002029::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),PIF1 (OG0006099::H2_transcript)
+RBCS (OG0002035::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),PIF1 (OG0006099::H2_transcript)
+GDCST (OG0003754::H2_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),PIF1 (OG0006099::H2_transcript)
+WAXY (OG0003871::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),PIF1 (OG0006099::H2_transcript)
+CTIMC (OG0003945::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),PIF1 (OG0006099::H2_transcript)
+DJ1D (OG0007013::H2_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),PIF1 (OG0006099::H2_transcript)
+NA,PIF1 (OG0006099::H2_transcript),1.0,1.0,NA,PIF1 (OG0006099::H2_transcript)
+NA,PIF1 (OG0006099::H2_transcript),1.0,1.0,NA,PIF1 (OG0006099::H2_transcript)
+BAM1 (OG0004988::H1_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),PIF1 (OG0006099::H2_transcript)
+SS2 (OG0008186::H2_transcript),PIF1 (OG0006099::H2_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),PIF1 (OG0006099::H2_transcript)
+GAPC (OG0000484::H2_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),PIF1 (OG0006099::H2_transcript)
+IPMS2 (OG0002400::H1_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),PIF1 (OG0006099::H2_transcript)
+PCK1 (OG0002610::H1_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),PIF1 (OG0006099::H2_transcript)
+PGI1 (OG0005360::H2_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),PIF1 (OG0006099::H2_transcript)
+GAPA (OG0006112::H2_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),PIF1 (OG0006099::H2_transcript)
+NA,PIF1 (OG0006099::H2_transcript),1.0,1.0,NA,PIF1 (OG0006099::H2_transcript)
+PCK1 (OG0002610::H2_protein),PIF1 (OG0006099::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),PIF1 (OG0006099::H2_transcript)
+NA,PIF1 (OG0006099::H2_transcript),1.0,1.0,NA,PIF1 (OG0006099::H2_transcript)
+NA,PIF1 (OG0006099::H2_transcript),1.0,1.0,NA,PIF1 (OG0006099::H2_transcript)
+Asparagine,PIF1 (OG0006099::H2_transcript),1.0,1.0,Asparagine,PIF1 (OG0006099::H2_transcript)
+Putresceine,PIF1 (OG0006099::H2_transcript),1.0,1.0,Putresceine,PIF1 (OG0006099::H2_transcript)
+Succinate,PIF1 (OG0006099::H2_transcript),1.0,1.0,Succinate,PIF1 (OG0006099::H2_transcript)
+BGAL1 (OG0000198::H2_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),GWD3 (OG0007193::H1_transcript)
+MD1 (OG0001880::H2_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),GWD3 (OG0007193::H1_transcript)
+TFIIB2 (OG0001924::H1_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GWD3 (OG0007193::H1_transcript)
+RFS1 (OG0002029::H1_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),GWD3 (OG0007193::H1_transcript)
+RBCS (OG0002035::H1_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),GWD3 (OG0007193::H1_transcript)
+GDCST (OG0003754::H2_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),GWD3 (OG0007193::H1_transcript)
+WAXY (OG0003871::H1_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),GWD3 (OG0007193::H1_transcript)
+CTIMC (OG0003945::H1_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),GWD3 (OG0007193::H1_transcript)
+DJ1D (OG0007013::H2_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),GWD3 (OG0007193::H1_transcript)
+NA,GWD3 (OG0007193::H1_transcript),1.0,1.0,NA,GWD3 (OG0007193::H1_transcript)
+NA,GWD3 (OG0007193::H1_transcript),1.0,1.0,NA,GWD3 (OG0007193::H1_transcript)
+SS2 (OG0008186::H2_transcript),GWD3 (OG0007193::H1_transcript),1.0,1.0,SS2 (OG0008186::H2_transcript),GWD3 (OG0007193::H1_transcript)
+IPMS2 (OG0002400::H1_protein),GWD3 (OG0007193::H1_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),GWD3 (OG0007193::H1_transcript)
+PCK1 (OG0002610::H1_protein),GWD3 (OG0007193::H1_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),GWD3 (OG0007193::H1_transcript)
+KAT1 (OG0002639::H2_protein),GWD3 (OG0007193::H1_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),GWD3 (OG0007193::H1_transcript)
+NA,GWD3 (OG0007193::H1_transcript),1.0,1.0,NA,GWD3 (OG0007193::H1_transcript)
+PCK1 (OG0002610::H2_protein),GWD3 (OG0007193::H1_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),GWD3 (OG0007193::H1_transcript)
+NA,GWD3 (OG0007193::H1_transcript),1.0,1.0,NA,GWD3 (OG0007193::H1_transcript)
+NA,GWD3 (OG0007193::H1_transcript),1.0,1.0,NA,GWD3 (OG0007193::H1_transcript)
+Asparagine,GWD3 (OG0007193::H1_transcript),1.0,1.0,Asparagine,GWD3 (OG0007193::H1_transcript)
+Putresceine,GWD3 (OG0007193::H1_transcript),1.0,1.0,Putresceine,GWD3 (OG0007193::H1_transcript)
+Succinate,GWD3 (OG0007193::H1_transcript),1.0,1.0,Succinate,GWD3 (OG0007193::H1_transcript)
+BGAL1 (OG0000198::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,BGAL1 (OG0000198::H2_transcript),SS2 (OG0008186::H2_transcript)
+ACO1 (OG0001386::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,ACO1 (OG0001386::H2_transcript),SS2 (OG0008186::H2_transcript)
+MD1 (OG0001880::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,MD1 (OG0001880::H2_transcript),SS2 (OG0008186::H2_transcript)
+TFIIB2 (OG0001924::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),SS2 (OG0008186::H2_transcript)
+RFS1 (OG0002029::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,RFS1 (OG0002029::H1_transcript),SS2 (OG0008186::H2_transcript)
+RBCS (OG0002035::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,RBCS (OG0002035::H1_transcript),SS2 (OG0008186::H2_transcript)
+GDCST (OG0003754::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,GDCST (OG0003754::H2_transcript),SS2 (OG0008186::H2_transcript)
+WAXY (OG0003871::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,WAXY (OG0003871::H1_transcript),SS2 (OG0008186::H2_transcript)
+CTIMC (OG0003945::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,CTIMC (OG0003945::H1_transcript),SS2 (OG0008186::H2_transcript)
+GWD3 (OG0004784::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,GWD3 (OG0004784::H2_transcript),SS2 (OG0008186::H2_transcript)
+DJ1D (OG0007013::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,DJ1D (OG0007013::H2_transcript),SS2 (OG0008186::H2_transcript)
+ADHIII (OG0008025::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,ADHIII (OG0008025::H2_transcript),SS2 (OG0008186::H2_transcript)
+NA,SS2 (OG0008186::H2_transcript),1.0,1.0,NA,SS2 (OG0008186::H2_transcript)
+NA,SS2 (OG0008186::H2_transcript),1.0,1.0,NA,SS2 (OG0008186::H2_transcript)
+PHO1 (OG0004814::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,PHO1 (OG0004814::H1_transcript),SS2 (OG0008186::H2_transcript)
+BAM1 (OG0004988::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,BAM1 (OG0004988::H1_transcript),SS2 (OG0008186::H2_transcript)
+PIF1 (OG0006099::H2_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,PIF1 (OG0006099::H2_transcript),SS2 (OG0008186::H2_transcript)
+GWD3 (OG0007193::H1_transcript),SS2 (OG0008186::H2_transcript),1.0,1.0,GWD3 (OG0007193::H1_transcript),SS2 (OG0008186::H2_transcript)
+GAPC (OG0000484::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,GAPC (OG0000484::H2_protein),SS2 (OG0008186::H2_transcript)
+FBA1 (OG0001274::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,FBA1 (OG0001274::H2_protein),SS2 (OG0008186::H2_transcript)
+IPMS2 (OG0002400::H1_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,IPMS2 (OG0002400::H1_protein),SS2 (OG0008186::H2_transcript)
+PCK1 (OG0002610::H1_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,PCK1 (OG0002610::H1_protein),SS2 (OG0008186::H2_transcript)
+KAT1 (OG0002639::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,KAT1 (OG0002639::H2_protein),SS2 (OG0008186::H2_transcript)
+At3g47520 (OG0004070::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,At3g47520 (OG0004070::H2_protein),SS2 (OG0008186::H2_transcript)
+PGI1 (OG0005360::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,PGI1 (OG0005360::H2_protein),SS2 (OG0008186::H2_transcript)
+GAPA (OG0006112::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,GAPA (OG0006112::H2_protein),SS2 (OG0008186::H2_transcript)
+NA,SS2 (OG0008186::H2_transcript),1.0,1.0,NA,SS2 (OG0008186::H2_transcript)
+PCK1 (OG0002610::H2_protein),SS2 (OG0008186::H2_transcript),1.0,1.0,PCK1 (OG0002610::H2_protein),SS2 (OG0008186::H2_transcript)
+NA,SS2 (OG0008186::H2_transcript),1.0,1.0,NA,SS2 (OG0008186::H2_transcript)
+NA,SS2 (OG0008186::H2_transcript),1.0,1.0,NA,SS2 (OG0008186::H2_transcript)
+Asparagine,SS2 (OG0008186::H2_transcript),1.0,1.0,Asparagine,SS2 (OG0008186::H2_transcript)
+Putresceine,SS2 (OG0008186::H2_transcript),1.0,1.0,Putresceine,SS2 (OG0008186::H2_transcript)
+Succinate,SS2 (OG0008186::H2_transcript),1.0,1.0,Succinate,SS2 (OG0008186::H2_transcript)
+MD1 (OG0001880::H2_transcript),GAPC (OG0000484::H1_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),GAPC (OG0000484::H1_protein)
+TFIIB2 (OG0001924::H1_transcript),GAPC (OG0000484::H1_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GAPC (OG0000484::H1_protein)
+RFS1 (OG0002029::H1_transcript),GAPC (OG0000484::H1_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),GAPC (OG0000484::H1_protein)
+CTIMC (OG0003945::H1_transcript),GAPC (OG0000484::H1_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),GAPC (OG0000484::H1_protein)
+GAPC (OG0000484::H2_protein),GAPC (OG0000484::H1_protein),1.0,1.0,GAPC (OG0000484::H2_protein),GAPC (OG0000484::H1_protein)
+PCK1 (OG0002610::H1_protein),GAPC (OG0000484::H1_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),GAPC (OG0000484::H1_protein)
+PGI1 (OG0005360::H2_protein),GAPC (OG0000484::H1_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),GAPC (OG0000484::H1_protein)
+GAPA (OG0006112::H2_protein),GAPC (OG0000484::H1_protein),1.0,1.0,GAPA (OG0006112::H2_protein),GAPC (OG0000484::H1_protein)
+NA,GAPC (OG0000484::H1_protein),1.0,1.0,NA,GAPC (OG0000484::H1_protein)
+PCK1 (OG0002610::H2_protein),GAPC (OG0000484::H1_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),GAPC (OG0000484::H1_protein)
+NA,GAPC (OG0000484::H1_protein),1.0,1.0,NA,GAPC (OG0000484::H1_protein)
+NA,GAPC (OG0000484::H1_protein),1.0,1.0,NA,GAPC (OG0000484::H1_protein)
+Succinate,GAPC (OG0000484::H1_protein),1.0,1.0,Succinate,GAPC (OG0000484::H1_protein)
+BGAL1 (OG0000198::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),GAPC (OG0000484::H2_protein)
+ACO1 (OG0001386::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,ACO1 (OG0001386::H2_transcript),GAPC (OG0000484::H2_protein)
+MD1 (OG0001880::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),GAPC (OG0000484::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GAPC (OG0000484::H2_protein)
+RFS1 (OG0002029::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),GAPC (OG0000484::H2_protein)
+RBCS (OG0002035::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),GAPC (OG0000484::H2_protein)
+GDCST (OG0003754::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),GAPC (OG0000484::H2_protein)
+WAXY (OG0003871::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),GAPC (OG0000484::H2_protein)
+CTIMC (OG0003945::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),GAPC (OG0000484::H2_protein)
+DJ1D (OG0007013::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),GAPC (OG0000484::H2_protein)
+ADHIII (OG0008025::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),GAPC (OG0000484::H2_protein)
+SBEII (OG0009698::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,SBEII (OG0009698::H2_transcript),GAPC (OG0000484::H2_protein)
+NA,GAPC (OG0000484::H2_protein),1.0,1.0,NA,GAPC (OG0000484::H2_protein)
+NA,GAPC (OG0000484::H2_protein),1.0,1.0,NA,GAPC (OG0000484::H2_protein)
+BAM1 (OG0004988::H1_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),GAPC (OG0000484::H2_protein)
+PIF1 (OG0006099::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),GAPC (OG0000484::H2_protein)
+SS2 (OG0008186::H2_transcript),GAPC (OG0000484::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),GAPC (OG0000484::H2_protein)
+GAPC (OG0000484::H1_protein),GAPC (OG0000484::H2_protein),1.0,1.0,GAPC (OG0000484::H1_protein),GAPC (OG0000484::H2_protein)
+FBA1 (OG0001274::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,FBA1 (OG0001274::H2_protein),GAPC (OG0000484::H2_protein)
+IPMS2 (OG0002400::H1_protein),GAPC (OG0000484::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),GAPC (OG0000484::H2_protein)
+PCK1 (OG0002610::H1_protein),GAPC (OG0000484::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),GAPC (OG0000484::H2_protein)
+KAT1 (OG0002639::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),GAPC (OG0000484::H2_protein)
+ASP3 (OG0002883::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,ASP3 (OG0002883::H2_protein),GAPC (OG0000484::H2_protein)
+At3g47520 (OG0004070::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,At3g47520 (OG0004070::H2_protein),GAPC (OG0000484::H2_protein)
+PGI1 (OG0005360::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),GAPC (OG0000484::H2_protein)
+GAPA (OG0006112::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,GAPA (OG0006112::H2_protein),GAPC (OG0000484::H2_protein)
+NA,GAPC (OG0000484::H2_protein),1.0,1.0,NA,GAPC (OG0000484::H2_protein)
+PCK1 (OG0002610::H2_protein),GAPC (OG0000484::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),GAPC (OG0000484::H2_protein)
+NA,GAPC (OG0000484::H2_protein),1.0,1.0,NA,GAPC (OG0000484::H2_protein)
+NA,GAPC (OG0000484::H2_protein),1.0,1.0,NA,GAPC (OG0000484::H2_protein)
+Asparagine,GAPC (OG0000484::H2_protein),1.0,1.0,Asparagine,GAPC (OG0000484::H2_protein)
+Putresceine,GAPC (OG0000484::H2_protein),1.0,1.0,Putresceine,GAPC (OG0000484::H2_protein)
+Succinate,GAPC (OG0000484::H2_protein),1.0,1.0,Succinate,GAPC (OG0000484::H2_protein)
+MD1 (OG0001880::H2_transcript),At4g37840 (OG0001227::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),At4g37840 (OG0001227::H2_protein)
+RBCS (OG0002035::H1_transcript),At4g37840 (OG0001227::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),At4g37840 (OG0001227::H2_protein)
+GDCST (OG0003754::H2_transcript),At4g37840 (OG0001227::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),At4g37840 (OG0001227::H2_protein)
+CTIMC (OG0003945::H1_transcript),At4g37840 (OG0001227::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),At4g37840 (OG0001227::H2_protein)
+NA,At4g37840 (OG0001227::H2_protein),1.0,1.0,NA,At4g37840 (OG0001227::H2_protein)
+PGI1 (OG0005360::H2_protein),At4g37840 (OG0001227::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),At4g37840 (OG0001227::H2_protein)
+NA,At4g37840 (OG0001227::H2_protein),1.0,1.0,NA,At4g37840 (OG0001227::H2_protein)
+PCK1 (OG0002610::H2_protein),At4g37840 (OG0001227::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),At4g37840 (OG0001227::H2_protein)
+NA,At4g37840 (OG0001227::H2_protein),1.0,1.0,NA,At4g37840 (OG0001227::H2_protein)
+NA,At4g37840 (OG0001227::H2_protein),1.0,1.0,NA,At4g37840 (OG0001227::H2_protein)
+Succinate,At4g37840 (OG0001227::H2_protein),1.0,1.0,Succinate,At4g37840 (OG0001227::H2_protein)
+MD1 (OG0001880::H2_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),FBA1 (OG0001274::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),FBA1 (OG0001274::H2_protein)
+RFS1 (OG0002029::H1_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),FBA1 (OG0001274::H2_protein)
+RBCS (OG0002035::H1_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),FBA1 (OG0001274::H2_protein)
+GDCST (OG0003754::H2_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),FBA1 (OG0001274::H2_protein)
+CTIMC (OG0003945::H1_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),FBA1 (OG0001274::H2_protein)
+SS2 (OG0008186::H2_transcript),FBA1 (OG0001274::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),FBA1 (OG0001274::H2_protein)
+GAPC (OG0000484::H2_protein),FBA1 (OG0001274::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),FBA1 (OG0001274::H2_protein)
+IPMS2 (OG0002400::H1_protein),FBA1 (OG0001274::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),FBA1 (OG0001274::H2_protein)
+PCK1 (OG0002610::H1_protein),FBA1 (OG0001274::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),FBA1 (OG0001274::H2_protein)
+PGI1 (OG0005360::H2_protein),FBA1 (OG0001274::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),FBA1 (OG0001274::H2_protein)
+NA,FBA1 (OG0001274::H2_protein),1.0,1.0,NA,FBA1 (OG0001274::H2_protein)
+PCK1 (OG0002610::H2_protein),FBA1 (OG0001274::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),FBA1 (OG0001274::H2_protein)
+NA,FBA1 (OG0001274::H2_protein),1.0,1.0,NA,FBA1 (OG0001274::H2_protein)
+NA,FBA1 (OG0001274::H2_protein),1.0,1.0,NA,FBA1 (OG0001274::H2_protein)
+Putresceine,FBA1 (OG0001274::H2_protein),1.0,1.0,Putresceine,FBA1 (OG0001274::H2_protein)
+Succinate,FBA1 (OG0001274::H2_protein),1.0,1.0,Succinate,FBA1 (OG0001274::H2_protein)
+BGAL1 (OG0000198::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),IPMS2 (OG0002400::H1_protein)
+ACO1 (OG0001386::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,ACO1 (OG0001386::H2_transcript),IPMS2 (OG0002400::H1_protein)
+MD1 (OG0001880::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),IPMS2 (OG0002400::H1_protein)
+TFIIB2 (OG0001924::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),IPMS2 (OG0002400::H1_protein)
+RFS1 (OG0002029::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),IPMS2 (OG0002400::H1_protein)
+RBCS (OG0002035::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),IPMS2 (OG0002400::H1_protein)
+GDCST (OG0003754::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),IPMS2 (OG0002400::H1_protein)
+WAXY (OG0003871::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),IPMS2 (OG0002400::H1_protein)
+CTIMC (OG0003945::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),IPMS2 (OG0002400::H1_protein)
+GWD3 (OG0004784::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,GWD3 (OG0004784::H2_transcript),IPMS2 (OG0002400::H1_protein)
+DJ1D (OG0007013::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),IPMS2 (OG0002400::H1_protein)
+ADHIII (OG0008025::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),IPMS2 (OG0002400::H1_protein)
+NA,IPMS2 (OG0002400::H1_protein),1.0,1.0,NA,IPMS2 (OG0002400::H1_protein)
+NA,IPMS2 (OG0002400::H1_protein),1.0,1.0,NA,IPMS2 (OG0002400::H1_protein)
+PHO1 (OG0004814::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,PHO1 (OG0004814::H1_transcript),IPMS2 (OG0002400::H1_protein)
+BAM1 (OG0004988::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),IPMS2 (OG0002400::H1_protein)
+PIF1 (OG0006099::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),IPMS2 (OG0002400::H1_protein)
+GWD3 (OG0007193::H1_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,GWD3 (OG0007193::H1_transcript),IPMS2 (OG0002400::H1_protein)
+SS2 (OG0008186::H2_transcript),IPMS2 (OG0002400::H1_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),IPMS2 (OG0002400::H1_protein)
+GAPC (OG0000484::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,GAPC (OG0000484::H2_protein),IPMS2 (OG0002400::H1_protein)
+FBA1 (OG0001274::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,FBA1 (OG0001274::H2_protein),IPMS2 (OG0002400::H1_protein)
+PCK1 (OG0002610::H1_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),IPMS2 (OG0002400::H1_protein)
+KAT1 (OG0002639::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),IPMS2 (OG0002400::H1_protein)
+At3g47520 (OG0004070::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,At3g47520 (OG0004070::H2_protein),IPMS2 (OG0002400::H1_protein)
+PGI1 (OG0005360::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),IPMS2 (OG0002400::H1_protein)
+GAPA (OG0006112::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,GAPA (OG0006112::H2_protein),IPMS2 (OG0002400::H1_protein)
+NA,IPMS2 (OG0002400::H1_protein),1.0,1.0,NA,IPMS2 (OG0002400::H1_protein)
+PCK1 (OG0002610::H2_protein),IPMS2 (OG0002400::H1_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),IPMS2 (OG0002400::H1_protein)
+NA,IPMS2 (OG0002400::H1_protein),1.0,1.0,NA,IPMS2 (OG0002400::H1_protein)
+NA,IPMS2 (OG0002400::H1_protein),1.0,1.0,NA,IPMS2 (OG0002400::H1_protein)
+Asparagine,IPMS2 (OG0002400::H1_protein),1.0,1.0,Asparagine,IPMS2 (OG0002400::H1_protein)
+Putresceine,IPMS2 (OG0002400::H1_protein),1.0,1.0,Putresceine,IPMS2 (OG0002400::H1_protein)
+Succinate,IPMS2 (OG0002400::H1_protein),1.0,1.0,Succinate,IPMS2 (OG0002400::H1_protein)
+BGAL1 (OG0000198::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PCK1 (OG0002610::H1_protein)
+ACO1 (OG0001386::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,ACO1 (OG0001386::H2_transcript),PCK1 (OG0002610::H1_protein)
+MD1 (OG0001880::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),PCK1 (OG0002610::H1_protein)
+TFIIB2 (OG0001924::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),PCK1 (OG0002610::H1_protein)
+RFS1 (OG0002029::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),PCK1 (OG0002610::H1_protein)
+RBCS (OG0002035::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),PCK1 (OG0002610::H1_protein)
+GDCST (OG0003754::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),PCK1 (OG0002610::H1_protein)
+WAXY (OG0003871::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),PCK1 (OG0002610::H1_protein)
+CTIMC (OG0003945::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),PCK1 (OG0002610::H1_protein)
+DJ1D (OG0007013::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),PCK1 (OG0002610::H1_protein)
+ADHIII (OG0008025::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),PCK1 (OG0002610::H1_protein)
+SBEII (OG0009698::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,SBEII (OG0009698::H2_transcript),PCK1 (OG0002610::H1_protein)
+NA,PCK1 (OG0002610::H1_protein),1.0,1.0,NA,PCK1 (OG0002610::H1_protein)
+NA,PCK1 (OG0002610::H1_protein),1.0,1.0,NA,PCK1 (OG0002610::H1_protein)
+PHO1 (OG0004814::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,PHO1 (OG0004814::H1_transcript),PCK1 (OG0002610::H1_protein)
+BAM1 (OG0004988::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),PCK1 (OG0002610::H1_protein)
+PIF1 (OG0006099::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),PCK1 (OG0002610::H1_protein)
+GWD3 (OG0007193::H1_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,GWD3 (OG0007193::H1_transcript),PCK1 (OG0002610::H1_protein)
+SS2 (OG0008186::H2_transcript),PCK1 (OG0002610::H1_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),PCK1 (OG0002610::H1_protein)
+GAPC (OG0000484::H1_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,GAPC (OG0000484::H1_protein),PCK1 (OG0002610::H1_protein)
+GAPC (OG0000484::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,GAPC (OG0000484::H2_protein),PCK1 (OG0002610::H1_protein)
+FBA1 (OG0001274::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,FBA1 (OG0001274::H2_protein),PCK1 (OG0002610::H1_protein)
+IPMS2 (OG0002400::H1_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),PCK1 (OG0002610::H1_protein)
+KAT1 (OG0002639::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),PCK1 (OG0002610::H1_protein)
+ASP3 (OG0002883::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,ASP3 (OG0002883::H2_protein),PCK1 (OG0002610::H1_protein)
+At3g47520 (OG0004070::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,At3g47520 (OG0004070::H2_protein),PCK1 (OG0002610::H1_protein)
+PGI1 (OG0005360::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),PCK1 (OG0002610::H1_protein)
+GAPA (OG0006112::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,GAPA (OG0006112::H2_protein),PCK1 (OG0002610::H1_protein)
+NA,PCK1 (OG0002610::H1_protein),1.0,1.0,NA,PCK1 (OG0002610::H1_protein)
+PCK1 (OG0002610::H2_protein),PCK1 (OG0002610::H1_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),PCK1 (OG0002610::H1_protein)
+NA,PCK1 (OG0002610::H1_protein),1.0,1.0,NA,PCK1 (OG0002610::H1_protein)
+NA,PCK1 (OG0002610::H1_protein),1.0,1.0,NA,PCK1 (OG0002610::H1_protein)
+Asparagine,PCK1 (OG0002610::H1_protein),1.0,1.0,Asparagine,PCK1 (OG0002610::H1_protein)
+Putresceine,PCK1 (OG0002610::H1_protein),1.0,1.0,Putresceine,PCK1 (OG0002610::H1_protein)
+Succinate,PCK1 (OG0002610::H1_protein),1.0,1.0,Succinate,PCK1 (OG0002610::H1_protein)
+BGAL1 (OG0000198::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),KAT1 (OG0002639::H2_protein)
+MD1 (OG0001880::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),KAT1 (OG0002639::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),KAT1 (OG0002639::H2_protein)
+RFS1 (OG0002029::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),KAT1 (OG0002639::H2_protein)
+RBCS (OG0002035::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),KAT1 (OG0002639::H2_protein)
+GDCST (OG0003754::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),KAT1 (OG0002639::H2_protein)
+WAXY (OG0003871::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),KAT1 (OG0002639::H2_protein)
+CTIMC (OG0003945::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),KAT1 (OG0002639::H2_protein)
+DJ1D (OG0007013::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),KAT1 (OG0002639::H2_protein)
+ADHIII (OG0008025::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),KAT1 (OG0002639::H2_protein)
+NA,KAT1 (OG0002639::H2_protein),1.0,1.0,NA,KAT1 (OG0002639::H2_protein)
+NA,KAT1 (OG0002639::H2_protein),1.0,1.0,NA,KAT1 (OG0002639::H2_protein)
+BAM1 (OG0004988::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),KAT1 (OG0002639::H2_protein)
+GWD3 (OG0007193::H1_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,GWD3 (OG0007193::H1_transcript),KAT1 (OG0002639::H2_protein)
+SS2 (OG0008186::H2_transcript),KAT1 (OG0002639::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),KAT1 (OG0002639::H2_protein)
+GAPC (OG0000484::H2_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),KAT1 (OG0002639::H2_protein)
+IPMS2 (OG0002400::H1_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),KAT1 (OG0002639::H2_protein)
+PCK1 (OG0002610::H1_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),KAT1 (OG0002639::H2_protein)
+At3g47520 (OG0004070::H2_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,At3g47520 (OG0004070::H2_protein),KAT1 (OG0002639::H2_protein)
+PGI1 (OG0005360::H2_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),KAT1 (OG0002639::H2_protein)
+GAPA (OG0006112::H2_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,GAPA (OG0006112::H2_protein),KAT1 (OG0002639::H2_protein)
+NA,KAT1 (OG0002639::H2_protein),1.0,1.0,NA,KAT1 (OG0002639::H2_protein)
+PCK1 (OG0002610::H2_protein),KAT1 (OG0002639::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),KAT1 (OG0002639::H2_protein)
+NA,KAT1 (OG0002639::H2_protein),1.0,1.0,NA,KAT1 (OG0002639::H2_protein)
+NA,KAT1 (OG0002639::H2_protein),1.0,1.0,NA,KAT1 (OG0002639::H2_protein)
+Asparagine,KAT1 (OG0002639::H2_protein),1.0,1.0,Asparagine,KAT1 (OG0002639::H2_protein)
+Putresceine,KAT1 (OG0002639::H2_protein),1.0,1.0,Putresceine,KAT1 (OG0002639::H2_protein)
+Succinate,KAT1 (OG0002639::H2_protein),1.0,1.0,Succinate,KAT1 (OG0002639::H2_protein)
+MD1 (OG0001880::H2_transcript),ASP3 (OG0002883::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),ASP3 (OG0002883::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),ASP3 (OG0002883::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),ASP3 (OG0002883::H2_protein)
+RFS1 (OG0002029::H1_transcript),ASP3 (OG0002883::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),ASP3 (OG0002883::H2_protein)
+CTIMC (OG0003945::H1_transcript),ASP3 (OG0002883::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),ASP3 (OG0002883::H2_protein)
+GAPC (OG0000484::H2_protein),ASP3 (OG0002883::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),ASP3 (OG0002883::H2_protein)
+PCK1 (OG0002610::H1_protein),ASP3 (OG0002883::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),ASP3 (OG0002883::H2_protein)
+NA,ASP3 (OG0002883::H2_protein),1.0,1.0,NA,ASP3 (OG0002883::H2_protein)
+NA,ASP3 (OG0002883::H2_protein),1.0,1.0,NA,ASP3 (OG0002883::H2_protein)
+Succinate,ASP3 (OG0002883::H2_protein),1.0,1.0,Succinate,ASP3 (OG0002883::H2_protein)
+BGAL1 (OG0000198::H2_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),At3g47520 (OG0004070::H2_protein)
+MD1 (OG0001880::H2_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),At3g47520 (OG0004070::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),At3g47520 (OG0004070::H2_protein)
+RFS1 (OG0002029::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),At3g47520 (OG0004070::H2_protein)
+RBCS (OG0002035::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),At3g47520 (OG0004070::H2_protein)
+GDCST (OG0003754::H2_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),At3g47520 (OG0004070::H2_protein)
+WAXY (OG0003871::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),At3g47520 (OG0004070::H2_protein)
+CTIMC (OG0003945::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),At3g47520 (OG0004070::H2_protein)
+DJ1D (OG0007013::H2_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),At3g47520 (OG0004070::H2_protein)
+NA,At3g47520 (OG0004070::H2_protein),1.0,1.0,NA,At3g47520 (OG0004070::H2_protein)
+NA,At3g47520 (OG0004070::H2_protein),1.0,1.0,NA,At3g47520 (OG0004070::H2_protein)
+BAM1 (OG0004988::H1_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),At3g47520 (OG0004070::H2_protein)
+SS2 (OG0008186::H2_transcript),At3g47520 (OG0004070::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),At3g47520 (OG0004070::H2_protein)
+GAPC (OG0000484::H2_protein),At3g47520 (OG0004070::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),At3g47520 (OG0004070::H2_protein)
+IPMS2 (OG0002400::H1_protein),At3g47520 (OG0004070::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),At3g47520 (OG0004070::H2_protein)
+PCK1 (OG0002610::H1_protein),At3g47520 (OG0004070::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),At3g47520 (OG0004070::H2_protein)
+KAT1 (OG0002639::H2_protein),At3g47520 (OG0004070::H2_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),At3g47520 (OG0004070::H2_protein)
+NA,At3g47520 (OG0004070::H2_protein),1.0,1.0,NA,At3g47520 (OG0004070::H2_protein)
+PCK1 (OG0002610::H2_protein),At3g47520 (OG0004070::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),At3g47520 (OG0004070::H2_protein)
+NA,At3g47520 (OG0004070::H2_protein),1.0,1.0,NA,At3g47520 (OG0004070::H2_protein)
+NA,At3g47520 (OG0004070::H2_protein),1.0,1.0,NA,At3g47520 (OG0004070::H2_protein)
+Asparagine,At3g47520 (OG0004070::H2_protein),1.0,1.0,Asparagine,At3g47520 (OG0004070::H2_protein)
+Putresceine,At3g47520 (OG0004070::H2_protein),1.0,1.0,Putresceine,At3g47520 (OG0004070::H2_protein)
+Succinate,At3g47520 (OG0004070::H2_protein),1.0,1.0,Succinate,At3g47520 (OG0004070::H2_protein)
+MD1 (OG0001880::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),PGI1 (OG0005360::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),PGI1 (OG0005360::H2_protein)
+RFS1 (OG0002029::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),PGI1 (OG0005360::H2_protein)
+RBCS (OG0002035::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),PGI1 (OG0005360::H2_protein)
+GDCST (OG0003754::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),PGI1 (OG0005360::H2_protein)
+WAXY (OG0003871::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),PGI1 (OG0005360::H2_protein)
+CTIMC (OG0003945::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),PGI1 (OG0005360::H2_protein)
+DJ1D (OG0007013::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),PGI1 (OG0005360::H2_protein)
+ADHIII (OG0008025::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),PGI1 (OG0005360::H2_protein)
+NA,PGI1 (OG0005360::H2_protein),1.0,1.0,NA,PGI1 (OG0005360::H2_protein)
+NA,PGI1 (OG0005360::H2_protein),1.0,1.0,NA,PGI1 (OG0005360::H2_protein)
+BAM1 (OG0004988::H1_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),PGI1 (OG0005360::H2_protein)
+PIF1 (OG0006099::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),PGI1 (OG0005360::H2_protein)
+SS2 (OG0008186::H2_transcript),PGI1 (OG0005360::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),PGI1 (OG0005360::H2_protein)
+GAPC (OG0000484::H1_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,GAPC (OG0000484::H1_protein),PGI1 (OG0005360::H2_protein)
+GAPC (OG0000484::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),PGI1 (OG0005360::H2_protein)
+At4g37840 (OG0001227::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,At4g37840 (OG0001227::H2_protein),PGI1 (OG0005360::H2_protein)
+FBA1 (OG0001274::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,FBA1 (OG0001274::H2_protein),PGI1 (OG0005360::H2_protein)
+IPMS2 (OG0002400::H1_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),PGI1 (OG0005360::H2_protein)
+PCK1 (OG0002610::H1_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),PGI1 (OG0005360::H2_protein)
+KAT1 (OG0002639::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),PGI1 (OG0005360::H2_protein)
+GAPA (OG0006112::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,GAPA (OG0006112::H2_protein),PGI1 (OG0005360::H2_protein)
+NA,PGI1 (OG0005360::H2_protein),1.0,1.0,NA,PGI1 (OG0005360::H2_protein)
+PCK1 (OG0002610::H2_protein),PGI1 (OG0005360::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),PGI1 (OG0005360::H2_protein)
+NA,PGI1 (OG0005360::H2_protein),1.0,1.0,NA,PGI1 (OG0005360::H2_protein)
+NA,PGI1 (OG0005360::H2_protein),1.0,1.0,NA,PGI1 (OG0005360::H2_protein)
+Asparagine,PGI1 (OG0005360::H2_protein),1.0,1.0,Asparagine,PGI1 (OG0005360::H2_protein)
+Putresceine,PGI1 (OG0005360::H2_protein),1.0,1.0,Putresceine,PGI1 (OG0005360::H2_protein)
+Succinate,PGI1 (OG0005360::H2_protein),1.0,1.0,Succinate,PGI1 (OG0005360::H2_protein)
+MD1 (OG0001880::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),GAPA (OG0006112::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),GAPA (OG0006112::H2_protein)
+RFS1 (OG0002029::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),GAPA (OG0006112::H2_protein)
+RBCS (OG0002035::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),GAPA (OG0006112::H2_protein)
+GDCST (OG0003754::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),GAPA (OG0006112::H2_protein)
+WAXY (OG0003871::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),GAPA (OG0006112::H2_protein)
+CTIMC (OG0003945::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),GAPA (OG0006112::H2_protein)
+DJ1D (OG0007013::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),GAPA (OG0006112::H2_protein)
+ADHIII (OG0008025::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),GAPA (OG0006112::H2_protein)
+NA,GAPA (OG0006112::H2_protein),1.0,1.0,NA,GAPA (OG0006112::H2_protein)
+NA,GAPA (OG0006112::H2_protein),1.0,1.0,NA,GAPA (OG0006112::H2_protein)
+BAM1 (OG0004988::H1_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),GAPA (OG0006112::H2_protein)
+PIF1 (OG0006099::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),GAPA (OG0006112::H2_protein)
+SS2 (OG0008186::H2_transcript),GAPA (OG0006112::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),GAPA (OG0006112::H2_protein)
+GAPC (OG0000484::H1_protein),GAPA (OG0006112::H2_protein),1.0,1.0,GAPC (OG0000484::H1_protein),GAPA (OG0006112::H2_protein)
+GAPC (OG0000484::H2_protein),GAPA (OG0006112::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),GAPA (OG0006112::H2_protein)
+IPMS2 (OG0002400::H1_protein),GAPA (OG0006112::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),GAPA (OG0006112::H2_protein)
+PCK1 (OG0002610::H1_protein),GAPA (OG0006112::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),GAPA (OG0006112::H2_protein)
+KAT1 (OG0002639::H2_protein),GAPA (OG0006112::H2_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),GAPA (OG0006112::H2_protein)
+PGI1 (OG0005360::H2_protein),GAPA (OG0006112::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),GAPA (OG0006112::H2_protein)
+NA,GAPA (OG0006112::H2_protein),1.0,1.0,NA,GAPA (OG0006112::H2_protein)
+PCK1 (OG0002610::H2_protein),GAPA (OG0006112::H2_protein),1.0,1.0,PCK1 (OG0002610::H2_protein),GAPA (OG0006112::H2_protein)
+NA,GAPA (OG0006112::H2_protein),1.0,1.0,NA,GAPA (OG0006112::H2_protein)
+NA,GAPA (OG0006112::H2_protein),1.0,1.0,NA,GAPA (OG0006112::H2_protein)
+Asparagine,GAPA (OG0006112::H2_protein),1.0,1.0,Asparagine,GAPA (OG0006112::H2_protein)
+Putresceine,GAPA (OG0006112::H2_protein),1.0,1.0,Putresceine,GAPA (OG0006112::H2_protein)
+Succinate,GAPA (OG0006112::H2_protein),1.0,1.0,Succinate,GAPA (OG0006112::H2_protein)
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+MD1 (OG0001880::H2_transcript),NA,1.0,1.0,MD1 (OG0001880::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+RBCS (OG0002035::H1_transcript),NA,1.0,1.0,RBCS (OG0002035::H1_transcript),NA
+GDCST (OG0003754::H2_transcript),NA,1.0,1.0,GDCST (OG0003754::H2_transcript),NA
+WAXY (OG0003871::H1_transcript),NA,1.0,1.0,WAXY (OG0003871::H1_transcript),NA
+CTIMC (OG0003945::H1_transcript),NA,1.0,1.0,CTIMC (OG0003945::H1_transcript),NA
+GWD3 (OG0004784::H2_transcript),NA,1.0,1.0,GWD3 (OG0004784::H2_transcript),NA
+DJ1D (OG0007013::H2_transcript),NA,1.0,1.0,DJ1D (OG0007013::H2_transcript),NA
+ADHIII (OG0008025::H2_transcript),NA,1.0,1.0,ADHIII (OG0008025::H2_transcript),NA
+SBEII (OG0009698::H2_transcript),NA,1.0,1.0,SBEII (OG0009698::H2_transcript),NA
+PHO1 (OG0004814::H1_transcript),NA,1.0,1.0,PHO1 (OG0004814::H1_transcript),NA
+BAM1 (OG0004988::H1_transcript),NA,1.0,1.0,BAM1 (OG0004988::H1_transcript),NA
+PIF1 (OG0006099::H2_transcript),NA,1.0,1.0,PIF1 (OG0006099::H2_transcript),NA
+GWD3 (OG0007193::H1_transcript),NA,1.0,1.0,GWD3 (OG0007193::H1_transcript),NA
+SS2 (OG0008186::H2_transcript),NA,1.0,1.0,SS2 (OG0008186::H2_transcript),NA
+GAPC (OG0000484::H1_protein),NA,1.0,1.0,GAPC (OG0000484::H1_protein),NA
+GAPC (OG0000484::H2_protein),NA,1.0,1.0,GAPC (OG0000484::H2_protein),NA
+At4g37840 (OG0001227::H2_protein),NA,1.0,1.0,At4g37840 (OG0001227::H2_protein),NA
+FBA1 (OG0001274::H2_protein),NA,1.0,1.0,FBA1 (OG0001274::H2_protein),NA
+IPMS2 (OG0002400::H1_protein),NA,1.0,1.0,IPMS2 (OG0002400::H1_protein),NA
+PCK1 (OG0002610::H1_protein),NA,1.0,1.0,PCK1 (OG0002610::H1_protein),NA
+KAT1 (OG0002639::H2_protein),NA,1.0,1.0,KAT1 (OG0002639::H2_protein),NA
+At3g47520 (OG0004070::H2_protein),NA,1.0,1.0,At3g47520 (OG0004070::H2_protein),NA
+PGI1 (OG0005360::H2_protein),NA,1.0,1.0,PGI1 (OG0005360::H2_protein),NA
+GAPA (OG0006112::H2_protein),NA,1.0,1.0,GAPA (OG0006112::H2_protein),NA
+PCK1 (OG0002610::H2_protein),NA,1.0,1.0,PCK1 (OG0002610::H2_protein),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Putresceine,NA,1.0,1.0,Putresceine,NA
+Succinate,NA,1.0,1.0,Succinate,NA
+BGAL1 (OG0000198::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,BGAL1 (OG0000198::H2_transcript),PCK1 (OG0002610::H2_protein)
+ACO1 (OG0001386::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,ACO1 (OG0001386::H2_transcript),PCK1 (OG0002610::H2_protein)
+MD1 (OG0001880::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,MD1 (OG0001880::H2_transcript),PCK1 (OG0002610::H2_protein)
+TFIIB2 (OG0001924::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,TFIIB2 (OG0001924::H1_transcript),PCK1 (OG0002610::H2_protein)
+RFS1 (OG0002029::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,RFS1 (OG0002029::H1_transcript),PCK1 (OG0002610::H2_protein)
+RBCS (OG0002035::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,RBCS (OG0002035::H1_transcript),PCK1 (OG0002610::H2_protein)
+GDCST (OG0003754::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,GDCST (OG0003754::H2_transcript),PCK1 (OG0002610::H2_protein)
+WAXY (OG0003871::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,WAXY (OG0003871::H1_transcript),PCK1 (OG0002610::H2_protein)
+CTIMC (OG0003945::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,CTIMC (OG0003945::H1_transcript),PCK1 (OG0002610::H2_protein)
+GWD3 (OG0004784::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,GWD3 (OG0004784::H2_transcript),PCK1 (OG0002610::H2_protein)
+DJ1D (OG0007013::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,DJ1D (OG0007013::H2_transcript),PCK1 (OG0002610::H2_protein)
+ADHIII (OG0008025::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,ADHIII (OG0008025::H2_transcript),PCK1 (OG0002610::H2_protein)
+SBEII (OG0009698::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,SBEII (OG0009698::H2_transcript),PCK1 (OG0002610::H2_protein)
+NA,PCK1 (OG0002610::H2_protein),1.0,1.0,NA,PCK1 (OG0002610::H2_protein)
+NA,PCK1 (OG0002610::H2_protein),1.0,1.0,NA,PCK1 (OG0002610::H2_protein)
+PHO1 (OG0004814::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,PHO1 (OG0004814::H1_transcript),PCK1 (OG0002610::H2_protein)
+BAM1 (OG0004988::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,BAM1 (OG0004988::H1_transcript),PCK1 (OG0002610::H2_protein)
+PIF1 (OG0006099::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,PIF1 (OG0006099::H2_transcript),PCK1 (OG0002610::H2_protein)
+GWD3 (OG0007193::H1_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,GWD3 (OG0007193::H1_transcript),PCK1 (OG0002610::H2_protein)
+SS2 (OG0008186::H2_transcript),PCK1 (OG0002610::H2_protein),1.0,1.0,SS2 (OG0008186::H2_transcript),PCK1 (OG0002610::H2_protein)
+GAPC (OG0000484::H1_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,GAPC (OG0000484::H1_protein),PCK1 (OG0002610::H2_protein)
+GAPC (OG0000484::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,GAPC (OG0000484::H2_protein),PCK1 (OG0002610::H2_protein)
+At4g37840 (OG0001227::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,At4g37840 (OG0001227::H2_protein),PCK1 (OG0002610::H2_protein)
+FBA1 (OG0001274::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,FBA1 (OG0001274::H2_protein),PCK1 (OG0002610::H2_protein)
+IPMS2 (OG0002400::H1_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,IPMS2 (OG0002400::H1_protein),PCK1 (OG0002610::H2_protein)
+PCK1 (OG0002610::H1_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,PCK1 (OG0002610::H1_protein),PCK1 (OG0002610::H2_protein)
+KAT1 (OG0002639::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,KAT1 (OG0002639::H2_protein),PCK1 (OG0002610::H2_protein)
+At3g47520 (OG0004070::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,At3g47520 (OG0004070::H2_protein),PCK1 (OG0002610::H2_protein)
+PGI1 (OG0005360::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,PGI1 (OG0005360::H2_protein),PCK1 (OG0002610::H2_protein)
+GAPA (OG0006112::H2_protein),PCK1 (OG0002610::H2_protein),1.0,1.0,GAPA (OG0006112::H2_protein),PCK1 (OG0002610::H2_protein)
+NA,PCK1 (OG0002610::H2_protein),1.0,1.0,NA,PCK1 (OG0002610::H2_protein)
+NA,PCK1 (OG0002610::H2_protein),1.0,1.0,NA,PCK1 (OG0002610::H2_protein)
+NA,PCK1 (OG0002610::H2_protein),1.0,1.0,NA,PCK1 (OG0002610::H2_protein)
+Asparagine,PCK1 (OG0002610::H2_protein),1.0,1.0,Asparagine,PCK1 (OG0002610::H2_protein)
+Putresceine,PCK1 (OG0002610::H2_protein),1.0,1.0,Putresceine,PCK1 (OG0002610::H2_protein)
+Succinate,PCK1 (OG0002610::H2_protein),1.0,1.0,Succinate,PCK1 (OG0002610::H2_protein)
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+MD1 (OG0001880::H2_transcript),NA,1.0,1.0,MD1 (OG0001880::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+RBCS (OG0002035::H1_transcript),NA,1.0,1.0,RBCS (OG0002035::H1_transcript),NA
+GDCST (OG0003754::H2_transcript),NA,1.0,1.0,GDCST (OG0003754::H2_transcript),NA
+WAXY (OG0003871::H1_transcript),NA,1.0,1.0,WAXY (OG0003871::H1_transcript),NA
+CTIMC (OG0003945::H1_transcript),NA,1.0,1.0,CTIMC (OG0003945::H1_transcript),NA
+DJ1D (OG0007013::H2_transcript),NA,1.0,1.0,DJ1D (OG0007013::H2_transcript),NA
+ADHIII (OG0008025::H2_transcript),NA,1.0,1.0,ADHIII (OG0008025::H2_transcript),NA
+SBEII (OG0009698::H2_transcript),NA,1.0,1.0,SBEII (OG0009698::H2_transcript),NA
+BAM1 (OG0004988::H1_transcript),NA,1.0,1.0,BAM1 (OG0004988::H1_transcript),NA
+PIF1 (OG0006099::H2_transcript),NA,1.0,1.0,PIF1 (OG0006099::H2_transcript),NA
+GWD3 (OG0007193::H1_transcript),NA,1.0,1.0,GWD3 (OG0007193::H1_transcript),NA
+SS2 (OG0008186::H2_transcript),NA,1.0,1.0,SS2 (OG0008186::H2_transcript),NA
+GAPC (OG0000484::H1_protein),NA,1.0,1.0,GAPC (OG0000484::H1_protein),NA
+GAPC (OG0000484::H2_protein),NA,1.0,1.0,GAPC (OG0000484::H2_protein),NA
+At4g37840 (OG0001227::H2_protein),NA,1.0,1.0,At4g37840 (OG0001227::H2_protein),NA
+FBA1 (OG0001274::H2_protein),NA,1.0,1.0,FBA1 (OG0001274::H2_protein),NA
+IPMS2 (OG0002400::H1_protein),NA,1.0,1.0,IPMS2 (OG0002400::H1_protein),NA
+PCK1 (OG0002610::H1_protein),NA,1.0,1.0,PCK1 (OG0002610::H1_protein),NA
+KAT1 (OG0002639::H2_protein),NA,1.0,1.0,KAT1 (OG0002639::H2_protein),NA
+ASP3 (OG0002883::H2_protein),NA,1.0,1.0,ASP3 (OG0002883::H2_protein),NA
+At3g47520 (OG0004070::H2_protein),NA,1.0,1.0,At3g47520 (OG0004070::H2_protein),NA
+PGI1 (OG0005360::H2_protein),NA,1.0,1.0,PGI1 (OG0005360::H2_protein),NA
+GAPA (OG0006112::H2_protein),NA,1.0,1.0,GAPA (OG0006112::H2_protein),NA
+PCK1 (OG0002610::H2_protein),NA,1.0,1.0,PCK1 (OG0002610::H2_protein),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Putresceine,NA,1.0,1.0,Putresceine,NA
+Succinate,NA,1.0,1.0,Succinate,NA
+BGAL1 (OG0000198::H2_transcript),NA,1.0,1.0,BGAL1 (OG0000198::H2_transcript),NA
+ACO1 (OG0001386::H2_transcript),NA,1.0,1.0,ACO1 (OG0001386::H2_transcript),NA
+MD1 (OG0001880::H2_transcript),NA,1.0,1.0,MD1 (OG0001880::H2_transcript),NA
+TFIIB2 (OG0001924::H1_transcript),NA,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),NA
+RFS1 (OG0002029::H1_transcript),NA,1.0,1.0,RFS1 (OG0002029::H1_transcript),NA
+RBCS (OG0002035::H1_transcript),NA,1.0,1.0,RBCS (OG0002035::H1_transcript),NA
+GDCST (OG0003754::H2_transcript),NA,1.0,1.0,GDCST (OG0003754::H2_transcript),NA
+WAXY (OG0003871::H1_transcript),NA,1.0,1.0,WAXY (OG0003871::H1_transcript),NA
+CTIMC (OG0003945::H1_transcript),NA,1.0,1.0,CTIMC (OG0003945::H1_transcript),NA
+DJ1D (OG0007013::H2_transcript),NA,1.0,1.0,DJ1D (OG0007013::H2_transcript),NA
+ADHIII (OG0008025::H2_transcript),NA,1.0,1.0,ADHIII (OG0008025::H2_transcript),NA
+SBEII (OG0009698::H2_transcript),NA,1.0,1.0,SBEII (OG0009698::H2_transcript),NA
+PHO1 (OG0004814::H1_transcript),NA,1.0,1.0,PHO1 (OG0004814::H1_transcript),NA
+BAM1 (OG0004988::H1_transcript),NA,1.0,1.0,BAM1 (OG0004988::H1_transcript),NA
+PIF1 (OG0006099::H2_transcript),NA,1.0,1.0,PIF1 (OG0006099::H2_transcript),NA
+GWD3 (OG0007193::H1_transcript),NA,1.0,1.0,GWD3 (OG0007193::H1_transcript),NA
+SS2 (OG0008186::H2_transcript),NA,1.0,1.0,SS2 (OG0008186::H2_transcript),NA
+GAPC (OG0000484::H1_protein),NA,1.0,1.0,GAPC (OG0000484::H1_protein),NA
+GAPC (OG0000484::H2_protein),NA,1.0,1.0,GAPC (OG0000484::H2_protein),NA
+At4g37840 (OG0001227::H2_protein),NA,1.0,1.0,At4g37840 (OG0001227::H2_protein),NA
+FBA1 (OG0001274::H2_protein),NA,1.0,1.0,FBA1 (OG0001274::H2_protein),NA
+IPMS2 (OG0002400::H1_protein),NA,1.0,1.0,IPMS2 (OG0002400::H1_protein),NA
+PCK1 (OG0002610::H1_protein),NA,1.0,1.0,PCK1 (OG0002610::H1_protein),NA
+KAT1 (OG0002639::H2_protein),NA,1.0,1.0,KAT1 (OG0002639::H2_protein),NA
+ASP3 (OG0002883::H2_protein),NA,1.0,1.0,ASP3 (OG0002883::H2_protein),NA
+At3g47520 (OG0004070::H2_protein),NA,1.0,1.0,At3g47520 (OG0004070::H2_protein),NA
+PGI1 (OG0005360::H2_protein),NA,1.0,1.0,PGI1 (OG0005360::H2_protein),NA
+GAPA (OG0006112::H2_protein),NA,1.0,1.0,GAPA (OG0006112::H2_protein),NA
+PCK1 (OG0002610::H2_protein),NA,1.0,1.0,PCK1 (OG0002610::H2_protein),NA
+Asparagine,NA,1.0,1.0,Asparagine,NA
+Putresceine,NA,1.0,1.0,Putresceine,NA
+Succinate,NA,1.0,1.0,Succinate,NA
+BGAL1 (OG0000198::H2_transcript),Asparagine,1.0,1.0,BGAL1 (OG0000198::H2_transcript),Asparagine
+ACO1 (OG0001386::H2_transcript),Asparagine,1.0,1.0,ACO1 (OG0001386::H2_transcript),Asparagine
+MD1 (OG0001880::H2_transcript),Asparagine,1.0,1.0,MD1 (OG0001880::H2_transcript),Asparagine
+TFIIB2 (OG0001924::H1_transcript),Asparagine,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),Asparagine
+RFS1 (OG0002029::H1_transcript),Asparagine,1.0,1.0,RFS1 (OG0002029::H1_transcript),Asparagine
+RBCS (OG0002035::H1_transcript),Asparagine,1.0,1.0,RBCS (OG0002035::H1_transcript),Asparagine
+GDCST (OG0003754::H2_transcript),Asparagine,1.0,1.0,GDCST (OG0003754::H2_transcript),Asparagine
+WAXY (OG0003871::H1_transcript),Asparagine,1.0,1.0,WAXY (OG0003871::H1_transcript),Asparagine
+CTIMC (OG0003945::H1_transcript),Asparagine,1.0,1.0,CTIMC (OG0003945::H1_transcript),Asparagine
+DJ1D (OG0007013::H2_transcript),Asparagine,1.0,1.0,DJ1D (OG0007013::H2_transcript),Asparagine
+ADHIII (OG0008025::H2_transcript),Asparagine,1.0,1.0,ADHIII (OG0008025::H2_transcript),Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+PHO1 (OG0004814::H1_transcript),Asparagine,1.0,1.0,PHO1 (OG0004814::H1_transcript),Asparagine
+BAM1 (OG0004988::H1_transcript),Asparagine,1.0,1.0,BAM1 (OG0004988::H1_transcript),Asparagine
+PIF1 (OG0006099::H2_transcript),Asparagine,1.0,1.0,PIF1 (OG0006099::H2_transcript),Asparagine
+GWD3 (OG0007193::H1_transcript),Asparagine,1.0,1.0,GWD3 (OG0007193::H1_transcript),Asparagine
+SS2 (OG0008186::H2_transcript),Asparagine,1.0,1.0,SS2 (OG0008186::H2_transcript),Asparagine
+GAPC (OG0000484::H2_protein),Asparagine,1.0,1.0,GAPC (OG0000484::H2_protein),Asparagine
+IPMS2 (OG0002400::H1_protein),Asparagine,1.0,1.0,IPMS2 (OG0002400::H1_protein),Asparagine
+PCK1 (OG0002610::H1_protein),Asparagine,1.0,1.0,PCK1 (OG0002610::H1_protein),Asparagine
+KAT1 (OG0002639::H2_protein),Asparagine,1.0,1.0,KAT1 (OG0002639::H2_protein),Asparagine
+At3g47520 (OG0004070::H2_protein),Asparagine,1.0,1.0,At3g47520 (OG0004070::H2_protein),Asparagine
+PGI1 (OG0005360::H2_protein),Asparagine,1.0,1.0,PGI1 (OG0005360::H2_protein),Asparagine
+GAPA (OG0006112::H2_protein),Asparagine,1.0,1.0,GAPA (OG0006112::H2_protein),Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+PCK1 (OG0002610::H2_protein),Asparagine,1.0,1.0,PCK1 (OG0002610::H2_protein),Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+NA,Asparagine,1.0,1.0,NA,Asparagine
+Putresceine,Asparagine,1.0,1.0,Putresceine,Asparagine
+Succinate,Asparagine,1.0,1.0,Succinate,Asparagine
+BGAL1 (OG0000198::H2_transcript),Putresceine,1.0,1.0,BGAL1 (OG0000198::H2_transcript),Putresceine
+ACO1 (OG0001386::H2_transcript),Putresceine,1.0,1.0,ACO1 (OG0001386::H2_transcript),Putresceine
+MD1 (OG0001880::H2_transcript),Putresceine,1.0,1.0,MD1 (OG0001880::H2_transcript),Putresceine
+TFIIB2 (OG0001924::H1_transcript),Putresceine,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),Putresceine
+RFS1 (OG0002029::H1_transcript),Putresceine,1.0,1.0,RFS1 (OG0002029::H1_transcript),Putresceine
+RBCS (OG0002035::H1_transcript),Putresceine,1.0,1.0,RBCS (OG0002035::H1_transcript),Putresceine
+GDCST (OG0003754::H2_transcript),Putresceine,1.0,1.0,GDCST (OG0003754::H2_transcript),Putresceine
+WAXY (OG0003871::H1_transcript),Putresceine,1.0,1.0,WAXY (OG0003871::H1_transcript),Putresceine
+CTIMC (OG0003945::H1_transcript),Putresceine,1.0,1.0,CTIMC (OG0003945::H1_transcript),Putresceine
+GWD3 (OG0004784::H2_transcript),Putresceine,1.0,1.0,GWD3 (OG0004784::H2_transcript),Putresceine
+DJ1D (OG0007013::H2_transcript),Putresceine,1.0,1.0,DJ1D (OG0007013::H2_transcript),Putresceine
+ADHIII (OG0008025::H2_transcript),Putresceine,1.0,1.0,ADHIII (OG0008025::H2_transcript),Putresceine
+NA,Putresceine,1.0,1.0,NA,Putresceine
+NA,Putresceine,1.0,1.0,NA,Putresceine
+PHO1 (OG0004814::H1_transcript),Putresceine,1.0,1.0,PHO1 (OG0004814::H1_transcript),Putresceine
+BAM1 (OG0004988::H1_transcript),Putresceine,1.0,1.0,BAM1 (OG0004988::H1_transcript),Putresceine
+PIF1 (OG0006099::H2_transcript),Putresceine,1.0,1.0,PIF1 (OG0006099::H2_transcript),Putresceine
+GWD3 (OG0007193::H1_transcript),Putresceine,1.0,1.0,GWD3 (OG0007193::H1_transcript),Putresceine
+SS2 (OG0008186::H2_transcript),Putresceine,1.0,1.0,SS2 (OG0008186::H2_transcript),Putresceine
+GAPC (OG0000484::H2_protein),Putresceine,1.0,1.0,GAPC (OG0000484::H2_protein),Putresceine
+FBA1 (OG0001274::H2_protein),Putresceine,1.0,1.0,FBA1 (OG0001274::H2_protein),Putresceine
+IPMS2 (OG0002400::H1_protein),Putresceine,1.0,1.0,IPMS2 (OG0002400::H1_protein),Putresceine
+PCK1 (OG0002610::H1_protein),Putresceine,1.0,1.0,PCK1 (OG0002610::H1_protein),Putresceine
+KAT1 (OG0002639::H2_protein),Putresceine,1.0,1.0,KAT1 (OG0002639::H2_protein),Putresceine
+At3g47520 (OG0004070::H2_protein),Putresceine,1.0,1.0,At3g47520 (OG0004070::H2_protein),Putresceine
+PGI1 (OG0005360::H2_protein),Putresceine,1.0,1.0,PGI1 (OG0005360::H2_protein),Putresceine
+GAPA (OG0006112::H2_protein),Putresceine,1.0,1.0,GAPA (OG0006112::H2_protein),Putresceine
+NA,Putresceine,1.0,1.0,NA,Putresceine
+PCK1 (OG0002610::H2_protein),Putresceine,1.0,1.0,PCK1 (OG0002610::H2_protein),Putresceine
+NA,Putresceine,1.0,1.0,NA,Putresceine
+NA,Putresceine,1.0,1.0,NA,Putresceine
+Asparagine,Putresceine,1.0,1.0,Asparagine,Putresceine
+Succinate,Putresceine,1.0,1.0,Succinate,Putresceine
+BGAL1 (OG0000198::H2_transcript),Succinate,1.0,1.0,BGAL1 (OG0000198::H2_transcript),Succinate
+ACO1 (OG0001386::H2_transcript),Succinate,1.0,1.0,ACO1 (OG0001386::H2_transcript),Succinate
+MD1 (OG0001880::H2_transcript),Succinate,1.0,1.0,MD1 (OG0001880::H2_transcript),Succinate
+TFIIB2 (OG0001924::H1_transcript),Succinate,1.0,1.0,TFIIB2 (OG0001924::H1_transcript),Succinate
+RFS1 (OG0002029::H1_transcript),Succinate,1.0,1.0,RFS1 (OG0002029::H1_transcript),Succinate
+RBCS (OG0002035::H1_transcript),Succinate,1.0,1.0,RBCS (OG0002035::H1_transcript),Succinate
+GDCST (OG0003754::H2_transcript),Succinate,1.0,1.0,GDCST (OG0003754::H2_transcript),Succinate
+WAXY (OG0003871::H1_transcript),Succinate,1.0,1.0,WAXY (OG0003871::H1_transcript),Succinate
+CTIMC (OG0003945::H1_transcript),Succinate,1.0,1.0,CTIMC (OG0003945::H1_transcript),Succinate
+GWD3 (OG0004784::H2_transcript),Succinate,1.0,1.0,GWD3 (OG0004784::H2_transcript),Succinate
+DJ1D (OG0007013::H2_transcript),Succinate,1.0,1.0,DJ1D (OG0007013::H2_transcript),Succinate
+ADHIII (OG0008025::H2_transcript),Succinate,1.0,1.0,ADHIII (OG0008025::H2_transcript),Succinate
+SBEII (OG0009698::H2_transcript),Succinate,1.0,1.0,SBEII (OG0009698::H2_transcript),Succinate
+NA,Succinate,1.0,1.0,NA,Succinate
+NA,Succinate,1.0,1.0,NA,Succinate
+PHO1 (OG0004814::H1_transcript),Succinate,1.0,1.0,PHO1 (OG0004814::H1_transcript),Succinate
+BAM1 (OG0004988::H1_transcript),Succinate,1.0,1.0,BAM1 (OG0004988::H1_transcript),Succinate
+PIF1 (OG0006099::H2_transcript),Succinate,1.0,1.0,PIF1 (OG0006099::H2_transcript),Succinate
+GWD3 (OG0007193::H1_transcript),Succinate,1.0,1.0,GWD3 (OG0007193::H1_transcript),Succinate
+SS2 (OG0008186::H2_transcript),Succinate,1.0,1.0,SS2 (OG0008186::H2_transcript),Succinate
+GAPC (OG0000484::H1_protein),Succinate,1.0,1.0,GAPC (OG0000484::H1_protein),Succinate
+GAPC (OG0000484::H2_protein),Succinate,1.0,1.0,GAPC (OG0000484::H2_protein),Succinate
+At4g37840 (OG0001227::H2_protein),Succinate,1.0,1.0,At4g37840 (OG0001227::H2_protein),Succinate
+FBA1 (OG0001274::H2_protein),Succinate,1.0,1.0,FBA1 (OG0001274::H2_protein),Succinate
+IPMS2 (OG0002400::H1_protein),Succinate,1.0,1.0,IPMS2 (OG0002400::H1_protein),Succinate
+PCK1 (OG0002610::H1_protein),Succinate,1.0,1.0,PCK1 (OG0002610::H1_protein),Succinate
+KAT1 (OG0002639::H2_protein),Succinate,1.0,1.0,KAT1 (OG0002639::H2_protein),Succinate
+ASP3 (OG0002883::H2_protein),Succinate,1.0,1.0,ASP3 (OG0002883::H2_protein),Succinate
+At3g47520 (OG0004070::H2_protein),Succinate,1.0,1.0,At3g47520 (OG0004070::H2_protein),Succinate
+PGI1 (OG0005360::H2_protein),Succinate,1.0,1.0,PGI1 (OG0005360::H2_protein),Succinate
+GAPA (OG0006112::H2_protein),Succinate,1.0,1.0,GAPA (OG0006112::H2_protein),Succinate
+NA,Succinate,1.0,1.0,NA,Succinate
+PCK1 (OG0002610::H2_protein),Succinate,1.0,1.0,PCK1 (OG0002610::H2_protein),Succinate
+NA,Succinate,1.0,1.0,NA,Succinate
+NA,Succinate,1.0,1.0,NA,Succinate
+Asparagine,Succinate,1.0,1.0,Asparagine,Succinate
+Putresceine,Succinate,1.0,1.0,Putresceine,Succinate

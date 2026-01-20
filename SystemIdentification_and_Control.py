@@ -172,7 +172,7 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
         feature_names = np.asarray(names) #[feature_index]  # Subset of feature names
         exclude_ind = [i for i in range(Phi1.shape[0]) if i not in feature_index]
         mode1 = Phi1[:, i]
-       # mode1[exclude_ind, ] = 0
+        mode1[exclude_ind, ] = 0
         sorted_mode_copy = mode1  # Only top-k values
         adj1 = adj_matrix[:, :]
         adj1 = adj1[:, :]
@@ -209,7 +209,7 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
         feature_names = np.asarray(names) #[feature_index]  # Subset of feature names
         exclude_ind = [i for i in range(Phi4.shape[0]) if i not in feature_index]
         mode2 = Phi4[:, i]
-       # mode2[exclude_ind, ] = 0
+        mode2[exclude_ind, ] = 0
         sorted_mode_copy2 = mode2
         adj2 = adj_matrix[:, :]
         adj2 = adj2[:, :]

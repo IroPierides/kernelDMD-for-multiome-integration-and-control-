@@ -680,7 +680,7 @@ def linearMPC(B, C1, K1, inputs1, inputs2, Pheno1, Pheno2, n_phenos, n_controls,
         plt.tight_layout(pad=3)
             
             # Save as TIFF with RGB and 400 dpi
-        plt.savefig(f"Figure 6.eps", format='eps', dpi=600)
+        plt.savefig(f"Figure 5B.eps", format='eps', dpi=600)
         plt.close(fig1)
 
     return x_input_array, u_input_array, control_sensitivity, cd

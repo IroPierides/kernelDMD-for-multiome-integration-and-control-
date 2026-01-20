@@ -24,6 +24,8 @@ from matplotlib import rcParams
 from matplotlib import font_manager as fm
 times_font = fm.FontProperties(fname="times.ttf")
 import matplotlib 
+from scipy.linalg import solve_continuous_lyapunov as solve_lyap
+from scipy.linalg import svd, eigh, sqrtm
 
 #np.random.seed(8)  
 #os.environ["OMP_NUM_THREADS"] = "1" 
@@ -101,7 +103,6 @@ def cluster_nodes_based_on_edges(graph):
     - clustering: The clustering model used (AgglomerativeClustering or other).
     """
     
-    # Step 1: Create a feature matrix for each node based on its edges' sign and magnitude
     node_features = {}
     for node in graph.nodes:
         node_features[node] = []
@@ -111,24 +112,19 @@ def cluster_nodes_based_on_edges(graph):
             abs_weight = np.abs(weight)  # Absolute weight
             node_features[node].append([sign, abs_weight])  # Store sign and magnitude
             
-    # Step 2: Flatten the features and create a matrix
     node_features_matrix = []
     for node in graph.nodes:
         features = np.array(node_features[node]).flatten()
         node_features_matrix.append(features)
     
-    # Convert to a numpy array
     node_features_matrix = np.array(node_features_matrix)
     
-    # Step 3: Optionally, scale the feature matrix (useful for large weight ranges)
     scaler = StandardScaler()
     node_features_matrix_scaled = scaler.fit_transform(node_features_matrix)
     
-    # Step 4: Apply Agglomerative Clustering (or other algorithms)
     clustering = AgglomerativeClustering(n_clusters=3, linkage='ward')
     labels = clustering.fit_predict(node_features_matrix_scaled)
     
-    # Step 5: Return labels and clustering model
     return labels, clustering
 
 
@@ -793,9 +789,7 @@ def cross_validation(inputs, inputs_t, n_phenos, rank, Pheno, param0, param1, pa
         f.write(f'accuracy: {mean_accuracy}')
         f.write(f'accuracy outs: {mean_accuracy_outs}')
         
-import numpy as np
-from scipy.linalg import solve_continuous_lyapunov as solve_lyap
-from scipy.linalg import svd, eigh, sqrtm
+
 
 def controllability_gramian(A, B):
     return solve_lyap(A, -B @ B.T)

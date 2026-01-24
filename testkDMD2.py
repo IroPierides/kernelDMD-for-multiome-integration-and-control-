@@ -495,32 +495,32 @@ def eval_kernel(input_X1, input_X2, n_modes, input_X3, Pheno, Pheno_t, outputs, 
     
     # mode clusters figure (eigenvalues and mode amplitudes)
     col_ind1, col_ind2 = mode_clusters_fig(eVals_1=species_kernels['kernel_outputs'][0]["eVals"][0],
-                        eVals_4=species_kernels['kernel_outputs'][3]["eVals"][0],
+                        eVals_4=species_kernels['kernel_outputs'][2]["eVals"][0],
                         mode_pairs1=species_kernels['kernel_outputs'][0]["mode pairs"][0],
-                        mode_pairs4=species_kernels['kernel_outputs'][3]["mode pairs"][0],
+                        mode_pairs4=species_kernels['kernel_outputs'][2]["mode pairs"][0],
                         b_1=species_kernels['kernel_outputs'][0]["mode_amplitudes"][0],
-                        b_4=species_kernels['kernel_outputs'][3]["mode_amplitudes"][0],
+                        b_4=species_kernels['kernel_outputs'][2]["mode_amplitudes"][0],
                         label1=species_kernels["species"][0][0],
-                        label4=species_kernels["species"][0][3],
+                        label4=species_kernels["species"][0][2],
                         figlabel="sigmoid")
     
     # phenotype reconstruction figure 
     CO1_ind, CO2_ind = pheno_recons_fig(label1=species_kernels["species"][0][0], label2=species_kernels["species"][0][2], 
-                    Pheno1=Pheno[0], Pheno2=Pheno[3], 
-                    recon1=species_kernels['kernel_outputs'][0]["recon"][0], recon2=species_kernels['kernel_outputs'][3]["recon"][0], 
-                    cd1=species_kernels['kernel_outputs'][0]["cd_outs"][0], cd2=species_kernels['kernel_outputs'][3]["cd_outs"][0], 
-                    recon_modal1=species_kernels['kernel_outputs'][0]["recon_modal"][0], recon_modal2=species_kernels['kernel_outputs'][3]["recon_modal"][0],
-                    cd_modes1=species_kernels['kernel_outputs'][0]["r2_modal"][0], cd_modes2=species_kernels['kernel_outputs'][3]["r2_modal"][0], col_ind1=col_ind1, col_ind2=col_ind2)
+                    Pheno1=Pheno[0], Pheno2=Pheno[2], 
+                    recon1=species_kernels['kernel_outputs'][0]["recon"][0], recon2=species_kernels['kernel_outputs'][2]["recon"][0], 
+                    cd1=species_kernels['kernel_outputs'][0]["cd_outs"][0], cd2=species_kernels['kernel_outputs'][2]["cd_outs"][0], 
+                    recon_modal1=species_kernels['kernel_outputs'][0]["recon_modal"][0], recon_modal2=species_kernels['kernel_outputs'][2]["recon_modal"][0],
+                    cd_modes1=species_kernels['kernel_outputs'][0]["r2_modal"][0], cd_modes2=species_kernels['kernel_outputs'][2]["r2_modal"][0], col_ind1=col_ind1, col_ind2=col_ind2)
     
     
     # eigenmode consensus network
     G1, G2 = modes_heatmap(Phi1= species_kernels['kernel_outputs'][0]["modes"][0],
                 mode_pairs1=species_kernels['kernel_outputs'][0 ]["mode pairs"][0],
-                Phi4=species_kernels['kernel_outputs'][3]["modes"][0],
+                Phi4=species_kernels['kernel_outputs'][2]["modes"][0],
                 evals1 = species_kernels['kernel_outputs'][0]["eVals"][0], 
-                evals4 = species_kernels['kernel_outputs'][3]["eVals"][0], 
-                mode_pairs4=species_kernels['kernel_outputs'][3]["mode pairs"][0],
-                names=features2, adj_matrix=species_kernels['kernel_outputs'][3]["adj_matrix"][0], products=products, col_ind1=col_ind1, col_ind2=col_ind2, 
+                evals4 = species_kernels['kernel_outputs'][2]["eVals"][0], 
+                mode_pairs4=species_kernels['kernel_outputs'][2]["mode pairs"][0],
+                names=features2, adj_matrix=species_kernels['kernel_outputs'][2]["adj_matrix"][0], products=products, col_ind1=col_ind1, col_ind2=col_ind2, 
                 CO2_ind1=CO1_ind, CO2_ind2=CO2_ind)
     
     # PART 2: SYSTEM CONTROL 
@@ -528,7 +528,7 @@ def eval_kernel(input_X1, input_X2, n_modes, input_X3, Pheno, Pheno_t, outputs, 
     # System reduction via HSV ranking 
     
     important_states1, hsv1 = gramian_hsv_ranking(species_kernels['kernel_outputs'][0]["K_full"][0], species_kernels['kernel_outputs'][0]["B"][0], species_kernels['kernel_outputs'][0]["C_full"][0] , k=50)
-    important_states2, hsv2 = gramian_hsv_ranking(species_kernels['kernel_outputs'][3]["K_full"][0], species_kernels['kernel_outputs'][3]["B"][0] , species_kernels['kernel_outputs'][3]["C_full"][0] , k=50)
+    important_states2, hsv2 = gramian_hsv_ranking(species_kernels['kernel_outputs'][2]["K_full"][0], species_kernels['kernel_outputs'][2]["B"][0] , species_kernels['kernel_outputs'][2]["C_full"][0] , k=50)
 
     names = np.asarray(names)
     features = np.asarray(features)

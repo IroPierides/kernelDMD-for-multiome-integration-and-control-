@@ -24,6 +24,7 @@ from matplotlib import rcParams
 from matplotlib import font_manager as fm
 times_font = fm.FontProperties(fname="times.ttf")
 import matplotlib 
+import numpy as np
 from scipy.linalg import solve_continuous_lyapunov as solve_lyap
 from scipy.linalg import svd, eigh, sqrtm
 
@@ -57,14 +58,14 @@ def kernel_gradient(kernel, inputs, gamma, coef0, degree, gamma1, delta1, coef2,
     fixed_point = np.mean(inputs, axis=0)
     
     if kernel == "linear":
-        grad = inputs # np.tile(fixed_point, (inputs.shape[0], 1))  # ∇(x.T @ x₀) = x₀
+        grad = inputs 
         kernOut = pairwise_kernels(inputs, metric=kernel)
 
     elif kernel == "rbf":
-        centered = inputs - fixed_point  # each row minus base state
+        centered = inputs - fixed_point  
         sq_norm = np.linalg.norm(centered, axis=1) ** 2
         exp_term = np.exp(-gamma * sq_norm)
-        grad = -2 * gamma * (exp_term[:, None] * centered)  # shape: (n_samples, n_features)
+        grad = -2 * gamma * (exp_term[:, None] * centered)  
         kernOut = pairwise_kernels(inputs, metric=kernel, gamma=gamma)
 
     elif kernel == "poly":
@@ -108,9 +109,9 @@ def cluster_nodes_based_on_edges(graph):
         node_features[node] = []
         for neighbor in graph.neighbors(node):
             weight = graph[node][neighbor]['weight']
-            sign = np.sign(weight)  # +1 for positive, -1 for negative
-            abs_weight = np.abs(weight)  # Absolute weight
-            node_features[node].append([sign, abs_weight])  # Store sign and magnitude
+            sign = np.sign(weight)  
+            abs_weight = np.abs(weight)  
+            node_features[node].append([sign, abs_weight])  
             
     node_features_matrix = []
     for node in graph.nodes:
@@ -154,12 +155,12 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
     Phi1 = Phi1[:, col_ind1]
     Phi4 = Phi4[:, col_ind2]
     
-    kmax = 60 
+    kmax = 60
     kmax_inds1 = []
     for ii in range(Phi1.shape[1]):
         kmax_inds1.append(Phi1[:, ii].argsort()[-kmax:])
 
-    kmax = 60 
+    kmax = 60
     kmax_inds4 = []
     for ii in range(Phi4.shape[1]):
         kmax_inds4.append(Phi4[:, ii].argsort()[-kmax:])
@@ -180,27 +181,6 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
         df = pd.DataFrame(Phi_G1, index=feature_names, columns=feature_names)
         df.index.name = 'Target'
 
-        edges = df.reset_index().melt('Target', value_name='Weight', var_name='Source')
-        edges = edges.query('Source != Target')
-        edges['Weight'] = np.real(edges['Weight'])
-        edges['abs_weight'] = np.abs(edges['Weight'])
-
-        edges.sort_values(by="abs_weight", ascending=False).iloc[:500]
-        pathway_dict = {re.sub(r'\[.*?\]|\(.*?\)|\{.*?\}', '', str(val)).strip(): feature_labels['Pathway'].iloc[idx]
-                        for idx, val in enumerate(feature_labels['Name'])}
-        
-        product_dict = {re.sub(r'\[.*?\]|\(.*?\)|\{.*?\}', '', str(val)).strip(): feature_labels['Product'].iloc[idx]
-                        for idx, val in enumerate(feature_labels['Name'])}
-        
-        edges['Source_names'] = edges['Source']
-        edges['Target_names'] = edges['Target']
-        edges['Source_product'] = edges['Source'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(product_dict).fillna('nan')
-        edges['Target_product'] = edges['Target'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(product_dict).fillna('nan')
-        edges['Source_pathway'] = edges['Source'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(pathway_dict).fillna('nan')
-        edges['Target_pathway'] = edges['Target'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(pathway_dict).fillna('nan')
-
-        clean_string = re.sub(r'[()j]', '', str(evals1[i]))
-    
         if i in CO2_ind1:
             G1_list.append(df)
 
@@ -215,7 +195,8 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
         adj2 = adj2[:, :]
         Phi_G2 =  np.outer(sorted_mode_copy2, sorted_mode_copy2) 
         df = pd.DataFrame(Phi_G2, index=feature_names, columns=feature_names)
-        df.index.name = 'Target'        
+        df.index.name = 'Target'
+        
         if i in CO2_ind2:
             G2_list.append(df)
             
@@ -288,7 +269,7 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
         
     spectral = SpectralClustering(
     n_clusters=best_n_clusters,
-    affinity='nearest_neighbors',  # or 'rbf', or precomputed
+    affinity='nearest_neighbors',  
     n_neighbors=20,
     assign_labels='cluster_qr',
     random_state=42
@@ -335,7 +316,6 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
     with open('modes.txt', 'w') as f:
         f.write(f'modes shape: {modes.shape}')
                 
-    # Label modes in df
     df_up_new['mode_cluster'] = 'na'
     # df_up_new['eigenvalue'] = 'na'
     kmax = 90
@@ -348,7 +328,6 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
    # df_up_new['eigenvalue'] = [[] for _ in range(len(df_up_new))]
     df_up_new['eigenmode_rank'] = [[] for _ in range(len(df_up_new))]
     
-    # Append instead of overwrite
     for idx in range(modes.shape[1]):
         for rank, feature_idx in enumerate(kmax_inds_list[idx]):
             df_up_new.at[feature_idx, 'mode_cluster'].append(idx + 1)
@@ -359,7 +338,6 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
     
     df_up_new['spectral_cluster'] = clusters + 1
     
-    # take mean of timepoints for the inputs
     scaler = MinMaxScaler(feature_range=(-0.5, 0.5))
     inputs_df = pd.DataFrame(scaler.fit_transform(inputs.T[:, :12]))
     inputs_df.columns = np.repeat(['4:00', '8:00', '13:00', '19:00'], 3)
@@ -372,11 +350,9 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
     df_up_new = pd.concat((df_up_new, inputs_df), axis=1)
     df = df_up_new.set_index('feature name')
 
-    # Clean and sort
     df['mode_cluster'] = df['mode_cluster'].apply(lambda x: tuple(x) if isinstance(x, list) and x else ('unknown',))
     df_sorted = df.sort_values(by=['spectral_cluster', 'pathway'])
     
-    # Color maps
     unique_modes = pd.Series(df_sorted['mode_cluster']).drop_duplicates().tolist()
     mode_palette = sns.color_palette("tab10", len(unique_modes))
     mode_color_map = dict(zip(unique_modes, mode_palette))
@@ -385,7 +361,6 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
     pathway_palette = sns.color_palette("tab20", len(unique_pathways))
     pathway_color_map = dict(zip(unique_pathways, pathway_palette))
 
-    # Plot setup
     timepoint_cols = ['4:00', '8:00', '13:00', '19:00']
     spectral_clusters = df_sorted['spectral_cluster'].unique()
     fig = plt.figure(figsize=(5, 15))
@@ -434,29 +409,26 @@ def network_output_files(label, C, K_full, nT, inputs, modes, eVals, mode_pairs,
         handletextpad=0.4
     )
 
-    # Shared colorbar
 
-    cbar_ax = fig.add_axes([0.82, 0.91, 0.15, 0.012])  # x, y, width, height (smaller height)
+    cbar_ax = fig.add_axes([0.82, 0.91, 0.15, 0.012])  
 
     norm = plt.Normalize(vmin=df_sorted[timepoint_cols].min().min(),
                         vmax=df_sorted[timepoint_cols].max().max())
     sm = plt.cm.ScalarMappable(cmap="viridis", norm=norm)
     sm.set_array([])
 
-    # Create colorbar with small ticks and label
     cbar = fig.colorbar(sm, cax=cbar_ax, orientation='horizontal')
-    cbar.set_label('Expression level', fontsize=5)  # smaller label font
+    cbar.set_label('Expression level', fontsize=5)  
     cbar.ax.tick_params(labelsize=4)  
     fig.suptitle(
         f"{clean_filename}",
         fontsize=12,
-        y=0.98  # Adjust vertical position as needed
+        y=0.98  
     )
     plt.tight_layout(rect=[0.3, 0.05, 0.75, 0.9])
     plt.show()
     plt.savefig(f'spectral_cluster_distributions_{clean_filename}.pdf', bbox_inches='tight')
     
-    # Compute attractor depth (Jaccard index) for all modes
     attractor_info = []
     type = None
     for i, eigval in enumerate(eVals):
@@ -514,17 +486,13 @@ def gramian_hsv_ranking(A, B, C, k, tol=1e-6):
     rankings = []
     eigs = []
 
-    # Ensure symmetric Wo to avoid complex eigenvalues
     
     Wo = lyap(A.T, -C.T @ C)
-    # Use SVD on square root of Gramian product for stability
     hsv = np.sqrt(np.abs(np.linalg.eigvals(Wc @ Wo)))
 
-    # Rank with tolerance for near-equal HSVs
-    sort_indices = np.argsort(-hsv)  # descending
+    sort_indices = np.argsort(-hsv) 
     sorted_hsv = hsv[sort_indices]
 
-    # Tie-handling: avoid reordering elements with very close HSV values
     stable_rank = []
     retained_hsvs= []
     used = set()
@@ -601,7 +569,6 @@ def linearMPC(B, C1, K1, inputs1, inputs2, Pheno1, Pheno2, n_phenos, n_controls,
                     0.5 * cp.quad_form(x_inputs[:, N], np.eye(n_states) ) + \
                     0.5 * cp.quad_form(u_inputs[:, N - 1], np.eye(n_controls))  # Last step cost
 
-        # Set up the problem and solve
     prob = cp.Problem(cp.Minimize(costlist), constrlist)
     prob.solve(solver='CLARABEL', verbose=False)
 
@@ -637,13 +604,12 @@ def linearMPC(B, C1, K1, inputs1, inputs2, Pheno1, Pheno2, n_phenos, n_controls,
         rcParams['font.size'] = 12
         matplotlib.rcParams['axes.grid'] = False
 
-        # Figure size
-        my_figsize = (12, 5)  # width x height in inches
+        my_figsize = (12, 5) 
         corr_tspan = range(0, 12, 1)
 
         fig1, axs1 = plt.subplots(2, 4, figsize=my_figsize)
         fig1.patch.set_facecolor('white')
-        fig1.tight_layout(pad=2.0)  # 2-point white border
+        fig1.tight_layout(pad=2.0)  
         
         axs1 = axs1.flatten()
         
@@ -662,8 +628,7 @@ def linearMPC(B, C1, K1, inputs1, inputs2, Pheno1, Pheno2, n_phenos, n_controls,
         fig1.delaxes(axs1[7]) 
         plt.tight_layout(pad=3)
             
-            # Save as TIFF with RGB and 400 dpi
-        plt.savefig(f"Figure 5B.eps", format='eps', dpi=600)
+        plt.savefig(f"Figure 6.eps", format='eps', dpi=600)
         plt.close(fig1)
 
     return x_input_array, u_input_array, control_sensitivity, cd
@@ -772,8 +737,6 @@ def cross_validation(inputs, inputs_t, n_phenos, rank, Pheno, param0, param1, pa
         f.write(f'accuracy: {mean_accuracy}')
         f.write(f'accuracy outs: {mean_accuracy_outs}')
         
-
-
 def controllability_gramian(A, B):
     return solve_lyap(A, -B @ B.T)
 
@@ -791,7 +754,6 @@ def hsv_basis(A, B, C, tol=1e-6):
     Wc = 0.5 * (Wc + Wc.T)
     Wo = 0.5 * (Wo + Wo.T)
 
-    # Compute the balancing transform via SVD
     sqrtWo = sqrtm(Wo)
     M = sqrtWo @ Wc @ sqrtWo
     svals, Phi = eigh(M)
@@ -800,13 +762,10 @@ def hsv_basis(A, B, C, tol=1e-6):
     svals = svals[idx]
     Phi = Phi[:, idx]
     hsv = np.sqrt(np.abs(svals))
-
-    # Filter by tolerance
-    # keep = hsv > (hsv[0] * tol)
+    
     hsv = hsv[:20]
     Phi = Phi[:, :20]
 
-    # Construct balanced basis
     T = Wc @ sqrtWo @ Phi @ np.diag(1.0 / np.sqrt(hsv))
     return T, hsv
 
@@ -832,7 +791,7 @@ def system_reIdendification(inputs, inputs_t, coef, adj_matrix_kept, n_phenos, P
     U, s, V = np.linalg.svd(grad.T)
 
     energy = np.cumsum(s**2) / np.sum(s**2)
-    # Choose rank where 95% of the energy is retained
+    # Choose rank where 90% of the energy is retained
     threshold = 0.9
     rank = np.searchsorted(energy, threshold) + 1
     U = U[:, :rank]
@@ -884,7 +843,6 @@ def system_reIdendification(inputs, inputs_t, coef, adj_matrix_kept, n_phenos, P
 
     N = N[sorted_inds, :]
         
-        # keep only high singular values for nonlinear parts
     retained = np.argmax(np.cumsum(s2**2) / np.sum(s2**2) >=0.9) + 1 # choose based on 'energy' of singular values        
 
     u_manipulated = u[:, :retained] # B

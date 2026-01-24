@@ -25,7 +25,6 @@ def match_modes_by_eigenvalue_distance(eVals_1, mode_pairs1, b_1, eVals_4, mode_
     # Build cost matrix: abs(modulus difference)
     cost_matrix = np.abs(ref_eigs[:, np.newaxis] - target_eigs[np.newaxis, :])
 
-    # Solve assignment problem
     row_ind, col_ind = linear_sum_assignment(cost_matrix)
 
     # Reorder mode_pairs1 and eVals_1 based on assignment
@@ -94,29 +93,7 @@ def mode_clusters_fig(eVals_1, eVals_4, mode_pairs1, mode_pairs4, b_1, b_4, labe
     fig1, axs1 = plt.subplots(2, 4, figsize=my_figsize, sharex=False)
 
     markers = [
-    'o',  # circle
-    's',  # square
-    'd',  # diamond
-    '^',  # triangle_up
-    'v',  # triangle_down
-    '>',  # triangle_right
-    '<',  # triangle_left
-    'p',  # pentagon
-    'P',  # plus (filled)
-    '*',  # star
-    'h',  # hexagon1
-    'H',  # hexagon2
-    'X',  # x (filled)
-    'x',  # x
-    '+',  # plus
-    'D',  # thin diamond
-    '|',  # vertical line
-    '_',  # horizontal line
-    '1',  # tri_down (deprecated but usable)
-    '2',  # tri_up
-    '3',  # tri_left
-    '4',  # tri_right
-    ]
+    'o',  's',  'd',  '^',  'v',  '>', '<', 'p',  'P',  '*',  'h',  'H',  'X',  'x',  '+',  'D',  '|',  '_',  '1',   '2',  '3',  '4',  ]
     theta = np.linspace(0, 2 * np.pi, 200)
     axs1[0][0].plot(np.cos(theta), np.sin(theta), c='black', lw=1.5)
     for ii in range(len(mode_pairs1)):
@@ -156,29 +133,7 @@ def mode_clusters_fig(eVals_1, eVals_4, mode_pairs1, mode_pairs4, b_1, b_4, labe
         label.set_fontproperties(times_font)
     
     markers2 = [
-    'o-',  # circle
-    's-',  # square
-    'd-',  # diamond
-    '^-',  # triangle_up
-    'v-',  # triangle_down
-    '>-',  # triangle_right
-    '<-',  # triangle_left
-    'p-',  # pentagon
-    'P-',  # plus (filled)
-    '*-',  # star
-    'h-',  # hexagon1
-    'H-',  # hexagon2
-    'X-',  # x (filled)
-    'x-',  # x
-    '+-',  # plus
-    'D-',  # thin diamond
-    '|-',  # vertical line
-    '_-',  # horizontal line
-    '1-',  # tri_down (deprecated but usable)
-    '2-',  # tri_up
-    '3-',  # tri_left
-    '4-',  # tri_right
-    ]
+    'o-', 's-', 'd-', '^-', 'v-', '>-', '<-',  'p-', 'P-',  '*-',  'h-',  'H-',  'X-',  'x-', '+-',  'D-',  '|-', '_-', '1-', '2-', '3-',  '4-',  ]
     p = 1
     for i1 in range(1, len(mode_pairs1) + 1, 1):
         k = i1 - 1
@@ -372,7 +327,7 @@ def plot_species_barplot(df_species, ax, species_name, cmap, norm):
     ax.set_xlabel("Features", fontsize=12, fontweight="bold")
     ax.set_ylabel("Frequency", fontsize=12, fontweight="bold")
     ax.set_xticks(x_positions)
-    ax.set_xticklabels(df_sorted['Feature'], rotation=45, ha="center", fontsize=12, color='black') 
-    ax.set_title(f"Species: {species_name}", fontsize=18)
+    ax.set_xticklabels(df_sorted['Feature'], rotation=90, ha="center", fontsize=10, color='black') 
+    ax.set_title(f"{species_name}", fontsize=18)
     
    

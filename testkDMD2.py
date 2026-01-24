@@ -222,7 +222,7 @@ def process_kernel_grid_item(i, j, val, grid_row, species, features, names, prod
         U, s, V = scipy.linalg.svd(grad1.T, lapack_driver='gesvd')
         energy = np.cumsum(s**2) / np.sum(s**2)
 
-        # Choose rank where 95% of the energy is retained
+        # Choose rank where 99% of the energy is retained
         threshold = 0.99
         rank = np.searchsorted(energy, threshold) + 1
         
@@ -294,11 +294,10 @@ def process_kernel_grid_item(i, j, val, grid_row, species, features, names, prod
         Vh_r = v[:retained, :]
         u_exogenous = u[:, retained:]
 
-        exogenous_inputs = inputs # np.dot(inputs, u_exogenous)  
-        # np.dot(inputs, u_manipulated) 
+        exogenous_inputs = inputs 
         s2_man = np.maximum(s2[:retained], 1e-2) 
-        B = u_manipulated @ np.diag(s2_man)         # shape: (n_outputs, r)
-        manipulated_inputs = Vh_r # np0diag(s2_man) @ Vh_r  # inputs u from nonlinear N decomposition right singular vectors
+        B = u_manipulated @ np.diag(s2_man)        
+        manipulated_inputs = Vh_r 
         manipulated_inputs = manipulated_inputs.T
 
         K_tilde = K_tilde.value 
@@ -332,7 +331,7 @@ def process_kernel_grid_item(i, j, val, grid_row, species, features, names, prod
                 mode_pairs.append([cnt])
                 cnt += 1
         
-        clean_name = re.sub(r'[^\w\s-]', '', list(species)[j])  # Remove any non-word, non-space, and non-hyphen characters
+        clean_name = re.sub(r'[^\w\s-]', '', list(species)[j])  
         clean_name = clean_name.replace(" ", "_")
         
         kmax = 90 
@@ -622,14 +621,12 @@ def run_iteration(h, labels):
             'MFexp_prot2': MFexp_prot2
         }
 
-        # Apply column filtering based on the DataFrame name
         for name, df in dataframes.items():
             if 'trans' in name:
                 dataframes[name] = df.iloc[:, important_1]
             else:
                 dataframes[name] = df.iloc[:, important_2]
 
-        # Now you can access the modified DataFrames
         Roseasha_trans2 = dataframes['Roseasha_trans2']
         MFsha_trans2 = dataframes['MFsha_trans2']
         Roseasha_prot2 = dataframes['Roseasha_prot2']
@@ -650,7 +647,6 @@ def run_iteration(h, labels):
         Roseaexp_prot3 = sort_and_concat(Roseaexp_prot2, cam_prot_Rosea_exp)
         MFexp_prot3 = sort_and_concat(MFexp_prot2, cam_prot_MF_exp)
 
-        # Sort index for additional DataFrames if needed
         MFsha_met = MFsha_met.sort_index(axis=1)
         Roseasha_met = Roseasha_met.sort_index(axis=1)
 
@@ -722,7 +718,6 @@ def run_iteration(h, labels):
 
 
 def replicate_noise(max_iter, task_id):
-    # Initialize dataframes
     
     np.random.seed(os.getpid())
     np.random.seed(None)
@@ -737,7 +732,9 @@ def replicate_noise(max_iter, task_id):
     r2_outs = []
     red_space1 = []
     red_space2 = []
-
+    mode1 = []
+    mode2 = []
+    
     for result in results:
         grid, sensitivity_matrix, G1, G2, names, cd, red_feat_space1, red_feat_space2 = result
         grids.append(grid)
@@ -747,15 +744,13 @@ def replicate_noise(max_iter, task_id):
         r2_outs.append(cd)
         red_space1.append(red_feat_space1)
         red_space2.append(red_feat_space2)
-
+ 
     all_results = []
     
     for result_df in grids:
-        # Ensure correct data types for columns
         for column in result_df.columns:
             result_df[column] = result_df[column].apply(convert_string_to_list)
 
-        # Append the processed DataFrame to the list
         all_results.append(result_df)
     
     grids = pd.concat(all_results, ignore_index = True)
@@ -783,54 +778,49 @@ def replicate_noise(max_iter, task_id):
     names_1 = df_mean.index.to_series().str.replace(r'\([^)]*?_','(', regex=True)
     df_mean = np.array(df_mean.iloc[:, 1]).reshape(-1, 1)
     
-    # === FIGURE SIZE ===
     fig_width_in = 10     # adjust width in inches (between 6.68 and 19.05)
     fig_height_in = 25    # adjust height in inches but can scale dynamically if needed
     fig, ax = plt.subplots(figsize=(fig_width_in, fig_height_in))
     fig.patch.set_facecolor('white')
 
-    # === HEATMAP ===
     sns.heatmap(df_mean, annot=False, cmap='coolwarm', cbar=True, yticklabels=names_1, ax=ax)
 
-    # Remove x-ticks, adjust y-ticks font size
     plt.xticks([])
     plt.tick_params(axis='y', labelsize=14)  
 
-    # Adjust aspect ratio for readability
     ax.set_aspect(0.1)
     cbar = ax.collections[0].colorbar
     cbar.set_label('Sensitivity values', fontsize=14)
     # Title
   #  plt.title('Mean Sensitivity Heatmap', fontsize=12, fontproperties=times_font)
 
-    # Tight layout with 2-point white border
     plt.tight_layout(pad=3.0)
 
-    # Save as TIFF, RGB, 400 dpi
-    plt.savefig('Figure 5C.eps', format='eps', dpi=600)
+    plt.savefig('Figure 7.eps', format='eps', dpi=600)
     plt.show()
     plt.close(fig)
     
     # grouped eigenmode topologies
     G1_list = [G1 for G1_sub in G1_list for G1 in G1_sub]
     G2_list = [G2 for G2_sub in G2_list for G2 in G2_sub]
+    
     if len(G1_list) > 1 and len(G2_list) > 1:
 
         F1_freq, W1_sum = aggregate_edge_frequency(G1_list)
         
         G1_consensus = threshold_by_frequency(F1_freq, thr=0.5)
-        nodes = G1_consensus.nodes()
+            
+        nodes = names # G1_consensus.nodes()
         
         A1 = nx.to_numpy_array(G1_consensus, nodelist=sorted(G1_consensus.nodes()), weight='weight', dtype=float)
         A1 = pd.DataFrame(A1, index=names, columns=names)
         edges = A1.reset_index().melt(id_vars='index', var_name='target', value_name='weight')
         edges = edges.rename(columns={'index': 'source'})
         
-        # drop self-loops and zero-weight edges
         edges = edges[edges['weight'] != 0]
         edges = edges[edges['source'] != edges['target']]
         edges['abs_weight'] = np.abs(edges['weight'])
-        edges.sort_values(by="abs_weight", ascending=False).iloc[:500]
+        edges.sort_values(by="weight", ascending=False).iloc[:100]
         
         pathway_dict = {re.sub(r'\[.*?\]|\(.*?\)|\{.*?\}', '', str(val)).strip(): feature_labels['Pathway'].iloc[idx]
                             for idx, val in enumerate(feature_labels['Name'])}
@@ -844,17 +834,17 @@ def replicate_noise(max_iter, task_id):
 
         F2_freq, W1_sum = aggregate_edge_frequency(G2_list)
         G2_consensus = threshold_by_frequency(F2_freq, thr=0.5)
-        nodes = G2_consensus.nodes()
-        A2 = nx.to_numpy_array(G2_consensus, nodelist=sorted(G1_consensus.nodes()), weight='weight', dtype=float)
+            
+        #nodes = G2_consensus.nodes()
+        A2 = nx.to_numpy_array(G2_consensus, nodelist=sorted(G2_consensus.nodes()), weight='weight', dtype=float)
         A2 = pd.DataFrame(A2, index=names, columns=names)
         edges = A2.reset_index().melt(id_vars='index', var_name='target', value_name='weight')
         edges = edges.rename(columns={'index': 'source'})
         
-        # drop self-loops and zero-weight edges
         edges = edges[edges['weight'] != 0]
         edges = edges[edges['source'] != edges['target']]
         edges['abs_weight'] = np.abs(edges['weight'])
-        edges.sort_values(by="abs_weight", ascending=False).iloc[:500]
+        edges.sort_values(by="weight", ascending=False).iloc[:100]
         edges['Source_names'] = edges['source']
         edges['Target_names'] = edges['target']
         edges.to_csv(f'S2 Table.csv', index=False)
@@ -869,21 +859,20 @@ def replicate_noise(max_iter, task_id):
             f.write(f"r2_outs_std: {r2_std}")
             f.write(f"r2_outs_shape: {r2_outs.shape}")
     
-    # count how many times each feature appeared in every iteration after HSV data reduction 
     
     combined_df1 = pd.concat(red_space1, ignore_index=True) if red_space1 else pd.DataFrame()
     combined_df2 = pd.concat(red_space2, ignore_index=True) if red_space2 else pd.DataFrame()
     cmap = cm.Blues
     fig, axs = plt.subplots(1, 2, figsize=(25, 9))  
-    norm = plt.Normalize(vmin=0, vmax=1)  # Normalize HSV values to be between 0 and 1
+    norm = plt.Normalize(vmin=0, vmax=1) 
     plot_species_barplot(combined_df1, axs[0], r'$\it{C.\ major}$', cmap, norm)  
     plot_species_barplot(combined_df2, axs[1], r'$\it{C.\ rosea}$', cmap, norm)  
     plt.subplots_adjust(right=1)
     plt.tight_layout()
-    plt.savefig("Figure 5A.eps", dpi=400, bbox_inches="tight", facecolor="white")
+    plt.savefig("Figure 5.eps", dpi=400, bbox_inches="tight", facecolor="white")
     plt.show()
                 
     return 
 
 
-reported_grid = replicate_noise(task_id='kernel_replication_1', max_iter=100)
+reported_grid = replicate_noise(task_id='kernel_replication_1', max_iter=20)

@@ -230,7 +230,7 @@ def aggregate_edge_frequency(adj_matrices):
     F = np.zeros((N, N), dtype=float)
     W = np.zeros((N, N), dtype=float)
     for A in adj_matrices:
-        present = (np.abs(A) > np.quantile(A, 0.8))
+        present = (np.abs(A) > np.quantile(A, 0.75)) #  edges above the upper quantile are retained 
         F += present.astype(float)
         W += A  # if A is binary, this sums 1s; else sums weights
     F_freq = F / float(T)
@@ -251,9 +251,7 @@ def threshold_by_frequency(F_freq, thr=0.5):
 
 def convert_string_to_list(value):
     try:
-        # Try to evaluate the string as a Python literal (e.g., a list, tuple, etc.)
         return ast.literal_eval(value)
     except (ValueError, SyntaxError):
-        # Return the value as is if it's not a valid list-like string
         return value
 

@@ -215,24 +215,7 @@ def modes_heatmap(Phi1, mode_pairs1, Phi4, mode_pairs4, evals1, evals4, names, a
         adj2 = adj2[:, :]
         Phi_G2 =  np.outer(sorted_mode_copy2, sorted_mode_copy2) 
         df = pd.DataFrame(Phi_G2, index=feature_names, columns=feature_names)
-        df.index.name = 'Target'
-        edges = df.reset_index().melt('Target', value_name='Weight', var_name='Source')
-        edges = edges.query('Source != Target')
-        edges['Weight'] = np.real(edges['Weight'])
-        edges['abs_weight'] = np.abs(edges['Weight'])
-        edges.sort_values(by="abs_weight", ascending=False).iloc[:500]
-        edges['Source_names'] = edges['Source']
-        edges['Target_names'] = edges['Target']
-        
-        edges['Source_product'] = edges['Source'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(product_dict).fillna('nan')
-        edges['Target_product'] = edges['Target'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(product_dict).fillna('nan')
-        edges['Source_pathway'] = edges['Source'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(pathway_dict).fillna('nan')
-        edges['Target_pathway'] = edges['Target'].str.replace(r"\(.*\)", "", regex=True).str.strip().map(pathway_dict).fillna('nan')
-        
-        edges = edges.sort_values(by='abs_weight', ascending=False) #.iloc[:800, :]
-            
-        clean_string2 = re.sub(r'[()j]', '', str(evals4[i]))#
-        
+        df.index.name = 'Target'        
         if i in CO2_ind2:
             G2_list.append(df)
             

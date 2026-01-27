@@ -796,7 +796,7 @@ def replicate_noise(max_iter, task_id):
 
     plt.tight_layout(pad=3.0)
 
-    plt.savefig('Figure 7.eps', format='eps', dpi=600)
+    plt.savefig('Figure 5C.eps', format='eps', dpi=600)
     plt.show()
     plt.close(fig)
     
@@ -869,7 +869,7 @@ def replicate_noise(max_iter, task_id):
     plot_species_barplot(combined_df2, axs[1], r'$\it{C.\ rosea}$', cmap, norm)  
     plt.subplots_adjust(right=1)
     plt.tight_layout()
-    plt.savefig("Figure 5.eps", dpi=400, bbox_inches="tight", facecolor="white")
+    plt.savefig("Figure 5A.eps", dpi=400, bbox_inches="tight", facecolor="white")
     plt.show()
                 
     return 
